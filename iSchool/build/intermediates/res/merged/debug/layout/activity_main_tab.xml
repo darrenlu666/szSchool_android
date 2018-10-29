@@ -1,0 +1,67 @@
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/tabhost"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:id="@android:id/tabcontent"
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_weight="1" />
+
+        <TabWidget
+            android:id="@android:id/tabs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:visibility="gone" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/line_1" />
+
+        <RadioGroup
+            android:id="@+id/radio_group_main"
+            android:layout_width="match_parent"
+            android:layout_height="58dp"
+            android:background="#f8f8f8"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/radio_btn_home"
+                style="@style/main_tab_bottom"
+                android:background="@color/transparent"
+                android:checked="true"
+                android:drawableTop="@drawable/selector_drawable_radiobutton_bg_home"
+                android:text="首页" />
+
+            <RadioButton
+                android:id="@+id/radio_btn_inclass"
+                style="@style/main_tab_bottom"
+                android:background="@color/transparent"
+                android:drawableTop="@drawable/selector_drawable_radiobutton_bg_inclass"
+                android:text="课内" />
+
+            <RadioButton
+                android:id="@+id/radio_btn_outclass"
+                style="@style/main_tab_bottom"
+                android:background="@color/transparent"
+                android:drawableTop="@drawable/selector_drawable_radiobutton_bg_outclass"
+                android:text="课外" />
+
+            <RadioButton
+                android:id="@+id/radio_btn_mine"
+                style="@style/main_tab_bottom"
+                android:background="@color/transparent"
+                android:drawableTop="@drawable/selector_drawable_radiobutton_bg_mine"
+                android:text="我" />
+        </RadioGroup>
+    </LinearLayout>
+</TabHost>

@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <include layout="@layout/view_topbar_1" />
+
+    <TextView
+        android:id="@+id/txt_grade"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:background="#eaeaea"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:text="年级"
+        android:textColor="#7c7c80"
+        android:textSize="14sp" />
+
+    <include layout="@layout/view_loading_layout" />
+
+    <ListView
+        android:id="@+id/listview_paper"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:cacheColorHint="@color/transparent"
+        android:divider="@drawable/line_2"
+        android:fadingEdge="none"
+        android:listSelector="@drawable/selector_color_list_item_bg_1" >
+    </ListView>
+
+</LinearLayout>

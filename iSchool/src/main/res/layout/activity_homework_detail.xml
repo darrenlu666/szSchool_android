@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff" >
+
+    <LinearLayout
+        android:id="@+id/lLayout_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#f8f8f8"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/rLayout_bottom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/line_2" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="6dp"
+                android:paddingTop="6dp" >
+
+                <RelativeLayout
+                    android:id="@+id/rLayout_plus"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:layout_marginLeft="5dp" >
+
+                    <ImageView
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_centerInParent="true"
+                        android:background="@drawable/a_plus" />
+                </RelativeLayout>
+
+                <EditText
+                    android:id="@+id/edit_input_comment"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="75dp"
+                    android:layout_toRightOf="@id/rLayout_plus"
+                    android:background="@drawable/shape_rect_edittext_bg_1"
+                    android:hint="我要留言..."
+                    android:maxLines="4"
+                    android:minHeight="35dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:textSize="14sp" />
+
+                <Button
+                    android:id="@+id/btn_send_comment"
+                    android:layout_width="55dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/shape_rect_button_bg_1"
+                    android:maxHeight="70dp"
+                    android:minHeight="35dp"
+                    android:text="发送"
+                    android:textColor="#ffffff"
+                    android:textSize="14sp" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rLayout_pic"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:visibility="gone" >
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/line_2" />
+
+            <ImageView
+                android:id="@+id/img_small_pic"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:scaleType="fitXY"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/img_camera"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/img_small_pic"
+                android:background="@drawable/a_from_camera" />
+
+            <ImageView
+                android:id="@+id/img_album"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/img_camera"
+                android:background="@drawable/a_from_album" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <include
+        android:id="@+id/layout_topbar"
+        layout="@layout/view_topbar_1" />
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/layout_topbar"
+        layout="@layout/view_loading_layout" />
+
+    <ListView
+        android:id="@+id/listview_comment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/lLayout_bottom"
+        android:layout_below="@id/layout_topbar"
+        android:cacheColorHint="@color/transparent"
+        android:divider="@null"
+        android:fadingEdge="none"
+        android:listSelector="@color/transparent" >
+    </ListView>
+
+</RelativeLayout>

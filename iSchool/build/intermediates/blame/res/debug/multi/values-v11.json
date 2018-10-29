@@ -1,0 +1,1034 @@
+[
+    {
+        "outputFile": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 57,
+                        "endOffset": 70
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 520
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 525,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 945
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 950,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1373
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 899,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1378,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1799
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1327,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1804,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 2226
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2231,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 2651
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2180,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 2600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2656,
+                    "endColumn": 88,
+                    "endOffset": 2740
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2605,
+                        "endColumn": 88,
+                        "endOffset": 2689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2745,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 2986
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2694,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2991,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 3235
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2940,
+                        "endLine": 46,
+                        "endColumn": 12,
+                        "endOffset": 3184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3240,
+                    "endColumn": 100,
+                    "endOffset": 3336
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3189,
+                        "endColumn": 100,
+                        "endOffset": 3285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3341,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 3588
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3290,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 3537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3593,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 3843
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3542,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 3792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3848,
+                    "endColumn": 102,
+                    "endOffset": 3946
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3797,
+                        "endColumn": 102,
+                        "endOffset": 3895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3951,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 4199
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3900,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 4148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4204,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 4607
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4153,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 4556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4612,
+                    "endLine": 71,
+                    "endColumn": 12,
+                    "endOffset": 5027
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4561,
+                        "endLine": 70,
+                        "endColumn": 12,
+                        "endOffset": 4976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 5032,
+                    "endLine": 76,
+                    "endColumn": 12,
+                    "endOffset": 5449
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 4981,
+                        "endLine": 75,
+                        "endColumn": 12,
+                        "endOffset": 5398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 5454,
+                    "endLine": 78,
+                    "endColumn": 12,
+                    "endOffset": 5556
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 5403,
+                        "endLine": 77,
+                        "endColumn": 12,
+                        "endOffset": 5505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5561,
+                    "endLine": 80,
+                    "endColumn": 12,
+                    "endOffset": 5685
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 5510,
+                        "endLine": 79,
+                        "endColumn": 12,
+                        "endOffset": 5634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5690,
+                    "endColumn": 70,
+                    "endOffset": 5756
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 5639,
+                        "endColumn": 70,
+                        "endOffset": 5705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5761,
+                    "endColumn": 82,
+                    "endOffset": 5839
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 5710,
+                        "endColumn": 82,
+                        "endOffset": 5788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5844,
+                    "endLine": 136,
+                    "endColumn": 12,
+                    "endOffset": 9864
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 5793,
+                        "endLine": 135,
+                        "endColumn": 12,
+                        "endOffset": 9813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 9869,
+                    "endLine": 191,
+                    "endColumn": 12,
+                    "endOffset": 14032
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 9818,
+                        "endLine": 190,
+                        "endColumn": 12,
+                        "endOffset": 13981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 14037,
+                    "endColumn": 90,
+                    "endOffset": 14123
+                },
+                "from": {
+                    "file": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 4,
+                        "startOffset": 13986,
+                        "endColumn": 90,
+                        "endOffset": 14072
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 57,
+                        "endOffset": 72
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 520
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 525,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 945
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 950,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1373
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 899,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1378,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1799
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1327,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1804,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 2226
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2231,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 2651
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2180,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 2600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2656,
+                    "endColumn": 88,
+                    "endOffset": 2740
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2605,
+                        "endColumn": 88,
+                        "endOffset": 2689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2745,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 2986
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2694,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2991,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 3235
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2940,
+                        "endLine": 46,
+                        "endColumn": 12,
+                        "endOffset": 3184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3240,
+                    "endColumn": 100,
+                    "endOffset": 3336
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3189,
+                        "endColumn": 100,
+                        "endOffset": 3285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3341,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 3588
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3290,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 3537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3593,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 3843
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3542,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 3792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3848,
+                    "endColumn": 102,
+                    "endOffset": 3946
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3797,
+                        "endColumn": 102,
+                        "endOffset": 3895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3951,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 4199
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3900,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 4148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4204,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 4607
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4153,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 4556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4612,
+                    "endLine": 71,
+                    "endColumn": 12,
+                    "endOffset": 5027
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4561,
+                        "endLine": 70,
+                        "endColumn": 12,
+                        "endOffset": 4976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 5032,
+                    "endLine": 76,
+                    "endColumn": 12,
+                    "endOffset": 5449
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 4981,
+                        "endLine": 75,
+                        "endColumn": 12,
+                        "endOffset": 5398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 5454,
+                    "endLine": 78,
+                    "endColumn": 12,
+                    "endOffset": 5556
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 5403,
+                        "endLine": 77,
+                        "endColumn": 12,
+                        "endOffset": 5505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5561,
+                    "endLine": 80,
+                    "endColumn": 12,
+                    "endOffset": 5685
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 5510,
+                        "endLine": 79,
+                        "endColumn": 12,
+                        "endOffset": 5634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5690,
+                    "endColumn": 70,
+                    "endOffset": 5756
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 5639,
+                        "endColumn": 70,
+                        "endOffset": 5705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5761,
+                    "endColumn": 82,
+                    "endOffset": 5839
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 5710,
+                        "endColumn": 82,
+                        "endOffset": 5788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5844,
+                    "endLine": 136,
+                    "endColumn": 12,
+                    "endOffset": 9864
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 5793,
+                        "endLine": 135,
+                        "endColumn": 12,
+                        "endOffset": 9813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 9869,
+                    "endLine": 191,
+                    "endColumn": 12,
+                    "endOffset": 14032
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 9818,
+                        "endLine": 190,
+                        "endColumn": 12,
+                        "endOffset": 13981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 14037,
+                    "endColumn": 90,
+                    "endOffset": 14123
+                },
+                "from": {
+                    "file": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 4,
+                        "startOffset": 13986,
+                        "endColumn": 90,
+                        "endOffset": 14072
+                    }
+                }
+            }
+        ]
+    }
+]

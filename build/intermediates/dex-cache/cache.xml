@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/lib_WheelView/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4d56b66cd15bcee59d44c9cf66607998f9989a78">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/4/classes_6b482ada797be7ce4f40ec63f536982dbd87cbb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5049960df0a4b191aec165ce47af84319170f90f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ed480675de189dc648e12726652b29362f65267/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.4.1_56d5bced780c0819fecd80ada0d72c7fde8e6398/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_f3e635a22c89657236dd78fad8ae8edc56be91d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/8c0c56abca2e9fb3c03fd0c923b00f341eb5e740/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b32c2324baa75a12968b466b74064c49841a0018">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d750dda652191d36efa7a8e1f4a21185714d4b90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.trello/rxlifecycle/1.0/6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb/rxlifecycle-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/rxlifecycle-1.0_350458485bc8cb4b2493c09d43c39d97e9fcb5e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/umeng-analytics-v5.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/umeng-analytics-v5.2.4_b0cc7055de9327918d1c8f80d0029915cd2db4e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/ef6b662127f9e6232ee41863a675e9fde12cc1ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df9eaa12161a07e7fb190284cb74b3af274cb202/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-generator/3.1.0/3d20a2a6a4d79c76d5d50fa21ac6cfdcda337eb5/greendao-generator-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d20a2a6a4d79c76d5d50fa21ac6cfdcda337eb5">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-generator-3.1.0_451237c7dc9f149c514d2d5848795685b1e80f43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_1363e62c0955d0084349f275e9190af2509df310/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/02ebe2862dd2a0878b16cc9e59d92a58b3d0f3ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74eda2687f0a42b710b5d1a5a9388520ea06c7fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/FlycoTabLayout_Lib/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4744089ba76f30cbe4ee3aaa85f2b10003a11993">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/4/classes_571bec0e2e4e2a08fee4619008086b19e4a2f1c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/1e1334c5d978f75c38bd40aa28fa5bd752e891cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1cde91f25fa33559662bc89a5c3e330343284199/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/e7a0090fb34931cb51d91210cb5d86c40f2ea2cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf5e2940501f8f7b9175df6491cebb84f5690f14">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cfe4f91bb82f04156871965b74b651e45e967084/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.1.0_bed9030fe7a3754c89b704a008553a1d82e27116/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/dom4j-2.0.0-ALPHA-2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ea7d5f5d4c88d69e73a7e5fec1a3942649d510d">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/dom4j-2.0.0-ALPHA-2_21d15207ef57b87a994d84b2d187a91b4c8fc13c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_2a6a97e6de00c6b18aaa3f781ba870cd7e734f23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/jcore-android_v1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e872ea5454bca71af461e037dd07c4ca9e73dcf4">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/jcore-android_v1.1.3_1f76a614ffb8b310b4e21112ea64857530fd464b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_22bf5ff6d2fb5e8cac5bdac2a8755f820de4937c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.1/4e4cfa4adc74521d5966799fa5ab70b733552f68/rxjava-1.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e4cfa4adc74521d5966799fa5ab70b733552f68">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.2.1_6f0518efbf6c15e4dcbe5cf0464b25a3b557ee5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/257ae80cd7990c7da3f7fb96c833fdb9ded82276/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58a9e68b7432ebb4471738df3cbb3fb7b988a9ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/umeng-analytics-v5.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/umeng-analytics-v5.2.4_b0cc7055de9327918d1c8f80d0029915cd2db4e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/open_sdk_r5778_lite.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79fd7ae332bef16fcb437251182ab69cbac0a277">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/open_sdk_r5778_lite_edd3769f5b9f614c67c37346d26056cd6b68f606/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/ksoap2-android-assembly-2.4-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e8796346a9191a019e936210a2dc50662c57594b">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/ksoap2-android-assembly-2.4-jar-with-dependencies_a8f520dd607a9bd398d6926ceda424f53473ecdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/b384f82b020d2491124a713433af1c8a77440440/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="183fcbfcca75b095b63125f5e31ebd8b5f5f3216">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d23e0261fe9b38b76f953e68b16621f1e4a610f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_12bc94329eb54d8255da4ff1a02f2432caceb5d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.trello/rxlifecycle/1.0/6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb/rxlifecycle-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/rxlifecycle-1.0_350458485bc8cb4b2493c09d43c39d97e9fcb5e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-3.0.0_7d669c1341b5ece92aa88ea2a307376bbc845c8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_7cf04ec13fb74026fd7665d8817673a5e0c67c8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/adbfae466561e34ea8b687524fa79a7b9762b2fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5bf70f3683146e4875c006624543cb0a13eac91">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1066fe7a9abac5e9d2ad5fdaf9e94285795ccb91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/0f378741d54e11874ea740a842ee28e69ad62353/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5db4505b366d1bdf9c7fe858119c119236cc1c5c">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e6b9d318f03910bcbf1b50fb5ad6667b3851aa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.1.0/70d6a26bba227c2736606a5eb6edc3c15ac0ad6a/greendao-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70d6a26bba227c2736606a5eb6edc3c15ac0ad6a">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-3.1.0_f231c6dccda27d5027fb0017825f2933bafc1734/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/4968e126c25aa48d18d0334e70d830d391eb9719/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b881010e06dc39be15b7465cd16492eedbab246f">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dabbea318f9becc2823f0db342077e0534074606/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/2c1727a9b6d47a89a8abf0afb48e018169eea89e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3fba6b3c8c9430d2514d3345c0df359586155161/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/ef6b662127f9e6232ee41863a675e9fde12cc1ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df9eaa12161a07e7fb190284cb74b3af274cb202/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/1c784b4d56874cc15ffb968876a83ab19ad8dcd0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38115c69562d4087564afb177e2a971aa95a1a46">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a335b5903ee3e33d57b0504f0f4a38c3e3683afc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5049960df0a4b191aec165ce47af84319170f90f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-api/3.1.0/4669bc7c200009695ba1e990bd4eddac243a00a/greendao-api-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04669bc7c200009695ba1e990bd4eddac243a00a">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-api-3.1.0_78210defa10bc7ce6cf1218356da6c5ce58f267d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_1363e62c0955d0084349f275e9190af2509df310/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.4.1_56d5bced780c0819fecd80ada0d72c7fde8e6398/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-3.0.0_7d669c1341b5ece92aa88ea2a307376bbc845c8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_f3e635a22c89657236dd78fad8ae8edc56be91d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/ab0f38768d6064d2258936c9506881f8ab6f0403/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c77602d43223db798b1ca56cf307ab0ee3c0e63f">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34cfc96dd3d7be52472f1cfcec22b6c4eecbf699/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/ea43482cf88573ff690b4249c3ab88dab714f843/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d2d7ed8507b7990808188a907df7625d363f15c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/e7a0090fb34931cb51d91210cb5d86c40f2ea2cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf5e2940501f8f7b9175df6491cebb84f5690f14">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cfe4f91bb82f04156871965b74b651e45e967084/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/774cf3906e63036079775d8570b32a04e3517cb6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5601d8fa7eec2f2a6ef50f827717e71fbdb6e29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.1.0_bed9030fe7a3754c89b704a008553a1d82e27116/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="017030d11901291abf8f83a812984276b643ea0f">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/org.apache.http.legacy_87a5b596cf3a51402fb6990c1fe5b68107b82791/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e02f8a04e93ddc2bc46d444b505fcb5af19893a3">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_c76c9161c7c50c68f05d35a68e4a89c9353acbbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_8e8f25f7e69316e0d3c059e2e5b21fbc77825aee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_09399fc7f5c0b445a86a7d1cdb0fc70efdf954d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/jpush-android_v3.0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc50cc7009c634f3222609dae2d60d5ad888015a">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/jpush-android_v3.0.6_7cc845df71ee4e11f64acfb300cf2dc2b67d8721/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/257ae80cd7990c7da3f7fb96c833fdb9ded82276/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58a9e68b7432ebb4471738df3cbb3fb7b988a9ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/httpmime-4.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="22b4c53dd9b6761024258de8f9240c3dce6ea368">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.5.2_a39b4352aed18b50ad5f3fde5829dac1ccc8b488/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/f7be08ec23c21485b9b5a1cf1654c2ec8c58168d/jsr305-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.1_4443b19890c58b1a7ed04fe7d603a5eae361feea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/6059696c1992449802e0092c422c8394645ca58d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a756a4c9b48e556ffd4a94be59c5e725dabf1c29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.1/4e4cfa4adc74521d5966799fa5ab70b733552f68/rxjava-1.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e4cfa4adc74521d5966799fa5ab70b733552f68">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.2.1_6f0518efbf6c15e4dcbe5cf0464b25a3b557ee5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_5fa6e29404d734786a5925e80f89ec447d73bb34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_12bc94329eb54d8255da4ff1a02f2432caceb5d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_5e426d8b44e04e0852b5da95cc466cdbf71b981a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/1c784b4d56874cc15ffb968876a83ab19ad8dcd0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38115c69562d4087564afb177e2a971aa95a1a46">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a335b5903ee3e33d57b0504f0f4a38c3e3683afc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_5fa6e29404d734786a5925e80f89ec447d73bb34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/libammsdk_425e3fc336e19148bb0a2e032114badd0e82d4e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/a21aad448eaf8c308494c53703bfb62dd62145ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7261a266054f0a9f66b91432b7a6e3fc39d9769/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/b8fba45898e07df6eb2255737d38eff570c57aba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8795af3e130206443f2d5ed45f1b26067aff70dc">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_676efe7a3ee6be3222558d18783ae69ff5592ca9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/3c9e4c7973229fec14334382ebfc8948aa5cfef8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1b85e3e285d08d6efc0e3622a1043b80ce149f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/2a93ed47a523b4c1d264fe73ed6a1a6f0e35f336/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2507229e21a26fd7cea34097b7648300edeef6f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/6059696c1992449802e0092c422c8394645ca58d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a756a4c9b48e556ffd4a94be59c5e725dabf1c29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/3023e0e248351018e93826e1bc4f3808f443d26d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fceb345b9798989fd30203eab77ac7257114d1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a55e97150b9bbe7e07f61484e402b446771cfef1">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/4/classes_5ff185955f508c0bcbddb25dfbb569cd84588eb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/774cf3906e63036079775d8570b32a04e3517cb6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5601d8fa7eec2f2a6ef50f827717e71fbdb6e29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/alipaySdk-20160223.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff0f8e55a08ddd28e1fa8e94e2d8881264a5f345">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/alipaySdk-20160223_0c9cfc84d94be623f829ecb18e5de32ef0ebcb1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_8e8f25f7e69316e0d3c059e2e5b21fbc77825aee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/ea43482cf88573ff690b4249c3ab88dab714f843/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d2d7ed8507b7990808188a907df7625d363f15c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/ab0f38768d6064d2258936c9506881f8ab6f0403/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c77602d43223db798b1ca56cf307ab0ee3c0e63f">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34cfc96dd3d7be52472f1cfcec22b6c4eecbf699/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/80295944e4357ffd4bc5c8ad1ae34e85441625e0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_576811601ed07555b2890680139440783283e768/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="017030d11901291abf8f83a812984276b643ea0f">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/org.apache.http.legacy_87a5b596cf3a51402fb6990c1fe5b68107b82791/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/imageselector/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="83da68d05994ed746c5e172e36ac1900dd68be82">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/4/classes_74801c23b462d6b663c88d3ab6b2a17991990bab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/alipaySdk-20160223.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff0f8e55a08ddd28e1fa8e94e2d8881264a5f345">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/alipaySdk-20160223_0c9cfc84d94be623f829ecb18e5de32ef0ebcb1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/b7d3d5e82cb5228fb046b48de367b08d998bea08/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b77007a52e4d6b5c3231e5aa03e84ea40c290e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e02f8a04e93ddc2bc46d444b505fcb5af19893a3">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_c76c9161c7c50c68f05d35a68e4a89c9353acbbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/f7be08ec23c21485b9b5a1cf1654c2ec8c58168d/jsr305-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.1_4443b19890c58b1a7ed04fe7d603a5eae361feea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/lib_Qiniu/build/intermediates/bundles/default/libs/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="baf5ecfac959b589075a9610ee85ab0c8b762d0c">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/8/android-async-http-1.4.6_5060cd90edc44db88c4dbbe194911874c25dec33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/httpmime-4.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="22b4c53dd9b6761024258de8f9240c3dce6ea368">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.5.2_a39b4352aed18b50ad5f3fde5829dac1ccc8b488/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/org.freemarker/freemarker/2.3.23/cd143cd8c02a9f838e3cb75a6dfe133750437f6d/freemarker-2.3.23.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd143cd8c02a9f838e3cb75a6dfe133750437f6d">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/freemarker-2.3.23_6e8684259cdf676bfa900bbbb47b22bfdb62a4c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-api/3.1.0/4669bc7c200009695ba1e990bd4eddac243a00a/greendao-api-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04669bc7c200009695ba1e990bd4eddac243a00a">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-api-3.1.0_78210defa10bc7ce6cf1218356da6c5ce58f267d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/4bfd90a23b8477d535b8ffd4b35e31e95b2f589a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b17594d7921824e480ba8a7dadef72b9e33b5539/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_09399fc7f5c0b445a86a7d1cdb0fc70efdf954d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/universal-image-loader-1.9.3-with-sources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03e3948d42b8d78961a092a184af66bd86da42e6">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.3-with-sources_0660133762e97dacca97c61f5fb66aeb5c409055/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/a21aad448eaf8c308494c53703bfb62dd62145ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7261a266054f0a9f66b91432b7a6e3fc39d9769/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_5e426d8b44e04e0852b5da95cc466cdbf71b981a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/3c9e4c7973229fec14334382ebfc8948aa5cfef8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1b85e3e285d08d6efc0e3622a1043b80ce149f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/80295944e4357ffd4bc5c8ad1ae34e85441625e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_576811601ed07555b2890680139440783283e768/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ed480675de189dc648e12726652b29362f65267/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-generator/3.1.0/3d20a2a6a4d79c76d5d50fa21ac6cfdcda337eb5/greendao-generator-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d20a2a6a4d79c76d5d50fa21ac6cfdcda337eb5">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-generator-3.1.0_451237c7dc9f149c514d2d5848795685b1e80f43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/8c0c56abca2e9fb3c03fd0c923b00f341eb5e740/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b32c2324baa75a12968b466b74064c49841a0018">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d750dda652191d36efa7a8e1f4a21185714d4b90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/b8fba45898e07df6eb2255737d38eff570c57aba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8795af3e130206443f2d5ed45f1b26067aff70dc">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_676efe7a3ee6be3222558d18783ae69ff5592ca9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/b384f82b020d2491124a713433af1c8a77440440/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="183fcbfcca75b095b63125f5e31ebd8b5f5f3216">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d23e0261fe9b38b76f953e68b16621f1e4a610f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/3023e0e248351018e93826e1bc4f3808f443d26d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1fceb345b9798989fd30203eab77ac7257114d1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/2a93ed47a523b4c1d264fe73ed6a1a6f0e35f336/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2507229e21a26fd7cea34097b7648300edeef6f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/jpush-android_v3.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc50cc7009c634f3222609dae2d60d5ad888015a">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/jpush-android_v3.0.6_7cc845df71ee4e11f64acfb300cf2dc2b67d8721/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/dom4j-2.0.0-ALPHA-2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ea7d5f5d4c88d69e73a7e5fec1a3942649d510d">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/dom4j-2.0.0-ALPHA-2_21d15207ef57b87a994d84b2d187a91b4c8fc13c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_2a6a97e6de00c6b18aaa3f781ba870cd7e734f23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/libammsdk_425e3fc336e19148bb0a2e032114badd0e82d4e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/1e1334c5d978f75c38bd40aa28fa5bd752e891cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1cde91f25fa33559662bc89a5c3e330343284199/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_22bf5ff6d2fb5e8cac5bdac2a8755f820de4937c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/02ebe2862dd2a0878b16cc9e59d92a58b3d0f3ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74eda2687f0a42b710b5d1a5a9388520ea06c7fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/4bfd90a23b8477d535b8ffd4b35e31e95b2f589a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b17594d7921824e480ba8a7dadef72b9e33b5539/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/b7d3d5e82cb5228fb046b48de367b08d998bea08/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b77007a52e4d6b5c3231e5aa03e84ea40c290e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/ksoap2-android-assembly-2.4-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e8796346a9191a019e936210a2dc50662c57594b">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/ksoap2-android-assembly-2.4-jar-with-dependencies_a8f520dd607a9bd398d6926ceda424f53473ecdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/open_sdk_r5778_lite.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79fd7ae332bef16fcb437251182ab69cbac0a277">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/open_sdk_r5778_lite_edd3769f5b9f614c67c37346d26056cd6b68f606/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/lib_Qiniu/build/intermediates/bundles/default/libs/android-async-http-1.4.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="baf5ecfac959b589075a9610ee85ab0c8b762d0c">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/8/android-async-http-1.4.6_5060cd90edc44db88c4dbbe194911874c25dec33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/adbfae466561e34ea8b687524fa79a7b9762b2fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5bf70f3683146e4875c006624543cb0a13eac91">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1066fe7a9abac5e9d2ad5fdaf9e94285795ccb91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/universal-image-loader-1.9.3-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03e3948d42b8d78961a092a184af66bd86da42e6">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.3-with-sources_0660133762e97dacca97c61f5fb66aeb5c409055/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_7cf04ec13fb74026fd7665d8817673a5e0c67c8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/iSchool/libs/jcore-android_v1.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e872ea5454bca71af461e037dd07c4ca9e73dcf4">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/2/jcore-android_v1.1.3_1f76a614ffb8b310b4e21112ea64857530fd464b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/org.freemarker/freemarker/2.3.23/cd143cd8c02a9f838e3cb75a6dfe133750437f6d/freemarker-2.3.23.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd143cd8c02a9f838e3cb75a6dfe133750437f6d">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/freemarker-2.3.23_6e8684259cdf676bfa900bbbb47b22bfdb62a4c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/0f378741d54e11874ea740a842ee28e69ad62353/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5db4505b366d1bdf9c7fe858119c119236cc1c5c">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e6b9d318f03910bcbf1b50fb5ad6667b3851aa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/android/szSchool_android-master/lib_Qiniu/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="457aa0a31cac33384420c4653b832bd4da22236d">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/4/classes_16f3f7b63f767d7a8a58f63d000060c435635b86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.1.0/70d6a26bba227c2736606a5eb6edc3c15ac0ad6a/greendao-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70d6a26bba227c2736606a5eb6edc3c15ac0ad6a">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-3.1.0_f231c6dccda27d5027fb0017825f2933bafc1734/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/4968e126c25aa48d18d0334e70d830d391eb9719/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b881010e06dc39be15b7465cd16492eedbab246f">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dabbea318f9becc2823f0db342077e0534074606/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ludonghai/.android/build-cache/2c1727a9b6d47a89a8abf0afb48e018169eea89e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3fba6b3c8c9430d2514d3345c0df359586155161/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/nav" >
+
+        <LinearLayout
+            android:id="@+id/lLayout_commen_back"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:background="@drawable/refresh_selector"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="8dp"
+                android:layout_height="15dp"
+                android:background="@drawable/a_back" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="附件"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/txt_adjunct"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="附件名称"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/image_ppt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt_adjunct"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:src="@drawable/attach_ppt" />
+
+        <Button
+            android:id="@+id/button_download"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/image_ppt"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/button_anys_sace"
+            android:text="下载"
+            android:textColor="@color/white"
+            android:textSize="22dp"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/btn_open"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button_anys_sace"
+            android:layout_below="@id/button_download"
+            android:text="打开"
+            android:textColor="@color/white" 
+            android:textSize="22dp" 
+            android:visibility="gone"/>
+    </RelativeLayout>
+
+</LinearLayout>

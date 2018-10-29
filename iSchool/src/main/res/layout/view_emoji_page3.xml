@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" 
+            android:contentDescription="头痛"
+            android:onClick="sendEmojiMsg" 
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_toutong" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="偷笑"
+            android:onClick="sendEmojiMsg" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_touxiao" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+             android:contentDescription="委屈"
+            android:onClick="sendEmojiMsg" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_weiqu" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+             android:contentDescription="微笑"
+            android:onClick="sendEmojiMsg" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_weixiao" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="小骂"
+            android:onClick="sendEmojiMsg" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_xiaoma" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+             android:contentDescription="小声点"
+            android:onClick="sendEmojiMsg" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_xiaoshengdian" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+              android:contentDescription="炫金牙"
+            android:onClick="sendEmojiMsg" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_xuanjinya" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+             android:contentDescription="疑惑"
+            android:onClick="sendEmojiMsg" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_yihuo" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+              android:contentDescription="晕乎乎"
+            android:onClick="sendEmojiMsg" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_yunhuhu" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="再见"
+            android:onClick="sendEmojiMsg" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_zaijian" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+             android:contentDescription="呲牙"
+            android:onClick="sendEmojiMsg" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_ziya" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+              android:contentDescription="爱你"
+            android:onClick="sendEmojiMsg" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_aini" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+             android:contentDescription="白骨精"
+            android:onClick="sendEmojiMsg" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_baigujing" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+             android:contentDescription="抱抱"
+            android:onClick="sendEmojiMsg" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_baobao" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+              android:contentDescription="保重"
+            android:onClick="sendEmojiMsg" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_baozhong" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+             android:contentDescription="匕首"
+            android:onClick="sendEmojiMsg" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_bishou" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="菜刀"
+            android:onClick="sendEmojiMsg" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_caidao" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+             android:contentDescription="吃饭"
+            android:onClick="sendEmojiMsg" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_chifan" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+             android:contentDescription="蛋糕"
+            android:onClick="sendEmojiMsg" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_dangao" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+             android:contentDescription="凋零"
+            android:onClick="sendEmojiMsg" 
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_diaoling" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+
+        <com.dt5000.ischool.widget.FiveFourRelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:contentDescription="勾引"
+            android:gravity="center"
+            android:onClick="sendEmojiMsg" >
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:background="@drawable/em_gouyin" />
+        </com.dt5000.ischool.widget.FiveFourRelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

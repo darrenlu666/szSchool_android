@@ -1,0 +1,120 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From ISchool:
+* proguard-project.txt
+From Lib_WheelView:
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:23.4.0
+android-support-v7-appcompat.jar => com.android.support:appcompat-v7:23.4.0
+gson-2.8.0.jar => com.google.code.gson:gson:2.8.0
+
+Potentially Missing Dependency:
+-------------------------------
+When we replaced the following .jar files with a Gradle dependency, we
+inferred the dependency version number from the filename. This
+specific version may not actually be available from the repository.
+If you get a build error stating that the dependency is missing, edit
+the version number to for example "+" to pick up the latest version
+instead. (This may require you to update your code if the library APIs
+have changed.)
+
+gson-2.8.0.jar => version 2.8.0 in com.google.code.gson:gson:2.8.0
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+android-support-v7-appcompat => [com.android.support:appcompat-v7:23.4.0]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In Lib_Qiniu:
+* AndroidManifest.xml => lib_Qiniu\src\main\AndroidManifest.xml
+* assets\ => lib_Qiniu\src\main\assets
+* java\ => lib_Qiniu\src\main\java\
+* libs\android-async-http-1.4.6.jar => lib_Qiniu\libs\android-async-http-1.4.6.jar
+* res\ => lib_Qiniu\src\main\res\
+* src\ => lib_Qiniu\src\main\java\
+In Lib_WheelView:
+* AndroidManifest.xml => lib_WheelView\src\main\AndroidManifest.xml
+* assets\ => lib_WheelView\src\main\assets
+* java\ => lib_WheelView\src\main\java\
+* libs\nineoldandroids-2.4.0.jar => lib_WheelView\libs\nineoldandroids-2.4.0.jar
+* res\ => lib_WheelView\src\main\res\
+* src\ => lib_WheelView\src\main\java\
+In ISchool:
+* AndroidManifest.xml => iSchool\src\main\AndroidManifest.xml
+* assets\ => iSchool\src\main\assets
+* libs\alipaySdk-20160223.jar => iSchool\libs\alipaySdk-20160223.jar
+* libs\arm64-v8a\libjcore100.so => iSchool\src\main\jniLibs\arm64-v8a\libjcore100.so
+* libs\armeabi-v7a\libjcore100.so => iSchool\src\main\jniLibs\armeabi-v7a\libjcore100.so
+* libs\armeabi\libjcore100.so => iSchool\src\main\jniLibs\armeabi\libjcore100.so
+* libs\dom4j-2.0.0-ALPHA-2.jar => iSchool\libs\dom4j-2.0.0-ALPHA-2.jar
+* libs\httpmime-4.5.2.jar => iSchool\libs\httpmime-4.5.2.jar
+* libs\jcore-android_v1.0.0.jar => iSchool\libs\jcore-android_v1.0.0.jar
+* libs\jpush-android_v3.0.0.jar => iSchool\libs\jpush-android_v3.0.0.jar
+* libs\ksoap2-android-assembly-2.4-jar-with-dependencies.jar => iSchool\libs\ksoap2-android-assembly-2.4-jar-with-dependencies.jar
+* libs\libammsdk.jar => iSchool\libs\libammsdk.jar
+* libs\mips64\libjcore100.so => iSchool\src\main\jniLibs\mips64\libjcore100.so
+* libs\mips\libjcore100.so => iSchool\src\main\jniLibs\mips\libjcore100.so
+* libs\nineoldandroids-2.4.0.jar => iSchool\libs\nineoldandroids-2.4.0.jar
+* libs\open_sdk_r5778_lite.jar => iSchool\libs\open_sdk_r5778_lite.jar
+* libs\org.apache.http.legacy.jar => iSchool\libs\org.apache.http.legacy.jar
+* libs\umeng-analytics-v5.2.4.jar => iSchool\libs\umeng-analytics-v5.2.4.jar
+* libs\universal-image-loader-1.9.3-with-sources.jar => iSchool\libs\universal-image-loader-1.9.3-with-sources.jar
+* libs\x86\libjcore100.so => iSchool\src\main\jniLibs\x86\libjcore100.so
+* libs\x86_64\libjcore100.so => iSchool\src\main\jniLibs\x86_64\libjcore100.so
+* res\ => iSchool\src\main\res\
+* src\ => iSchool\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

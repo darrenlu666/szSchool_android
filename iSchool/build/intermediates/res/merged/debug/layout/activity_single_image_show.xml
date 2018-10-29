@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black" >
+
+    <com.dt5000.ischool.widget.photoview.PhotoView
+        android:id="@+id/img"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp" >
+
+        <LinearLayout
+            android:id="@+id/lLayout_back"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="10dp"
+                android:layout_height="17dp"
+                android:background="@drawable/a_back" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/lLayout_download_pic"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:gravity="center" >
+
+            <ImageView
+                android:layout_width="22dp"
+                android:layout_height="22dp"
+                android:background="@drawable/pic_download" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</FrameLayout>

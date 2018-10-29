@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/rLayout_set_class"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/selector_color_list_item_bg_1" >
+
+        <TextView
+            android:id="@+id/txt_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:singleLine="true"
+            android:text="某某2班"
+            android:textColor="@color/common_text_black"
+            android:textSize="16sp" />
+
+        <CheckBox
+            android:id="@+id/checkBox_permission"
+            android:layout_width="21dp"
+            android:layout_height="14dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/selector_drawable_checkbox_choose_class"
+            android:button="@null"
+            android:checked="true"
+            android:focusable="false"
+            android:clickable="false" />
+    </RelativeLayout>
+
+</LinearLayout>

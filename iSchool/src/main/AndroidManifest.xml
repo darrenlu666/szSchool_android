@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.dt5000.ischool"
+    android:versionCode="55"
+    android:versionName="2.2.0">
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="23" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true" />
+
+    <!-- 极光推送permission定义 -->
+    <permission
+        android:name="com.dt5000.ischool.permission.JPUSH_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <!-- 系统权限设置 -->
+    <uses-permission android:name="com.dt5000.ischool.permission.JPUSH_MESSAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.ACCESS_DOWNLOAD_MANAGER" />
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:name=".MainApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        tools:replace="android:label">
+
+        <!-- =======Activity页面，start======= -->
+        <!-- 欢迎页面 -->
+        <activity
+            android:name=".activity.WelcomeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/GnEmptyTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- 登录页面 -->
+        <activity
+            android:name=".activity.LoginActivity"
+            android:screenOrientation="portrait" />
+        <!-- 主页面 -->
+        <activity
+            android:name=".activity.MainTabActivity"
+            android:screenOrientation="portrait" />
+        <!-- 首页 -->
+        <activity
+            android:name=".activity.HomeActivity"
+            android:screenOrientation="portrait" />
+        <!-- 课内页面 -->
+        <activity
+            android:name=".activity.InclassActivity"
+            android:screenOrientation="portrait" />
+        <!-- 课外页面 -->
+        <activity
+            android:name=".activity.OutclassActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我页面 -->
+        <activity
+            android:name=".activity.MineActivity"
+            android:screenOrientation="portrait" />
+        <!-- 意见反馈页面 -->
+        <activity
+            android:name=".activity.FeedbackActivity"
+            android:screenOrientation="portrait" />
+        <!-- 帮助页面 -->
+        <activity
+            android:name=".activity.HelpActivity"
+            android:screenOrientation="portrait" />
+        <!-- 版本说明页面 -->
+        <activity
+            android:name=".activity.AboutActivity"
+            android:screenOrientation="portrait" />
+        <!-- 轮播详情页面 -->
+        <activity
+            android:name=".activity.BannerDetailActivity"
+            android:screenOrientation="portrait" />
+        <!-- 作业列表页面：学生端 -->
+        <activity
+            android:name=".activity.student.HomeworkListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 作业列表页面：教师端 -->
+        <activity
+            android:name=".activity.teacher.HomeworkListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.teacher.GroupWorkListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.teacher.GroupHomeworkListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.teacher.GroupHomeworkAddActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.teacher.GroupHomeworkDetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.teacher.HomeworkAddChooseGroupActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- 作业详情页面：学生端 -->
+        <activity
+            android:name=".activity.student.HomeworkDetailActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <!-- 作业详情页面：教师端 -->
+        <activity
+            android:name=".activity.teacher.HomeworkDetailActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <!-- 个人信息页面 -->
+        <activity
+            android:name=".activity.PersonalActivity"
+            android:screenOrientation="portrait" />
+        <!-- 消息提醒页面 -->
+        <activity
+            android:name=".activity.NoticeSetActivity"
+            android:screenOrientation="portrait" />
+        <!-- 单图片展示页面 -->
+        <activity
+            android:name=".activity.SingleImageShowActivity"
+            android:screenOrientation="portrait" />
+        <!-- 设置页面 -->
+        <activity
+            android:name=".activity.SettingActivity"
+            android:screenOrientation="portrait" />
+        <!-- 修改密码页面 -->
+        <activity
+            android:name=".activity.ModPasswordActivity"
+            android:screenOrientation="portrait" />
+        <!-- 免打扰设置页面 -->
+        <activity
+            android:name=".activity.DisturbSetActivity"
+            android:screenOrientation="portrait" />
+        <!-- 软件更新页面 -->
+        <activity
+            android:name=".activity.UpdateActivity"
+            android:screenOrientation="portrait" />
+        <!-- 校园公告列表页面 -->
+        <activity
+            android:name=".activity.SchoolAnnouncementListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 校园公告详情页面 -->
+        <activity
+            android:name=".activity.SchoolAnnouncementDetailActivity"
+            android:screenOrientation="portrait" />
+        <!-- 育儿经列表页面 -->
+        <activity
+            android:name=".activity.ChildrenListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 育儿经收藏列表页面 -->
+        <activity
+            android:name=".activity.ChildrenCollectListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 育儿经详情页面 -->
+        <activity
+            android:name=".activity.ChildrenDetailActivity"
+            android:screenOrientation="portrait" />
+        <!-- 教育资讯列表页面 -->
+        <activity
+            android:name=".activity.EducationListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 教育资讯详情页面 -->
+        <activity
+            android:name=".activity.EducationDetailActivity"
+            android:screenOrientation="portrait" />
+        <!-- 点点GO页面 -->
+        <activity
+            android:name=".activity.DianDianGoActivity"
+            android:screenOrientation="portrait" />
+        <!-- 食谱列表页面 -->
+        <activity
+            android:name=".activity.FoodListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 食谱详情页面 -->
+        <activity
+            android:name=".activity.FoodDetailActivity"
+            android:screenOrientation="portrait" />
+        <!-- 问卷调查页面 -->
+        <activity
+            android:name=".activity.QuestionSurveyActivity"
+            android:screenOrientation="portrait" />
+        <!-- 博客列表页面 -->
+        <activity
+            android:name=".activity.BlogListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 查看博客前选择班级列表页面：教师端 -->
+        <activity
+            android:name=".activity.teacher.BlogClassListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 新增博客页面 -->
+        <activity
+            android:name=".activity.BlogAddActivity"
+            android:screenOrientation="portrait" />
+        <!-- 博客图片浏览页面 -->
+        <activity
+            android:name=".activity.BlogPicPagerActivity"
+            android:screenOrientation="portrait" />
+        <!-- 新增博客时选择手机本地图片页面 -->
+        <activity
+            android:name=".activity.BlogAddChoosePicActivity"
+            android:screenOrientation="portrait" />
+        <!-- 日记列表页面 -->
+        <activity
+            android:name=".activity.DiaryListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 日记详情页面 -->
+        <activity
+            android:name=".activity.DiaryDetailActivity"
+            android:screenOrientation="portrait" />
+        <!-- 查看日记前选择班级列表页面：教师端 -->
+        <activity
+            android:name=".activity.teacher.DiaryClassListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 日记图片附件浏览页面 -->
+        <activity
+            android:name=".activity.DiaryPicPagerListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 日记附件列表页面 -->
+        <activity
+            android:name=".activity.DiaryAttachListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 课程表页面 -->
+        <activity
+            android:name=".activity.LessonTableActivity"
+            android:screenOrientation="portrait" />
+        <!-- 课程表备用页面：无功能 -->
+        <activity
+            android:name=".activity.LessonTableNoUseActivity"
+            android:screenOrientation="portrait" />
+        <!-- 查看课程表前选择班级列表页面：教师端 -->
+        <activity
+            android:name=".activity.teacher.LessonTableClassListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 班级相册列表页面 -->
+        <activity
+            android:name=".activity.AlbumListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 班级相册备用页面：无功能 -->
+        <activity
+            android:name=".activity.AlbumListNoUseActivity"
+            android:screenOrientation="portrait" />
+        <!-- 添加班级相册页面 -->
+        <activity
+            android:name=".activity.AlbumAddActivity"
+            android:screenOrientation="portrait" />
+        <!-- 班级相册上传图片页面 -->
+        <activity
+            android:name=".activity.AlbumPicAddGridListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 班级相册图片列表页面 -->
+        <activity
+            android:name=".activity.AlbumPicGridListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 班级相册图片浏览页面 -->
+        <activity
+            android:name=".activity.AlbumPicPagerListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 单科作业列表页面：学生端 -->
+        <activity
+            android:name=".activity.student.HomeworkSubjectListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 作业附件列表页面 -->
+        <activity
+            android:name=".activity.HomeworkAttachListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 自主学习科目列表页面：学生端 -->
+        <activity
+            android:name=".activity.student.StudySubjectListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 自主学习选择学习方式页面：学生端 -->
+        <activity
+            android:name=".activity.student.StudyChooseActivity"
+            android:screenOrientation="portrait" />
+        <!-- 自主学习自测评估试题页面：学生端 -->
+        <activity
+            android:name=".activity.student.StudyTestingActivity"
+            android:screenOrientation="portrait" />
+        <!-- 自主学习自测评估结果页面：学生端 -->
+        <activity
+            android:name=".activity.student.StudyTestingResultActivity"
+            android:screenOrientation="portrait" />
+        <!-- 自主学习自测评估解析页面：学生端 -->
+        <activity
+            android:name=".activity.student.StudyTestingAnalysisActivity"
+            android:screenOrientation="portrait" />
+        <!-- 自主学习自测评估解析答案页面：学生端 -->
+        <activity
+            android:name=".activity.student.StudyTestingAnalysisAnswerActivity"
+            android:screenOrientation="portrait" />
+        <!-- 自主学习自测评估试卷列表页面：学生端 -->
+        <activity
+            android:name=".activity.student.StudyPaperListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 自主学习自测评估做题记录列表页面：学生端 -->
+        <activity
+            android:name=".activity.student.StudyTestingRecordListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 成绩列表页面：学生端 -->
+        <activity
+            android:name=".activity.student.ScoreListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 自主学习同步课堂列表页面：学生端 -->
+        <activity
+            android:name=".activity.student.StudyClassroomListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 成绩饼图页面 -->
+        <activity
+            android:name=".activity.ScorePieActivity"
+            android:screenOrientation="portrait" />
+        <!-- 自主学习同步练习页面：学生端 -->
+        <activity
+            android:name=".activity.student.StudyPracticeActivity"
+            android:screenOrientation="portrait" />
+        <!-- 视频播放页面 -->
+        <activity
+            android:name=".activity.PlayVideoActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="sensor" />
+        <!-- 自主学习同步练习答案解析页面：学生端 -->
+        <activity
+            android:name=".activity.student.StudyPracticeExplainActivity"
+            android:screenOrientation="portrait" />
+        <!-- 我的收藏页面：学生端 -->
+        <activity
+            android:name=".activity.student.CollectChooseActivity"
+            android:screenOrientation="portrait" />
+        <!-- 自主学习自测评估试题收藏列表页面：学生端 -->
+        <activity
+            android:name=".activity.student.StudyTestingCollectListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 自主学习自测评估收藏试题的解析页面：学生端 -->
+        <activity
+            android:name=".activity.student.StudyTestingCollectAnalysisActivity"
+            android:screenOrientation="portrait" />
+        <!-- 个人消息列表页面：学生端 -->
+        <activity
+            android:name=".activity.student.MsgListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 班级聊天列表页面 -->
+        <activity
+            android:name=".activity.ClassMsgTalkListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 群组列表页面 -->
+        <activity
+            android:name=".activity.GroupMsgListActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- 群组聊天列表页面 -->
+        <activity
+            android:name=".activity.GroupMsgTalkListActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- 通讯录列表页面 -->
+        <activity
+            android:name=".activity.ContactListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 个人聊天列表页面 -->
+        <activity
+            android:name=".activity.MsgTalkListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 成绩查询选择查询方式页面：学生端 -->
+        <activity
+            android:name=".activity.student.ScoreActivity"
+            android:screenOrientation="portrait" />
+        <!-- 本学期成绩曲线页面：学生端 -->
+        <activity
+            android:name=".activity.student.ScoreLineActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" />
+        <!-- VIP支付方式选择界面：学生端 -->
+        <activity
+            android:name=".activity.student.VipPayChooseActivity"
+            android:screenOrientation="portrait" />
+        <!-- VIP支付免责声明页面：学生端 -->
+        <activity
+            android:name=".activity.student.VipPayDisclaimerActivity"
+            android:screenOrientation="portrait" />
+        <!-- VIP套餐列表页面：学生端 -->
+        <activity
+            android:name=".activity.student.VipPaySpeciesListActivity"
+            android:screenOrientation="portrait" />
+        <!-- VIP支付页面：学生端 -->
+        <activity
+            android:name=".activity.student.VipPayMoneyActivity"
+            android:screenOrientation="portrait" />
+        <!-- VIP信息页面：学生端 -->
+        <activity
+            android:name=".activity.student.VipInfoActivity"
+            android:screenOrientation="portrait" />
+        <!-- 个人消息列表页面：教师端 -->
+        <activity
+            android:name=".activity.teacher.MsgListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 班级消息列表页面：教师端 -->
+        <activity
+            android:name=".activity.teacher.ClassMsgListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 查看作业前选择班级列表页面：教师端 -->
+        <activity
+            android:name=".activity.teacher.HomeworkClassListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 群发消息联系人列表页面：教师端 -->
+        <activity
+            android:name=".activity.teacher.MassSendContactListActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <!-- 成绩查询选择学生列表页面：教师端 -->
+        <activity
+            android:name=".activity.teacher.ScoreChooseListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 成绩列表界面：教师端 -->
+        <activity
+            android:name=".activity.teacher.ScoreListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 发布班级作业页面：教师端 -->
+        <activity
+            android:name=".activity.teacher.HomeworkAddActivity"
+            android:screenOrientation="portrait" />
+        <!-- 发布作业时选择科目页面：教师端 -->
+        <activity
+            android:name=".activity.teacher.HomeworkAddChooseSubjectActivity"
+            android:screenOrientation="portrait" />
+        <!-- 发布作业时选择班级页面：教师端 -->
+        <activity
+            android:name=".activity.teacher.HomeworkAddChooseClassActivity"
+            android:screenOrientation="portrait" />
+        <!-- 发布作业时选择截止时间页面：教师端 -->
+        <activity
+            android:name=".activity.teacher.HomeworkAddChooseTimeActivity"
+            android:screenOrientation="portrait" />
+        <!-- 考勤列表页面：学生端 -->
+        <activity
+            android:name=".activity.student.AttendanceListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 考勤照片页面：学生端 -->
+        <activity
+            android:name=".activity.student.AttendancePictureActivity"
+            android:screenOrientation="portrait" />
+        <!-- 考勤请假单列表页面：学生端 -->
+        <activity
+            android:name=".activity.student.AttendanceVacateListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 考勤请假单编辑页面：学生端 -->
+        <activity
+            android:name=".activity.student.AttendanceVacateEditActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <!-- 考勤选择班级列表页面：教师端 -->
+        <activity
+            android:name=".activity.teacher.AttendanceClassListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 考勤列表页面：教师端 -->
+        <activity
+            android:name=".activity.teacher.AttendancePageListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 考勤照片列表页面：教师端 -->
+        <activity
+            android:name=".activity.teacher.AttendancePictureGridListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 考勤请假单列表页面：教师端 -->
+        <activity
+            android:name=".activity.teacher.AttendanceVacateListActivity"
+            android:screenOrientation="portrait" />
+        <!-- 考勤请假单编辑页面：教师端 -->
+        <activity
+            android:name=".activity.teacher.AttendanceVacateEditActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <!-- 考勤请假单选择时间页面 -->
+        <activity
+            android:name=".activity.AttendanceVacateChooseTimeActivity"
+            android:screenOrientation="portrait" />
+        <!-- 接收微信返回结果页面 -->
+        <activity
+            android:name=".wxapi.WXEntryActivity"
+            android:exported="true"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!-- =======Activity页面，end======= -->
+
+
+        <!-- =======Service注册，start======= -->
+        <!-- 接收到推送通知后启动的服务 -->
+        <service
+            android:name=".service.NoticeService"
+            android:enabled="true">
+            <intent-filter>
+                <action android:name="com.dt5000.ischool.service.NoticeService" />
+            </intent-filter>
+        </service>
+        <!-- =======Service注册，end======= -->
+
+
+        <!-- =======极光推送集成，start======== -->
+        <activity
+            android:name="cn.jpush.android.ui.PopWinActivity"
+            android:exported="false"
+            android:theme="@style/AlertDialog.AppCompat" />
+
+        <!-- Required SDK核心功能 -->
+        <activity
+            android:name="cn.jpush.android.ui.PushActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:exported="false"
+            android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="cn.jpush.android.ui.PushActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="com.dt5000.ischool" />
+            </intent-filter>
+        </activity>
+
+        <!-- Required SDK核心功能 -->
+        <service
+            android:name="cn.jpush.android.service.DownloadService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <!-- Required SDK 核心功能 -->
+        <!-- 可配置android:process参数将PushService放在其他进程中 -->
+        <service
+            android:name="cn.jpush.android.service.PushService"
+            android:process=":mult">
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTER" />
+                <action android:name="cn.jpush.android.intent.REPORT" />
+                <action android:name="cn.jpush.android.intent.PushService" />
+                <action android:name="cn.jpush.android.intent.PUSH_TIME" />
+            </intent-filter>
+        </service>
+
+        <!-- since 1.8.0 option 可选项。用于同一设备中不同应用的JPush服务相互拉起的功能。 -->
+        <!-- 若不启用该功能可删除该组件，将不拉起其他应用也不能被其他应用拉起 -->
+        <service
+            android:name="cn.jpush.android.service.DaemonService"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.DaemonService" />
+
+                <category android:name="com.dt5000.ischool" />
+            </intent-filter>
+        </service>
+
+        <!-- Required SDK核心功能 -->
+        <receiver
+            android:name="cn.jpush.android.service.PushReceiver"
+            android:enabled="true">
+            <intent-filter android:priority="1000">
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY" />
+
+                <category android:name="com.dt5000.ischool" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <!-- Optional -->
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Required SDK核心功能 -->
+        <receiver
+            android:name="cn.jpush.android.service.AlarmReceiver"
+            android:exported="false" />
+
+        <!-- app自定义的广播接收器 -->
+        <receiver
+            android:name=".receiver.MyJPushReceiver"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+
+                <!-- Required  用户注册SDK的intent -->
+                <action android:name="cn.jpush.android.intent.REGISTRATION" />
+                <!-- Required  用户接收SDK消息的intent -->
+                <action android:name="cn.jpush.android.intent.MESSAGE_RECEIVED" />
+                <!-- Required  用户接收SDK通知栏信息的intent -->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED" />
+                <!-- Required  用户打开自定义通知栏的intent -->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_OPENED" />
+                <!-- 接收网络变化 连接/断开 since 1.6.3 -->
+                <action android:name="cn.jpush.android.intent.CONNECTION" />
+
+                <category android:name="com.dt5000.ischool" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Required JPUSH_CHANNEL是为了方便开发者统计APK分发渠道 -->
+        <meta-data
+            android:name="JPUSH_CHANNEL"
+            android:value="developer-test" />
+
+        <!-- 极光推送开发者平台取得的AppKey -->
+        <meta-data
+            android:name="JPUSH_APPKEY"
+            android:value="cd591bafef356375ab14dab4" />
+        <!-- =======极光推送集成，end======== -->
+
+
+        <!-- =======友盟统计集成，start======= -->
+        <!-- 友盟key -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="54716d6afd98c5203b000365" />
+
+        <!-- 友盟CHANNEL -->
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="android_test" />
+        <!-- =======友盟统计集成，end======= -->
+
+
+        <!-- =======QQ分享集成，start======= -->
+        <activity
+            android:name="com.tencent.tauth.AuthActivity"
+            android:launchMode="singleTask"
+            android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="tencent1104673429" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tencent.connect.common.AssistActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="behind"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!-- =======QQ分享集成，end======= -->
+
+
+        <!-- 支付宝集成 -->
+        <activity
+            android:name="com.alipay.sdk.app.H5PayActivity"
+            android:configChanges="orientation|keyboardHidden|navigation|screenSize"
+            android:exported="false"
+            android:screenOrientation="behind"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.dt5000.ischool.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+        <activity android:name=".activity.student.SwtichUserAcitivity" />
+        <activity android:name=".activity.student.AddRelevancyUserAcitivity" />
+        <activity android:name=".activity.ChangePhoneAcitivity" />
+        //images
+        <activity
+            android:name="com.donkingliang.imageselector.ImageSelectorActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.donkingliang.imageselector.PreviewActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.donkingliang.imageselector.ClipImageActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name=".activity.teacher.Group_Send_List_Activity" />
+        <activity android:name=".activity.student.WxPayActivity"></activity>
+    </application>
+
+</manifest>

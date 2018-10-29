@@ -1,0 +1,1678 @@
+[
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_person.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_person.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/share_qzone.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/share_qzone.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_right.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_right.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_next_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\test_next_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_video_pause_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/btn_video_pause_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/design_ic_visibility_off.png",
+        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/drawable-hdpi-v4/design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_attendance.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_attendance.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_arrow_1.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_arrow_1.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/test_post_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/test_post_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_comment_send.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\button_comment_send.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_score.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_score.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_contact.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_contact.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/choose.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/choose.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\inclass_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\inclass_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_lo_bg.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pic_lo_bg.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_exam_media_stop.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/ic_exam_media_stop.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_wx_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\share_wx_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pull_to_refresh_listview_arrow.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pull_to_refresh_listview_arrow.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_select.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\tab_select.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_score.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_score.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/test_next_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/test_next_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/test_next_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/test_next_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_collect.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_collect.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_video_seekbar_bt_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\btn_video_seekbar_bt_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_next_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\test_next_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/inclass_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/inclass_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\home_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_video_seekbar_bt_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/btn_video_seekbar_bt_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/share_qq.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/share_qq.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_del.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_del.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pj_yuwen.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pj_yuwen.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_download.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pic_download.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_recording.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/ic_recording.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\inclass_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\inclass_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\forward.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\forward.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/refresh2.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/refresh2.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pj_xinxi.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pj_xinxi.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_paper_submit.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_paper_submit.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_level_liang.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_level_liang.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/test_collect_mormal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/test_collect_mormal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_post_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\test_post_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_homework.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_homework.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/test_collect_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/test_collect_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/share_wx_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/share_wx_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_level_yue.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_level_yue.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pj_dili.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pj_dili.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_word.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\attach_word.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pj_zhengzhi.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pj_zhengzhi.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_praise_checked.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_praise_checked.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_collect_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\test_collect_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pj_zhonghe.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pj_zhonghe.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_to_classroom.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_to_classroom.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_wx.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\share_wx.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_question.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_question.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\read.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\read.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/hook_1.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/hook_1.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_praise_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_praise_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pj_meishu.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pj_meishu.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_ddg.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_ddg.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pj_dili.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pj_dili.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_daily.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_daily.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_face.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_face.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pic_team.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pic_team.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pj_zhonghe.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pj_zhonghe.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/test_pre_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/test_pre_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/share_qzone_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/share_qzone_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_educ.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_educ.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/outclass_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/outclass_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_click.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\share_click.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/arrow_right_1.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/arrow_right_1.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_album.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_album.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/home_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_attendance.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_attendance.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mine_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\mine_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/dashed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/dashed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pj_tiyu.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pj_tiyu.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_video_toportrait_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\btn_video_toportrait_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pj_yinyue.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pj_yinyue.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_doc_attach.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_doc_attach.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_daily.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_daily.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\outclass_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\outclass_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_back.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_back.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\outclass_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\outclass_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pj_shuxue.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pj_shuxue.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_from_camera.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_from_camera.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_paper_collect.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_paper_collect.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pic_lo_bg.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pic_lo_bg.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_paper_submit.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_paper_submit.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_album.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_album.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcomebg.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\welcomebg.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_checkbox_off.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_checkbox_off.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_praise_checked.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_praise_checked.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_praise_show.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_praise_show.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/test_anys_press.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/test_anys_press.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_anys_sace.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\button_anys_sace.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_pic_attach.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_pic_attach.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/share_pyq_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/share_pyq_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_album.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_album.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_video_toportrait_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\btn_video_toportrait_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_choose.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pic_choose.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hook_1.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\hook_1.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_pic_more.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_pic_more.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_to_classroom.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_to_classroom.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_transbg.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_transbg.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/test_pre_press.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/test_pre_press.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/test_anys_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/test_anys_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_praise_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_praise_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pj_shuxue.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pj_shuxue.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_on.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\btn_on.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_arrow_2.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_arrow_2.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_comment.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_comment.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_blog.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_blog.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_from_camera.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_from_camera.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_phone.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_phone.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/teachers.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/teachers.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\nav.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow_left_1.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\arrow_left_1.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_swipe.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_swipe.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_checkbox_on.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_checkbox_on.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_anys_sace.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/button_anys_sace.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_video_play_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/btn_video_play_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_blog.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_blog.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_question.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_question.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_video_play_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\btn_video_play_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_from_album.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_from_album.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/inclass_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/inclass_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pic_class.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pic_class.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_checkbox_off.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_checkbox_off.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_video_seekbar_bt_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/btn_video_seekbar_bt_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_anys_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\test_anys_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_to_video.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_to_video.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dashed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\dashed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/attach_ppt.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/attach_ppt.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\design_ic_visibility.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pj_huaxue.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pj_huaxue.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pj_qita.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pj_qita.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_correct.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_correct.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pj_zhengzhi.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pj_zhengzhi.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_head.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_head.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/half_tran_bg.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/half_tran_bg.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_paper_previous.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_paper_previous.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_video_toland_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\btn_video_toland_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_to_exam.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_to_exam.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/attach_word.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/attach_word.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_set.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_set.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_lesson.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_lesson.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/camera_flip.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/camera_flip.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/nav.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/nav.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/share_click.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/share_click.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_plus.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_plus.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_pie.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_pie.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pj_qita.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pj_qita.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_pie.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_pie.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_msg.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_msg.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_swipe.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_swipe.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_study.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_study.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_educ.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_educ.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pj_lishi.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pj_lishi.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_anys_press.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\test_anys_press.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/design_ic_visibility.png",
+        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/drawable-hdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_level_jiayou.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_level_jiayou.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_face.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_face.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_comment_send.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/button_comment_send.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_attach.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_attach.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_exam_video_play.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/ic_exam_video_play.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_exam_media_start.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/ic_exam_media_start.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/read.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/read.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_btn_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\switch_btn_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_video_pause_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/btn_video_pause_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_arrow_1.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_arrow_1.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_order.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_order.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_exam_video_stop.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/ic_exam_video_stop.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_contact.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_contact.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_food.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_food.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_level_you.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_level_you.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_phone.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_phone.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pj_yuwen.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pj_yuwen.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_set.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_set.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\div_line.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\div_line.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_collect_mormal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\test_collect_mormal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/mine_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/mine_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_paper_previous.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_paper_previous.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_reply.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_reply.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_study.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_study.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_order.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_order.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_exam_video_open.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/ic_exam_video_open.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow_right_1.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\arrow_right_1.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_plus.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_plus.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_post_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\test_post_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_level_jiayou.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_level_jiayou.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_btn_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\switch_btn_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/class_switch_user.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/class_switch_user.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_video_toland_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/btn_video_toland_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_to_refresh_listview_arrow.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pull_to_refresh_listview_arrow.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/switch_btn_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/switch_btn_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_video_toland_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\btn_video_toland_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_qq.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\share_qq.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_to_practise.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_to_practise.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pj_xinxi.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pj_xinxi.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_child.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_child.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_pyq_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\share_pyq_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\half_tran_bg.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\half_tran_bg.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_video_play_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/btn_video_play_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_praise_show.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_praise_show.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\teachers.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\teachers.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pj_shengwu.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pj_shengwu.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\announcement.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\announcement.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_food.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_food.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_search.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_search.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_video_play_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\btn_video_play_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pj_lishi.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pj_lishi.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pj_tiyu.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pj_tiyu.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_from_album.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_from_album.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_video_seekbar_bt_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\btn_video_seekbar_bt_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_reply.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_reply.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_checkbox_on.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_checkbox_on.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pj_shengwu.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pj_shengwu.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_delete.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_delete.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\atach_ic.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\atach_ic.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/share_pyq.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/share_pyq.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_del.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_del.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_qzone.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\share_qzone.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_video_toportrait_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/btn_video_toportrait_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_notice.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_notice.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_cycle.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/btn_cycle.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_homework.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_homework.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_group.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pic_group.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/test_post_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/test_post_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/arrow_left_1.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/arrow_left_1.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_person.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_person.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_right.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_right.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_qzone_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\share_qzone_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_paper_next.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_paper_next.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_msg.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_msg.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pj_yinyue.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pj_yinyue.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_to_practise.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_to_practise.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_head.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_head.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_level_you.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_level_you.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\home_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/add.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/add.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_team.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pic_team.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_class.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pic_class.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/announcement.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/announcement.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/search.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/search.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/nav_back.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/nav_back.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_attach.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_attach.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_pic_attach.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_pic_attach.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_video_pause_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\btn_video_pause_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_delete.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_delete.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pj_yingyu.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pj_yingyu.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_cycle.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\btn_cycle.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_to_video.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_to_video.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/share_qq_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/share_qq_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_level_liang.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_level_liang.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_child.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_child.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pic_choose.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pic_choose.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\class_switch_user.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\class_switch_user.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_album.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_album.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nav_back.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\nav_back.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/close.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/close.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mine_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\mine_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_lesson.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_lesson.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/home_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_ddg.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/menu_ddg.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_correct.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_correct.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_video_toportrait_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/btn_video_toportrait_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/share_wx.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/share_wx.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_doc_attach.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_doc_attach.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_transbg.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_transbg.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_pic_more.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_pic_more.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/switch_btn_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/switch_btn_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pj_yingyu.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pj_yingyu.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_paper_next.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_paper_next.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_video_toland_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/btn_video_toland_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_to_exam.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_to_exam.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh2.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\refresh2.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_ppt.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\attach_ppt.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\close.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_off.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/btn_off.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_on.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/btn_on.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_comment.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_comment.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/forward.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/forward.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_collect.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_collect.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_pre_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\test_pre_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\choose.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\choose.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\a_level_yue.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\a_level_yue.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_select.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/tab_select.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_pre_press.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\test_pre_press.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pic_group.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pic_group.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/mine_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/mine_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/atach_ic.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/atach_ic.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_arrow_2.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_arrow_2.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pj_meishu.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pj_meishu.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_pyq.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\share_pyq.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pj_wuli.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pj_wuli.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/welcomebg.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/welcomebg.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\design_ic_visibility_off.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_off.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\btn_off.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_back.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_back.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/pic_download.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/pic_download.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tran_bg.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\tran_bg.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/tran_bg.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/tran_bg.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pj_huaxue.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pj_huaxue.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/div_line.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/div_line.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\share_qq_pressed.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\share_qq_pressed.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_paper_collect.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_paper_collect.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/outclass_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/outclass_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pj_wuli.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\pj_wuli.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_notice.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_notice.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/a_search.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/a_search.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_video_pause_normal.png",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\drawable-hdpi\\btn_video_pause_normal.png"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

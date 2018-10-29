@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color/abc_tint_default.xml"
+    }
+]

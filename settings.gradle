@@ -1,0 +1,3 @@
+include ':lib_Qiniu', ':imageselector', ':library', ':FlycoTabLayout_Lib'
+include ':lib_WheelView'
+include ':iSchool'

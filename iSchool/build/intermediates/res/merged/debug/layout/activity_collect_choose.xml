@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <include layout="@layout/view_topbar_1" />
+
+    <TextView
+        android:id="@+id/txt_yuer"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/selector_color_list_item_bg_1"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:text="育儿经收藏"
+        android:textColor="#7c7c80"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/line_2" />
+
+    <TextView
+        android:id="@+id/txt_wrong"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/selector_color_list_item_bg_1"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:text="错题收藏"
+        android:textColor="#7c7c80"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/img_line_wrong"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/line_2" />
+
+    <TextView
+        android:id="@+id/txt_hard"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/selector_color_list_item_bg_1"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:text="难题收藏"
+        android:textColor="#7c7c80"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/img_line_hard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/line_2" />
+
+    <TextView
+        android:id="@+id/txt_whole"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/selector_color_list_item_bg_1"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:text="套题收藏"
+        android:textColor="#7c7c80"
+        android:textSize="16sp" />
+
+    <ImageView
+        android:id="@+id/img_line_whole"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/line_2" />
+
+</LinearLayout>

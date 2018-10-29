@@ -1,0 +1,2234 @@
+[
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_question_survey.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_question_survey.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_food_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_food_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_select.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\imageselector\\build\\intermediates\\bundles\\default\\res\\layout\\activity_image_select.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wx_pay.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_wx_pay.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_lesson_table_class.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_lesson_table_class.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_attendance_picture_grid_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_attendance_picture_grid_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_single_image_show.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_single_image_show.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_attendance_teacher.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_attendance_teacher.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group__send__list_.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_group__send__list_.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_grid_item_blog_add_pic.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_grid_item_blog_add_pic.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_score_pie.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_score_pie.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_msg_list_student.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_msg_list_student.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_growfile.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_growfile.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance_vacate_choose_time.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_attendance_vacate_choose_time.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_homework_add_choose_group.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_homework_add_choose_group.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_study_subject.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_study_subject.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_msg_talk_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_msg_talk_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_blog_add.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_blog_add.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_attendance.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_attendance.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_relevancy_user_acitivity.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_add_relevancy_user_acitivity.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_emoji_page4.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_emoji_page4.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_study_testing_collect_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_study_testing_collect_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_participatie_teacher.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_participatie_teacher.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_attendance_class.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_attendance_class.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_login_idf_choose.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_login_idf_choose.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_school_announcement_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_school_announcement_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_attendance_vacate_choose_time.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_attendance_vacate_choose_time.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_school_announcement_detail.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_school_announcement_detail.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homework_gt.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_homework_gt.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_capture_video.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_capture_video.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_children.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_children.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_study_testing_collect_analysis.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_study_testing_collect_analysis.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_study_subject_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_study_subject_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_homework_subject.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_homework_subject.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_expand_list_item_child_contact.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_expand_list_item_child_contact.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vip_pay_detial.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_vip_pay_detial.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/multimedia_item_video_grid.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/multimedia_item_video_grid.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_study_testing.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_study_testing.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_album_add.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_album_add.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance_vacate_edit.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_attendance_vacate_edit.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_homework_add_choose_subject.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_homework_add_choose_subject.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/fragment_item_index.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/fragment_item_index.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_homework_attach.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_homework_attach.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_children_collect.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_children_collect.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_grid_list_item_album_pic_add.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_grid_list_item_album_pic_add.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_banner_detail.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_banner_detail.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_left.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\FlycoTabLayout_Lib\\build\\intermediates\\bundles\\default\\res\\layout\\layout_tab_left.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\change_phone_dialog.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\change_phone_dialog.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_task_video_player.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_task_video_player.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_album_pic_pager_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_album_pic_pager_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_preview.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/imageselector/build/intermediates/bundles/default/res/layout/activity_preview.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_study_subject.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_study_subject.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_transpond_document_flow.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_transpond_document_flow.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_mine.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_mine.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_outclass.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_outclass.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_emoji_page3.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_emoji_page3.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_banner_detail.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_banner_detail.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_diary_attach.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_diary_attach.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\login_dialog.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\login_dialog.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_homework_add_choose_group.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_homework_add_choose_group.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\group_send_item.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\group_send_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_homework_comment.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_homework_comment.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_viewpager_item_blog_pic.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_viewpager_item_blog_pic.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_check_adjunct.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_check_adjunct.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_participate_item.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_participate_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_vip_species_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_vip_species_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_attendance_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_album_class.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_album_class.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_document_flow_details_item.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_document_flow_details_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_img_publish.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_img_publish.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_contact_search.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_contact_search.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_expand_list_item_child_score_choose.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_expand_list_item_child_score_choose.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_diary_attach.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_diary_attach.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/fragment_video_recycler.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/fragment_video_recycler.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homework_attach_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_homework_attach_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_grid_list_item_album_pic_add.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_grid_list_item_album_pic_add.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_education_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_education_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_homework.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_homework.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_expand_list_item_group_contact.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_expand_list_item_group_contact.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_score_choose_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_score_choose_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_study_practice_explain.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_study_practice_explain.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_task_multimedia.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_task_multimedia.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_album_grade.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_album_grade.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_contact_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_contact_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_top.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\FlycoTabLayout_Lib\\build\\intermediates\\bundles\\default\\res\\layout\\layout_tab_top.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_contact_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_viewpager_item_attendance.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_viewpager_item_attendance.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_diary_class.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_diary_class.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_album_pic_grid_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_album_pic_grid_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_play_video.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_play_video.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feedback.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play_video.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_play_video.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_lesson_table_class_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_lesson_table_class_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_emoji_page3.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_emoji_page3.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_document_item.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_document_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/layout_tab_top.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/FlycoTabLayout_Lib/build/intermediates/bundles/default/res/layout/layout_tab_top.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_homework_group_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_homework_group_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_study_testing_record.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_study_testing_record.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_viewpager_item_attendance.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_viewpager_item_attendance.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_viewpager_item_album_pic.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_viewpager_item_album_pic.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_msg_.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_msg_.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_pull_to_refresh_listview_header.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_pull_to_refresh_listview_header.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_grid_list_item_album_pic.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_grid_list_item_album_pic.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_notice_set.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_notice_set.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mine.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_mine.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_homework_add.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_group_homework_add.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_score.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_score.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_study_classroom.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_study_classroom.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_viewpager_item_blog_pic.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_viewpager_item_blog_pic.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance_page_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_attendance_page_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_lesson_table_no_use.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_lesson_table_no_use.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\image_select_layout.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\image_select_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_right.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\FlycoTabLayout_Lib\\build\\intermediates\\bundles\\default\\res\\layout\\layout_tab_right.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_study_paper_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_study_paper_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_homework_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_homework_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_publish_document_flow.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_publish_document_flow.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_study_testing_analysis_answer.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_study_testing_analysis_answer.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_footview.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_footview.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_attendance_teacher.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_attendance_teacher.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance_picture.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_attendance_picture.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_headview_homework_detail.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_headview_homework_detail.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_vip_pay_disclaimer.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_vip_pay_disclaimer.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_viewpager_item_home_banner.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_viewpager_item_home_banner.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_lesson_table_class.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_lesson_table_class.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_study_testing.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_study_testing.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_inclass.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_inclass.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_homework_class_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_homework_class_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_study_paper_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_study_paper_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_album_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_album_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_study_testing_collect_analysis.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_study_testing_collect_analysis.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vip_money.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_vip_money.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diary_class_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_diary_class_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_lesson_table.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_lesson_table.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_blog_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_blog_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\multimedia_item_video_grid.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\multimedia_item_video_grid.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_growfile.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_growfile.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_msg_talk.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_msg_talk.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\quick_view_load_more.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\library\\build\\intermediates\\bundles\\default\\res\\layout\\quick_view_load_more.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_document_flow_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_document_flow_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_headview_attendance_vacate.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_headview_attendance_vacate.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_school_announcement.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_school_announcement.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_study_testing_record.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_study_testing_record.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_children_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_children_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_emoji_page5.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_emoji_page5.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_study_classroom_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_study_classroom_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_album_list_no_use.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_album_list_no_use.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_include_layout_no_vip.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_include_layout_no_vip.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_study_testing_result.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_study_testing_result.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_diary_attach_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_diary_attach_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_children_collect_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_children_collect_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/adapter_images_item.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/imageselector/build/intermediates/bundles/default/res/layout/adapter_images_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_loading_layout.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_loading_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_homework_add.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_homework_add.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/change_phone_dialog.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/change_phone_dialog.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_food_detail.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_food_detail.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_homework_comment.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_homework_comment.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_msg_talk_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_msg_talk_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_msg_talk.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_msg_talk.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/vip_pay_details.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/vip_pay_details.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_img_publish.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_img_publish.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/ad_layout.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/ad_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_album.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_album.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_homework_attach.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_homework_attach.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_outclass.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_outclass.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_msg_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_msg_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_image_select.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/imageselector/build/intermediates/bundles/default/res/layout/activity_image_select.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_study_testing_analysis.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_study_testing_analysis.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_attendance_class_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_attendance_class_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homework_class_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_homework_class_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_version.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_version.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_publish_document_flow.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_publish_document_flow.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_mass_send_contact_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_mass_send_contact_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_class_msg.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_class_msg.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_study_paper.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_study_paper.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homework_add_choose_time.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_homework_add_choose_time.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_class_msg.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_class_msg.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homework_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_homework_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_score.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_score.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_score_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_score_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_study_testing_collect.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_study_testing_collect.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_homework_add_choose_class.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_homework_add_choose_class.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_children_detail.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_children_detail.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance_vacate_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_attendance_vacate_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_children_collect_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_children_collect_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_msg.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_msg.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_attendance_vacate.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_attendance_vacate.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personal.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_personal.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diary_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_diary_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_album_pic_add_grid_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_album_pic_add_grid_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_blog.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_blog.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_children_collect.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_children_collect.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_load_more.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\library\\build\\intermediates\\bundles\\default\\res\\layout\\view_load_more.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_collect_choose.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_collect_choose.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_expand_list_item_child_mass_send_contact.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_expand_list_item_child_mass_send_contact.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_document_flow_details.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_document_flow_details.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_check_adjunct.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_check_adjunct.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_expand_list_item_group_mass_send_contact.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_expand_list_item_group_mass_send_contact.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clip_image.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\imageselector\\build\\intermediates\\bundles\\default\\res\\layout\\activity_clip_image.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_collect_choose.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_collect_choose.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_document_item.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_document_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_homework_gt.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_homework_gt.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diary_pic_pager_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_diary_pic_pager_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_mod_password.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_mod_password.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_load_more.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/library/build/intermediates/bundles/default/res/layout/view_load_more.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_study_practice.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_study_practice.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_homework_add_choose_time.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_homework_add_choose_time.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_layout.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\toolbar_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_footview_clickmore.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_footview_clickmore.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_homework_class.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_homework_class.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_homework_add_choose_subject.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_homework_add_choose_subject.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_homework_add_choose_subject.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_homework_add_choose_subject.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_group__send__list_.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_group__send__list_.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_footview_clickmore.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_footview_clickmore.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_diary_class_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_diary_class_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_study_choose.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_study_choose.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/toolbar_layout.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/toolbar_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_study_practice.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_study_practice.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_school_announcement_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_school_announcement_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_score.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_score.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_document_flow_details.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_document_flow_details.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diary_attach_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_diary_attach_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_emoji_page1.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_emoji_page1.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_include_layout_no_vip.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_include_layout_no_vip.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dian_dian_go.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_dian_dian_go.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_add_relevancy_user_acitivity.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_add_relevancy_user_acitivity.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_single_image_show.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_single_image_show.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_study_paper.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_study_paper.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_class_msg_talk.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_class_msg_talk.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_score_line.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_score_line.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_food.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_food.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_change_phone_acitivity.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_change_phone_acitivity.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_grid_list_item_attendance_picture.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_grid_list_item_attendance_picture.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_study_classroom.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_study_classroom.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homework_subject_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_homework_subject_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_main_tab.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_main_tab.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_attendance_vacate.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_attendance_vacate.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_images_item.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\imageselector\\build\\intermediates\\bundles\\default\\res\\layout\\adapter_images_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_children_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_children_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_topbar_1.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_topbar_1.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vip_info.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_vip_info.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_help.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_help.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vip_pay_disclaimer.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_vip_pay_disclaimer.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_popupwindow_album_grade.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_popupwindow_album_grade.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_attendance_picture.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_attendance_picture.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/layout_tab_left.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/FlycoTabLayout_Lib/build/intermediates/bundles/default/res/layout/layout_tab_left.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_bottom.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\FlycoTabLayout_Lib\\build\\intermediates\\bundles\\default\\res\\layout\\layout_tab_bottom.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_blog_class_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_blog_class_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_group_homework_add.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_group_homework_add.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homework_detail.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_homework_detail.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_share_dialog.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_share_dialog.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_my_toast.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_my_toast.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_grid_item_blog_add_choose_pic.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_grid_item_blog_add_choose_pic.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_swtich_user_acitivity.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_swtich_user_acitivity.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diary_detail.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_diary_detail.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_emoji_page2.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_emoji_page2.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_attendance_class.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_attendance_class.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_vip_pay_detial.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_vip_pay_detial.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_attendance_vacate_edit.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_attendance_vacate_edit.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_expand_list_item_group_contact.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_expand_list_item_group_contact.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_album_class.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_album_class.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_viewpager_item_diary_pic.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_viewpager_item_diary_pic.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homework_add_choose_subject.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_homework_add_choose_subject.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_album_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_album_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_class_msg_talk_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_class_msg_talk_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_diary_pic_pager_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_diary_pic_pager_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_segment.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\FlycoTabLayout_Lib\\build\\intermediates\\bundles\\default\\res\\layout\\layout_tab_segment.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\user_message_item.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\user_message_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_participatie_teacher.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_participatie_teacher.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_topbar_2.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_topbar_2.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_album_grade.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_album_grade.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_group_msg.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_group_msg.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_attendance_vacate_teacher.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_attendance_vacate_teacher.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_diary_class.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_diary_class.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_document_flow_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_document_flow_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_diary_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_diary_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_homework_subject.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_homework_subject.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_popupwindow_study_grade.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_popupwindow_study_grade.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_score_choose_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_score_choose_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance_class_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_attendance_class_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/image_select_layout.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/image_select_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_swtich_user_acitivity.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_swtich_user_acitivity.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notice_set.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_notice_set.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_children.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_children.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_homework_subject_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_homework_subject_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_popupwindow_study_grade.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_popupwindow_study_grade.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transpond_document_flow.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_transpond_document_flow.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_msg_list_student.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_msg_list_student.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_album.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_album.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_participate_item.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_participate_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_wx_entry.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_wx_entry.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_popupwindow_album_grade.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_popupwindow_album_grade.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wx_entry.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_wx_entry.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lesson_table.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_lesson_table.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lesson_table_no_use.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_lesson_table_no_use.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_msg_.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_msg_.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_attendance_vacate_teacher.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_attendance_vacate_teacher.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_blog_add_choose_pic.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_blog_add_choose_pic.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/layout_tab_right.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/FlycoTabLayout_Lib/build/intermediates/bundles/default/res/layout/layout_tab_right.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/layout_tab.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/FlycoTabLayout_Lib/build/intermediates/bundles/default/res/layout/layout_tab.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homework_add.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_homework_add.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_homework.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_homework.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_blog_comment_dialog.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_blog_comment_dialog.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_attendance_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_attendance_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_class_msg_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_class_msg_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homework_group_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_homework_group_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_diary_detail.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_diary_detail.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_expand_list_item_group_score_choose.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_expand_list_item_group_score_choose.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_education_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_education_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_disturb_set.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_disturb_set.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_document_flow_details_item.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_document_flow_details_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vip_species_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_vip_species_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_score.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_score.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_score_pie.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_score_pie.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_album_add.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_album_add.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_attendance_vacate_edit_teacher.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_attendance_vacate_edit_teacher.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\FlycoTabLayout_Lib\\build\\intermediates\\bundles\\default\\res\\layout\\layout_tab.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_wx_pay.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_wx_pay.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_study_practice_explain.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_study_practice_explain.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_class_msg_talk.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_class_msg_talk.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_class_msg_talk_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_class_msg_talk_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_attendance.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_attendance.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_album_list_no_use.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_album_list_no_use.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_blog_add_choose_pic.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_blog_add_choose_pic.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/layout_tab_bottom.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/FlycoTabLayout_Lib/build/intermediates/bundles/default/res/layout/layout_tab_bottom.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_emoji_page4.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_emoji_page4.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_student_kindergarten_video.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_student_kindergarten_video.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_inclass.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_inclass.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_children_detail.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_children_detail.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance_vacate_list_teacher.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_attendance_vacate_list_teacher.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/group_send_item.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/group_send_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_topbar_1.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_topbar_1.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_expand_list_item_child_mass_send_contact.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_expand_list_item_child_mass_send_contact.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_grid_item_blog_add_pic.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_grid_item_blog_add_pic.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_school_announcement.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_school_announcement.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_question_survey.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_question_survey.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_vip_pay_choose.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_vip_pay_choose.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\vip_pay_details.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\vip_pay_details.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_expand_list_item_child_score_choose.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_expand_list_item_child_score_choose.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_vip_info.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_vip_info.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vip_pay_choose.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_vip_pay_choose.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_school_announcement_detail.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_school_announcement_detail.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_tab.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_main_tab.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_food_detail.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_food_detail.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_study_testing_analysis_answer.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_study_testing_analysis_answer.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_pull_to_refresh_listview_header.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_pull_to_refresh_listview_header.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_album_pic_pager_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_album_pic_pager_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_study_testing_collect_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_study_testing_collect_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_viewpager_item_home_banner.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_viewpager_item_home_banner.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/user_message_item.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/user_message_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_album_pic_grid_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_album_pic_grid_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance_picture_grid_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_attendance_picture_grid_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_study_classroom_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_study_classroom_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_share_dialog.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_share_dialog.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_emoji_page1.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_emoji_page1.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_version.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_version.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_study_testing_record_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_study_testing_record_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_blog_add.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_blog_add.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_study_testing_collect.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_study_testing_collect.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_blog_comment.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_blog_comment.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_album_pic_add_grid_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_album_pic_add_grid_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_education_detail.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_education_detail.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_preview.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\imageselector\\build\\intermediates\\bundles\\default\\res\\layout\\activity_preview.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_blog_class_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_blog_class_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_homework_detail.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_homework_detail.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_homework_class.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_homework_class.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_expand_list_item_group_score_choose.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_expand_list_item_group_score_choose.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_class_msg_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_class_msg_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_diary.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_diary.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_student_kindergarten_video.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_student_kindergarten_video.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_study_testing_result.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_study_testing_result.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_diary.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_diary.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_feedback.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_group_msg.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_group_msg.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_homework_attach_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_homework_attach_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_emoji_page5.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_emoji_page5.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_education.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_education.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_footview.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_footview.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_personal.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_personal.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_contact_search.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_contact_search.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_topbar_2.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_topbar_2.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_expand_list_item_group_mass_send_contact.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_expand_list_item_group_mass_send_contact.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_blog_class.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_blog_class.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homework_add_choose_class.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_homework_add_choose_class.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_headview_homework_detail.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_headview_homework_detail.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_headview_attendance_vacate.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_headview_attendance_vacate.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_loading_layout.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_loading_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_expand_list_item_child_contact.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_expand_list_item_child_contact.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_study_testing_analysis.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_study_testing_analysis.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_phone_acitivity.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_change_phone_acitivity.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_score_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_score_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_attendance_vacate_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_attendance_vacate_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mass_send_contact_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_mass_send_contact_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_grid_list_item_album_pic.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_grid_list_item_album_pic.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_msg_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_msg_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_blog.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_blog.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_blog_comment_dialog.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_blog_comment_dialog.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_blog_class.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_blog_class.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/adapter_folder.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/imageselector/build/intermediates/bundles/default/res/layout/adapter_folder.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_emoji_page2.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_emoji_page2.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choose_receiver.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_choose_receiver.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_vip_money.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_vip_money.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_blog_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_blog_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_viewpager_item_diary_pic.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_viewpager_item_diary_pic.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_update.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_update.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\ad_layout.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\ad_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_homework_add_choose_class.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_homework_add_choose_class.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_folder.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\imageselector\\build\\intermediates\\bundles\\default\\res\\layout\\adapter_folder.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_study_subject_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_study_subject_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_blog_pic_pager.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_blog_pic_pager.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_choose_receiver.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_choose_receiver.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_blog_comment.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_blog_comment.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_food_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_food_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_head_msg.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_head_msg.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_attendance_page_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_attendance_page_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_head_msg.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_head_msg.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/login_dialog.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/login_dialog.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_clip_image.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/imageselector/build/intermediates/bundles/default/res/layout/activity_clip_image.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_vip_pay_species.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_vip_pay_species.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_blog_pic_pager.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_blog_pic_pager.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_dian_dian_go.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_dian_dian_go.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lesson_table_class_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_lesson_table_class_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_task_multimedia.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_task_multimedia.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_education.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_education.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_disturb_set.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_disturb_set.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mod_password.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_mod_password.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_education_detail.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_education_detail.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_viewpager_item_album_pic.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_viewpager_item_album_pic.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/layout_tab_segment.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/FlycoTabLayout_Lib/build/intermediates/bundles/default/res/layout/layout_tab_segment.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_study_testing_record_list.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_study_testing_record_list.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_msg.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_msg.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_login_idf_choose.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_login_idf_choose.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_attendance_vacate_list_teacher.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_attendance_vacate_list_teacher.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_grid_item_blog_add_choose_pic.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_grid_item_blog_add_choose_pic.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_homework_add_choose_class.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_list_item_homework_add_choose_class.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_my_toast.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\view_my_toast.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_vip_pay_species.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_vip_pay_species.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_study_choose.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_study_choose.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/quick_view_load_more.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/library/build/intermediates/bundles/default/res/layout/quick_view_load_more.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_grid_list_item_attendance_picture.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_grid_list_item_attendance_picture.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance_vacate_edit_teacher.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_attendance_vacate_edit_teacher.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/activity_setting.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_score_line.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\Project\\szSchool_android\\iSchool\\src\\main\\res\\layout\\activity_score_line.xml"
+    },
+    {
+        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout/view_list_item_food.xml",
+        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/layout/view_list_item_food.xml"
+    }
+]

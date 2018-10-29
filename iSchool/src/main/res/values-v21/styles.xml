@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+
+        <!-- 手机底部NavigationBar颜色，只在5.0+手机上有效 -->
+        <item name="android:navigationBarColor">@color/black</item>
+    </style>
+
+</resources>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <include layout="@layout/view_topbar_1" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fadingEdge="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:text="1、使用者违反本《协议》或相关的服务条款的规定，导致或产生的任何第三方主张的任何索赔、要求或损失，包括合理的律师费，用户同意赔偿苏州学堂与合作公司、关联公司，并使之免受损害。 "
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:text="2、用户因第三方如电信部门的通讯线路故障、技术问题、网络、计算机故障、系统不稳定性及其他各种不可抗力原因而遭受的一切损失，苏州学堂及合作单位不承担责任。  "
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:text="3、因技术故障等不可抗事件影响到服务的正常运行的，苏州学堂及合作单位承诺在第一时间内与相关单位配合，及时处理进行修复，但用户因此而遭受的一切损失，苏州学堂及合作单位不承担责任。   "
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:text="4、本服务同大多数因特网服务一样，受包括但不限于用户原因、网络服务质量、社会环境等因素的差异影响，可能受到各种安全问题的侵扰，如他人利用用户的数据，造成现实生活中的骚扰；用户下载安装的其它软件或访问的其他网站中含有“特洛伊木马”等病毒，威胁到用户的信息和数据的安全，继而影响本服务的正常使用等等。用户应加强信息安全及用户数据的保护意识，要注意加强密码保护，以免遭致损失和骚扰。   "
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:text="5、本服务涉及因特网服务，可能会受到各个环节不稳定因素的影响。因此，本服务存在受不可抗力影响、计算机病毒或黑客攻击、系统不稳定、用户非正常关机以及因特网、通信线路、任何其他技术原因等造成的服务中断或不能满足使用者要求的风险。由于以上风险导致用户不能发送和接受阅读信息、或接发错讯息，苏州学堂不承担任何责任。   "
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:text="6、本服务过程中存在有来自任何他人的包括威胁性的、诽谤性的、令人反感的或非法的内容或行为或对他人权利的侵犯（包括知识产权）的匿名或冒名的信息的风险，用户须承担以上风险。用户不得登载和传播反动、淫秽、色情等中华人民共和国法律、法规禁止的不良信息内容。苏州学堂和合作公司对本服务不作任何类型的担保，不论是明确的或隐含的，包括所有有关信息真实性、适商性、适于某一特定用途、所有权和非侵权性的默示担保和条件，对因用户不正当或非法使用服务产生的直接、间接、偶然、特殊及后续的损害，苏州学堂不承担任何责任。   "
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:text="7、苏州学堂定义的信息内容包括：文字、软件、声音、相片、影像、图表、广告中的全部内容。苏州学堂为用户提供的商业信息，所有这些内容受著作权、商标权、和其它知识产权和所有权法律的保护。用户在未经授权的情况下，不能擅自复制、修改、编纂这些内容、或创造与内容有关的衍生产品。苏州学堂对使用者使用苏州学堂后的成绩不负有责任。   "
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:text="8、在任何情况下，苏州学堂均不对任何间接性、后果性、惩罚性、偶然性或特殊性的损害而遭受的利润损失承担责任。苏州学堂对您承担的全部责任费用，无论因何原因或何种行为方式，始终不超过您在成员期内因使用苏州学堂服务而支付给苏州学堂的费用(如有)。因平台系统更新、升级导致暂时无法使用的，苏州学堂会提前进行公告，对于升级期间用户无法使用而产生的损失，苏州学堂不承担任何责任。   "
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:text="9、由于与苏州学堂链接的其它网站所造成之个人资料泄露及由此而导致的任何法律争议和后果，苏州学堂均得免责。  "
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:text="10、由于用户将个人密码告知他人或与他人共享注册帐户，由此导致的任何个人资料泄露，苏州学堂不负任何责任。  "
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:text="11、当政府司法机关依照法定程序要求苏州学堂披露个人资料时，我们将根据执法单位之要求或为公共安全之目的提供个人资料。在此情况下之任何披露，苏州学堂均得免责。  "
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:text="12、用户明确同意其使用苏州学堂服务所存在的风险将完全由其自己承担。因其使用这些服务而产生的一切后果也由其自己承担，苏州学堂对用户不承担任何责任。  "
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:text="13、苏州学堂用户因为违反本声明的规定而触犯中华人民共和国法律的，一切后果自己负责，苏州学堂不承担任何责任。  "
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:text="14、凡以任何方式登陆苏州学堂或直接、间接使用苏州学堂资料者，视为自愿接受苏州学堂声明的约束。  "
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:text="15、本声明未涉及的问题参见国家有关法律法规，当本声明与国家法律法规冲突时，以国家法律法规为准。  "
+                android:textSize="13sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:text="16、本系列产品之声明以及其修改权、更新权及最终解释权均属苏州学堂所有。  "
+                android:textSize="13sp" />
+
+            <Button
+                android:id="@+id/btn_next"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="15dp"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/shape_rect_button_bg_1"
+                android:text="同意以上《免责声明》，下一步"
+                android:textColor="#ffffff"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
