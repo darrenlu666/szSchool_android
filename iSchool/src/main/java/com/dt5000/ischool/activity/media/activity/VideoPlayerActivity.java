@@ -32,6 +32,7 @@ import java.util.TimerTask;
  * Created by eachann on 2016/2/22.
  */
 public class VideoPlayerActivity extends AppCompatActivity {
+    protected static final int EXTRA_RESULT_RETRY = 0X001;
     private SurfaceView mSurfaceView = null;
     private SurfaceHolder mSurfaceHolder = null;
     private MediaPlayer mMediaPlayer = null;
@@ -224,6 +225,7 @@ public class VideoPlayerActivity extends AppCompatActivity {
                     file.delete();
                     MediaFileUtils.scanFile(VideoPlayerActivity.this, mFilePath);
                 }
+                setResult(EXTRA_RESULT_RETRY);
                 finish();
             }
         });

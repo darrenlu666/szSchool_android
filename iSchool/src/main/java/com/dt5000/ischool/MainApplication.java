@@ -3,9 +3,14 @@ package com.dt5000.ischool;
 import android.app.Activity;
 import android.support.multidex.MultiDexApplication;
 
+import com.bilibili.boxing.BoxingMediaLoader;
+import com.bilibili.boxing.loader.IBoxingMediaLoader;
+import com.dt5000.ischool.activity.media.other.BoxingFrescoLoader;
 import com.dt5000.ischool.db.greendao.DaoMaster;
 import com.dt5000.ischool.db.greendao.DaoSession;
 import com.dt5000.ischool.net.RetrofitService;
+import com.facebook.drawee.backends.pipeline.Fresco;
+import com.facebook.stetho.Stetho;
 
 import org.greenrobot.greendao.database.Database;
 
@@ -41,6 +46,19 @@ public class MainApplication extends MultiDexApplication {
         JPushInterface.init(getApplicationContext());
         initGreenDao();
         RetrofitService.init();
+        Fresco.initialize(this);
+        initBoxing();
+        Stetho.initializeWithDefaults(this);
+
+    }
+
+    /**
+     * 初始化图库选择器
+     */
+    private void initBoxing() {
+        IBoxingMediaLoader loader = new BoxingFrescoLoader(this);
+        BoxingMediaLoader.getInstance().init(loader);
+//        BoxingCrop.getInstance().init(new BoxingUcrop());//图片裁剪,需要依赖第三方库com.yalantis:ucrop:2.2.0
     }
 
     private void initGreenDao() {

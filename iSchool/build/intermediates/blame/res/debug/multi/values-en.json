@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+        "outputFile": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 100
                 },
                 "from": {
-                    "file": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\library\\build\\intermediates\\bundles\\default\\res\\values-en\\values-en.xml",
+                    "file": "D:\\Project\\szSchool_android-master-new\\library\\build\\intermediates\\bundles\\default\\res\\values-en\\values-en.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 157
                 },
                 "from": {
-                    "file": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\library\\build\\intermediates\\bundles\\default\\res\\values-en\\values-en.xml",
+                    "file": "D:\\Project\\szSchool_android-master-new\\library\\build\\intermediates\\bundles\\default\\res\\values-en\\values-en.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,131 +49,7 @@
                     "endOffset": 204
                 },
                 "from": {
-                    "file": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\library\\build\\intermediates\\bundles\\default\\res\\values-en\\values-en.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 162,
-                        "endColumn": 46,
-                        "endOffset": 204
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 49,
-                    "endOffset": 100
-                },
-                "from": {
-                    "file": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\library\\build\\intermediates\\bundles\\default\\res\\values-en\\values-en.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 49,
-                        "endOffset": 100
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 105,
-                    "endColumn": 56,
-                    "endOffset": 157
-                },
-                "from": {
-                    "file": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\library\\build\\intermediates\\bundles\\default\\res\\values-en\\values-en.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 105,
-                        "endColumn": 56,
-                        "endOffset": 157
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 162,
-                    "endColumn": 46,
-                    "endOffset": 204
-                },
-                "from": {
-                    "file": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\library\\build\\intermediates\\bundles\\default\\res\\values-en\\values-en.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 162,
-                        "endColumn": 46,
-                        "endOffset": 204
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 49,
-                    "endOffset": 100
-                },
-                "from": {
-                    "file": "/Users/ludonghai/android/szSchool_android-master/library/build/intermediates/bundles/default/res/values-en/values-en.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 49,
-                        "endOffset": 100
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 105,
-                    "endColumn": 56,
-                    "endOffset": 157
-                },
-                "from": {
-                    "file": "/Users/ludonghai/android/szSchool_android-master/library/build/intermediates/bundles/default/res/values-en/values-en.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 105,
-                        "endColumn": 56,
-                        "endOffset": 157
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 162,
-                    "endColumn": 46,
-                    "endOffset": 204
-                },
-                "from": {
-                    "file": "/Users/ludonghai/android/szSchool_android-master/library/build/intermediates/bundles/default/res/values-en/values-en.xml",
+                    "file": "D:\\Project\\szSchool_android-master-new\\library\\build\\intermediates\\bundles\\default\\res\\values-en\\values-en.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

@@ -61,7 +61,7 @@
                 android:paddingBottom="6dp"
                 android:paddingLeft="15dp"
                 android:paddingRight="10dp"
-                android:paddingTop="10dp" >
+                android:paddingTop="10dp">
 
                 <TextView
                     android:id="@+id/txt_content_left"
@@ -70,15 +70,28 @@
                     android:layout_marginBottom="3dp"
                     android:text="井口附近路段将来到家乐福来的就是高房价的垃圾管理的技术管理"
                     android:textColor="#000000"
-                    android:textSize="15sp" />
+                    android:textSize="15sp"/>
 
-                <ImageView
-                    android:id="@+id/img_pic_left"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
-                    android:background="@drawable/pic_lo_bg"
-                    android:scaleType="centerCrop"
-                    android:visibility="gone" />
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:id="@+id/img_pic_left"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:scaleType="center"
+                        android:visibility="gone"/>
+
+                    <ImageView
+                        android:id="@+id/img_video_play_left"
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/video_play"
+                        android:visibility="gone"/>
+                </FrameLayout>
+
 
                 <ImageView
                     android:id="@+id/img_emoji_left"
@@ -86,7 +99,7 @@
                     android:layout_height="25dp"
                     android:clickable="false"
                     android:scaleType="fitXY"
-                    android:visibility="gone" />
+                    android:visibility="gone"/>
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>
@@ -131,13 +144,27 @@
                 android:textColor="#ffffff"
                 android:textSize="15sp" />
 
-            <ImageView
-                android:id="@+id/img_pic_right"
-                android:layout_width="100dp"
-                android:layout_height="100dp"
-                android:background="@drawable/pic_lo_bg"
-                android:scaleType="centerCrop"
-                android:visibility="gone" />
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/img_pic_right"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:scaleType="center"
+                    android:visibility="gone" />
+
+                <ImageView
+                    android:id="@+id/img_video_play_right"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/video_play"
+                    android:layout_gravity="center"
+                    android:visibility="gone"/>
+            </FrameLayout>
+
+
 
             <ImageView
                 android:id="@+id/img_emoji_right"

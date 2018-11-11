@@ -1,14 +1,6 @@
 [
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\8d3e6dfddc493e97ec69bab63ce3fe7a2b49b6b1\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\8d3e6dfddc493e97ec69bab63ce3fe7a2b49b6b1\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }
 ]

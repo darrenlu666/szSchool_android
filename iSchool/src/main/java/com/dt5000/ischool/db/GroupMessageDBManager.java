@@ -38,8 +38,8 @@ public class GroupMessageDBManager {
                 db.beginTransaction();
 
                 String sql = "INSERT INTO group_message (group_message_id, groupinfo_id, group_name, sender_id, "
-                        + "sender_name, content, send_date, read_status, pic_url, owner, sync_time, headpic) "
-                        + " VALUES(?,?,?,?,?,?,?,?,?,?,datetime('now','localtime'),?)";
+                        + "sender_name, content, send_date, read_status, pic_url, owner, sync_time, headpic,video_url) "
+                        + " VALUES(?,?,?,?,?,?,?,?,?,?,datetime('now','localtime'),?,?)";
                 Object[] params = null;
                 for (GroupMessage m : data) {
                     if (m.getOwner().equals(m.getSenderID())) {
@@ -51,7 +51,7 @@ public class GroupMessageDBManager {
                             m.getSenderID(), m.getSenderName(), m.getContent(),
                             TimeUtil.fullTimeFormat(m.getSendDate()),
                             m.getReadStatus(), m.getPicUrl(), m.getOwner(),
-                            m.getStuPhoto()};
+                            m.getStuPhoto(),m.getVideoUrl()};
                     db.execSQL(sql, params);
                 }
 
@@ -190,6 +190,7 @@ public class GroupMessageDBManager {
         m.setOwner(c.getString(c.getColumnIndex("owner")));
         m.setReadStatus(c.getInt(c.getColumnIndex("read_status")));
         m.setStuPhoto(c.getString(c.getColumnIndex("headpic")));
+        m.setVideoUrl(c.getString(c.getColumnIndex("video_url")));
         return m;
     }
 

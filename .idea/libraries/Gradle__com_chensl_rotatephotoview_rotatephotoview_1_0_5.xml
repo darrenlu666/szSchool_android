@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.chensl.rotatephotoview:rotatephotoview-1.0.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/adeb2147e4042c6f9a0682e0963b2318fb30e081/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/adeb2147e4042c6f9a0682e0963b2318fb30e081/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.chensl.rotatephotoview/rotatephotoview/1.0.5/69f80897735e2c1fed5dc00c079a269627ae2700/rotatephotoview-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

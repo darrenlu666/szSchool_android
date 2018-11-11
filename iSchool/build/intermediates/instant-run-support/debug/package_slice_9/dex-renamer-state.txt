@@ -1,4 +1,0 @@
-#Fri Oct 26 15:20:28 PDT 2018
-base.0=/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
-renamed.0=classes.dex
-file.0=/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

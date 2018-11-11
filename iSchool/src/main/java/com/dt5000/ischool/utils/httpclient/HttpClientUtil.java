@@ -1,9 +1,12 @@
 package com.dt5000.ischool.utils.httpclient;
 
+import com.bilibili.boxing.model.entity.impl.ImageMedia;
+import com.dt5000.ischool.activity.media.bean.MMImageBean;
 import com.dt5000.ischool.utils.CheckUtil;
 import com.dt5000.ischool.utils.FileUtil;
 import com.dt5000.ischool.utils.MLog;
 
+import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.HttpStatus;
 import org.apache.http.NameValuePair;
@@ -12,12 +15,25 @@ import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.ByteArrayEntity;
+import org.apache.http.entity.mime.HttpMultipartMode;
 import org.apache.http.entity.mime.MultipartEntity;
+import org.apache.http.entity.mime.MultipartEntityBuilder;
 import org.apache.http.entity.mime.content.FileBody;
+import org.apache.http.entity.mime.content.StringBody;
 import org.apache.http.protocol.HTTP;
 import org.apache.http.util.EntityUtils;
 
+import java.io.BufferedReader;
+import java.io.DataOutputStream;
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.UnsupportedEncodingException;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import java.nio.charset.Charset;
 import java.util.List;
 
 /**
@@ -65,14 +81,6 @@ public class HttpClientUtil {
         return result;
     }
 
-    /**
-     * 发送post请求，带多个文件
-     *
-     * @param url      请求的地址，已经将字符串参数拼接进其中
-     * @param fileList 文件列表
-     * @return
-     * @throws Exception
-     */
     public static String doPostWithFiles(String url, List<File> fileList)
             throws Exception {
         String result = "";
@@ -82,9 +90,11 @@ public class HttpClientUtil {
 
         MultipartEntity entity = new MultipartEntity();
         for (File file : fileList) {
-            entity.addPart(file.toString(), new FileBody(file));
+            entity.addPart("file", new FileBody(file));
         }
+
         httpPost.setEntity(entity);
+        httpPost.setHeader("Content-Type", "Multipart/form-data");
 
         HttpResponse response = httpClient.execute(httpPost);
         if (response.getStatusLine().getStatusCode() == HttpStatus.SC_OK) {
@@ -94,6 +104,123 @@ public class HttpClientUtil {
 
         return result;
     }
+
+    /**
+     * @param uploadUrl          上传路径参数
+     * @param uploadFilePathList 文件路径
+     * @category 上传文件至Server的方法
+     * @author ylbf_dev
+     */
+    public static String uploadFile(String uploadUrl, List<String> uploadFilePathList) {
+        String end = "\r\n";
+        String twoHyphens = "--";
+        String boundary = "******";
+        try {
+            URL url = new URL(uploadUrl);
+            HttpURLConnection httpURLConnection = (HttpURLConnection) url.openConnection();
+            httpURLConnection.setDoInput(true);
+            httpURLConnection.setDoOutput(true);
+            httpURLConnection.setUseCaches(false);
+            httpURLConnection.setRequestMethod("POST");
+            httpURLConnection.setRequestProperty("Connection", "Keep-Alive");
+            httpURLConnection.setRequestProperty("Charset", "UTF-8");
+            httpURLConnection.setRequestProperty("Content-Type", "multipart/form-data;boundary=" + boundary);
+
+
+            for (String filePath : uploadFilePathList) {
+                DataOutputStream dos = new DataOutputStream(httpURLConnection.getOutputStream());
+                dos.writeBytes(twoHyphens + boundary + end);
+                dos.writeBytes("Content-Disposition: form-data; name=\"file\"; filename=\"test.jpg\"" + end);
+//          dos.writeBytes("Content-Disposition: form-data; name=\"file\"; filename=\""
+//                  + uploadFilePath.substring(uploadFilePath.lastIndexOf("/") + 1) + "\"" + end);
+                dos.writeBytes(end);
+                // 文件通过输入流读到Java代码中-++++++++++++++++++++++++++++++`````````````````````````
+                FileInputStream fis = new FileInputStream(filePath);
+                byte[] buffer = new byte[8192]; // 8k
+                int count = 0;
+                while ((count = fis.read(buffer)) != -1) {
+                    dos.write(buffer, 0, count);
+
+                }
+                fis.close();
+                System.out.println("file send to server............");
+                dos.writeBytes(end);
+                dos.writeBytes(twoHyphens + boundary + twoHyphens + end);
+                dos.flush();
+                dos.close();
+            }
+
+
+            // 读取服务器返回结果
+            InputStream is = httpURLConnection.getInputStream();
+            InputStreamReader isr = new InputStreamReader(is, "utf-8");
+            BufferedReader br = new BufferedReader(isr);
+            String result = br.readLine();
+
+            is.close();
+            return result;
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+
+        }
+        return "error";
+    }
+
+
+    public static String upload(List<ImageMedia> uploadFiles, String actionUrl) {
+        String end = "\r\n";
+        String twoHyphens = "--";
+        String boundary = "*****";
+        try {
+            URL url = new URL(actionUrl);
+            HttpURLConnection con = (HttpURLConnection) url.openConnection();
+            // 发送POST请求必须设置如下两行
+            con.setDoInput(true);
+            con.setDoOutput(true);
+            con.setUseCaches(false);
+            con.setRequestMethod("POST");
+            con.setRequestProperty("Connection", "Keep-Alive");
+            con.setRequestProperty("Charset", "UTF-8");
+            con.setRequestProperty("Content-Type",
+                    "multipart/form-data;boundary=" + boundary);
+            DataOutputStream ds =
+                    new DataOutputStream(con.getOutputStream());
+            for (int i = 0; i < uploadFiles.size(); i++) {
+                String uploadFile = uploadFiles.get(i).getPath();
+                String filename = uploadFile.substring(uploadFile.lastIndexOf("//") + 1);
+                ds.writeBytes(twoHyphens + boundary + end);
+                ds.writeBytes("Content-Disposition: form-data; name=\"file\"; filename=\"test.jpg\"" + end);
+                ds.writeBytes(end);
+                FileInputStream fStream = new FileInputStream(uploadFile);
+                int bufferSize = 1024;
+                byte[] buffer = new byte[bufferSize];
+                int length = -1;
+                while ((length = fStream.read(buffer)) != -1) {
+                    ds.write(buffer, 0, length);
+                }
+                ds.writeBytes(end);
+                /* close streams */
+                fStream.close();
+            }
+            ds.writeBytes(twoHyphens + boundary + twoHyphens + end);
+            ds.flush();
+
+            // 读取服务器返回结果
+            InputStream is = con.getInputStream();
+            InputStreamReader isr = new InputStreamReader(is, "utf-8");
+            BufferedReader br = new BufferedReader(isr);
+            String result = br.readLine();
+
+            is.close();
+            ds.close();
+            return result;
+        } catch (Exception e) {
+        }
+        return "error";
+    }
+
 
     /**
      * 发送post请求，带单个文件，将文件转成字节流发送

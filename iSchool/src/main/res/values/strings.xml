@@ -117,4 +117,8 @@
     <string name="video_confirm">使用视频</string>
     <string name="video_cancle">取消</string>
     <string name="video_retry">重拍</string>
+    <string name="exam_image_max_count">最多只能选择%1$d张图片</string>
+    <string name="exam_image_preview">预览</string>
+    <string name="exam_image_upload">上传照片(%1$d)</string>
+    <string name="exam_image_upload_n">上传照片</string>
 </resources>

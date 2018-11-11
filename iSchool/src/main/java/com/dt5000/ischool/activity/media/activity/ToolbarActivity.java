@@ -58,7 +58,7 @@ public abstract class ToolbarActivity extends AppCompatActivity {
         toolbar.collapseActionView();
         setSupportActionBar(toolbar);
         if (getSupportActionBar() != null) {
-            getSupportActionBar().setHomeAsUpIndicator(R.drawable.icon_back);
+            getSupportActionBar().setHomeAsUpIndicator(R.drawable.nav_back);
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
             getSupportActionBar().setDisplayShowHomeEnabled(true);
         }

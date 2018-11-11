@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\menu\\activity_boxing_pick_flow.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\boxing-impl\\build\\intermediates\\bundles\\default\\res\\menu\\activity_boxing_pick_flow.xml"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\menu\\multimedia_menu_preview.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\menu\\multimedia_menu_preview.xml"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\menu\\activity_boxing_image_viewer.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\boxing-impl\\build\\intermediates\\bundles\\default\\res\\menu\\activity_boxing_image_viewer.xml"
+    }
+]

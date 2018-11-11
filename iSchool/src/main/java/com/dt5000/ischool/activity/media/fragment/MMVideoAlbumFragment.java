@@ -226,6 +226,7 @@ public class MMVideoAlbumFragment extends Fragment implements Handler.Callback {
             // 扫描视频
             try {
                 ArrayList<MMVideoBean> list = new ArrayList<>();
+                if(getContext() == null)return;
                 ContentResolver cr = getContext().getContentResolver();
                 String str[] = {MediaStore.Video.Media._ID,
                         MediaStore.Video.Media.DISPLAY_NAME,

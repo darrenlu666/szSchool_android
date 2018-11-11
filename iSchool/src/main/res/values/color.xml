@@ -53,5 +53,8 @@
     <color name="halfdark">#80000000</color>
     <color name="color_ff4a57">#ff4a57</color>
     <color name="transparent_half">#23000000</color>
+    <color name="image_selected_color">#7f000000</color>
+    <color name="exam_normal_color">#666666</color>
+    <color name="primary_light">#CFD8DC</color>
 
 </resources>

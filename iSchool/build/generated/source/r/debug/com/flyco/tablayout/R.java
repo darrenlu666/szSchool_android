@@ -8,23 +8,23 @@ package com.flyco.tablayout;
 
 public final class R {
     public static final class attr {
-        public static final int mv_backgroundColor = 0x7f010163;
-        public static final int mv_cornerRadius = 0x7f010164;
-        public static final int mv_isRadiusHalfHeight = 0x7f010167;
-        public static final int mv_isWidthHeightEqual = 0x7f010168;
-        public static final int mv_strokeColor = 0x7f010166;
-        public static final int mv_strokeWidth = 0x7f010165;
-        public static final int tl_bar_color = 0x7f01018b;
-        public static final int tl_bar_stroke_color = 0x7f01018c;
-        public static final int tl_bar_stroke_width = 0x7f01018d;
+        public static final int mv_backgroundColor = 0x7f010167;
+        public static final int mv_cornerRadius = 0x7f010168;
+        public static final int mv_isRadiusHalfHeight = 0x7f01016b;
+        public static final int mv_isWidthHeightEqual = 0x7f01016c;
+        public static final int mv_strokeColor = 0x7f01016a;
+        public static final int mv_strokeWidth = 0x7f010169;
+        public static final int tl_bar_color = 0x7f01018f;
+        public static final int tl_bar_stroke_color = 0x7f010190;
+        public static final int tl_bar_stroke_width = 0x7f010191;
         public static final int tl_divider_color = 0x7f010034;
         public static final int tl_divider_padding = 0x7f010035;
         public static final int tl_divider_width = 0x7f010036;
-        public static final int tl_iconGravity = 0x7f010121;
-        public static final int tl_iconHeight = 0x7f01011f;
-        public static final int tl_iconMargin = 0x7f010122;
-        public static final int tl_iconVisible = 0x7f010120;
-        public static final int tl_iconWidth = 0x7f01011e;
+        public static final int tl_iconGravity = 0x7f010125;
+        public static final int tl_iconHeight = 0x7f010123;
+        public static final int tl_iconMargin = 0x7f010126;
+        public static final int tl_iconVisible = 0x7f010124;
+        public static final int tl_iconWidth = 0x7f010122;
         public static final int tl_indicator_anim_duration = 0x7f010037;
         public static final int tl_indicator_anim_enable = 0x7f010038;
         public static final int tl_indicator_bounce_enable = 0x7f010039;
@@ -55,28 +55,28 @@ public final class R {
         public static final int BLOCK = 0x7f0d001f;
         public static final int BOTH = 0x7f0d0022;
         public static final int BOTTOM = 0x7f0d001d;
-        public static final int LEFT = 0x7f0d0047;
+        public static final int LEFT = 0x7f0d0049;
         public static final int NONE = 0x7f0d0023;
         public static final int NORMAL = 0x7f0d0020;
-        public static final int RIGHT = 0x7f0d0048;
+        public static final int RIGHT = 0x7f0d004a;
         public static final int SELECT = 0x7f0d0024;
         public static final int TOP = 0x7f0d001e;
         public static final int TRIANGLE = 0x7f0d0021;
-        public static final int iv_tab_icon = 0x7f0d0239;
-        public static final int ll_tap = 0x7f0d0238;
-        public static final int rtv_msg_tip = 0x7f0d0237;
-        public static final int tv_tab_title = 0x7f0d0236;
+        public static final int iv_tab_icon = 0x7f0d026f;
+        public static final int ll_tap = 0x7f0d026e;
+        public static final int rtv_msg_tip = 0x7f0d026d;
+        public static final int tv_tab_title = 0x7f0d026c;
     }
     public static final class layout {
-        public static final int layout_tab = 0x7f0300b0;
-        public static final int layout_tab_bottom = 0x7f0300b1;
-        public static final int layout_tab_left = 0x7f0300b2;
-        public static final int layout_tab_right = 0x7f0300b3;
-        public static final int layout_tab_segment = 0x7f0300b4;
-        public static final int layout_tab_top = 0x7f0300b5;
+        public static final int layout_tab = 0x7f0300c3;
+        public static final int layout_tab_bottom = 0x7f0300c4;
+        public static final int layout_tab_left = 0x7f0300c5;
+        public static final int layout_tab_right = 0x7f0300c6;
+        public static final int layout_tab_segment = 0x7f0300c7;
+        public static final int layout_tab_top = 0x7f0300c8;
     }
     public static final class styleable {
-        public static final int[] CommonTabLayout = { 0x7f010034, 0x7f010035, 0x7f010036, 0x7f010037, 0x7f010038, 0x7f010039, 0x7f01003a, 0x7f01003b, 0x7f01003c, 0x7f01003d, 0x7f01003e, 0x7f01003f, 0x7f010040, 0x7f010041, 0x7f010042, 0x7f010043, 0x7f010045, 0x7f010046, 0x7f010047, 0x7f010048, 0x7f010049, 0x7f01004a, 0x7f01004b, 0x7f01004c, 0x7f01004d, 0x7f01004e, 0x7f01004f, 0x7f01011e, 0x7f01011f, 0x7f010120, 0x7f010121, 0x7f010122 };
+        public static final int[] CommonTabLayout = { 0x7f010034, 0x7f010035, 0x7f010036, 0x7f010037, 0x7f010038, 0x7f010039, 0x7f01003a, 0x7f01003b, 0x7f01003c, 0x7f01003d, 0x7f01003e, 0x7f01003f, 0x7f010040, 0x7f010041, 0x7f010042, 0x7f010043, 0x7f010045, 0x7f010046, 0x7f010047, 0x7f010048, 0x7f010049, 0x7f01004a, 0x7f01004b, 0x7f01004c, 0x7f01004d, 0x7f01004e, 0x7f01004f, 0x7f010122, 0x7f010123, 0x7f010124, 0x7f010125, 0x7f010126 };
         public static final int CommonTabLayout_tl_divider_color = 0;
         public static final int CommonTabLayout_tl_divider_padding = 1;
         public static final int CommonTabLayout_tl_divider_width = 2;
@@ -109,14 +109,14 @@ public final class R {
         public static final int CommonTabLayout_tl_underline_color = 24;
         public static final int CommonTabLayout_tl_underline_gravity = 25;
         public static final int CommonTabLayout_tl_underline_height = 26;
-        public static final int[] MsgView = { 0x7f010163, 0x7f010164, 0x7f010165, 0x7f010166, 0x7f010167, 0x7f010168 };
+        public static final int[] MsgView = { 0x7f010167, 0x7f010168, 0x7f010169, 0x7f01016a, 0x7f01016b, 0x7f01016c };
         public static final int MsgView_mv_backgroundColor = 0;
         public static final int MsgView_mv_cornerRadius = 1;
         public static final int MsgView_mv_isRadiusHalfHeight = 4;
         public static final int MsgView_mv_isWidthHeightEqual = 5;
         public static final int MsgView_mv_strokeColor = 3;
         public static final int MsgView_mv_strokeWidth = 2;
-        public static final int[] SegmentTabLayout = { 0x7f010034, 0x7f010035, 0x7f010036, 0x7f010037, 0x7f010038, 0x7f010039, 0x7f01003a, 0x7f01003b, 0x7f01003d, 0x7f01003e, 0x7f01003f, 0x7f010040, 0x7f010041, 0x7f010045, 0x7f010046, 0x7f010047, 0x7f010048, 0x7f010049, 0x7f01004a, 0x7f01004b, 0x7f01004c, 0x7f01018b, 0x7f01018c, 0x7f01018d };
+        public static final int[] SegmentTabLayout = { 0x7f010034, 0x7f010035, 0x7f010036, 0x7f010037, 0x7f010038, 0x7f010039, 0x7f01003a, 0x7f01003b, 0x7f01003d, 0x7f01003e, 0x7f01003f, 0x7f010040, 0x7f010041, 0x7f010045, 0x7f010046, 0x7f010047, 0x7f010048, 0x7f010049, 0x7f01004a, 0x7f01004b, 0x7f01004c, 0x7f01018f, 0x7f010190, 0x7f010191 };
         public static final int SegmentTabLayout_tl_bar_color = 21;
         public static final int SegmentTabLayout_tl_bar_stroke_color = 22;
         public static final int SegmentTabLayout_tl_bar_stroke_width = 23;

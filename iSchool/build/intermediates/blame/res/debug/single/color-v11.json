@@ -1,26 +1,10 @@
 [
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

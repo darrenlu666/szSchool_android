@@ -5,6 +5,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.os.Bundle;
+import android.support.v4.content.ContextCompat;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -18,6 +19,7 @@ import android.widget.TextView;
 
 import com.dt5000.ischool.R;
 import com.dt5000.ischool.activity.SingleImageShowActivity;
+import com.dt5000.ischool.activity.media.activity.VideoViewActivity;
 import com.dt5000.ischool.entity.PersonMessage;
 import com.dt5000.ischool.entity.User;
 import com.dt5000.ischool.net.UrlProtocol;
@@ -159,6 +161,24 @@ public class MsgTalkListAdapter extends BaseAdapter {
                 viewHolder.img_pic_right.setVisibility(View.GONE);
             }
 
+            //视频
+            final String videoUrl = message.getVideoUrl();
+            if(!CheckUtil.stringIsBlank(videoUrl)){
+                viewHolder.img_pic_right.setVisibility(View.VISIBLE);
+                viewHolder.img_emoji_right.setVisibility(View.GONE);
+
+                viewHolder.img_pic_right.setImageResource(R.drawable.video_play);
+                viewHolder.img_pic_right.setBackgroundColor(ContextCompat.getColor(context,R.color.primary_light));
+                viewHolder.img_pic_right.setOnClickListener(new OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        Intent intent = new Intent(context, VideoViewActivity.class);
+                        intent.putExtra("URL", videoUrl);
+                        context.startActivity(intent);
+                    }
+                });
+            }
+
             // 内容
             String content = message.getContent();
             if (!CheckUtil.stringIsBlank(content)) {
@@ -200,6 +220,24 @@ public class MsgTalkListAdapter extends BaseAdapter {
                 viewHolder.img_pic_left.setOnClickListener(new ImgClickListener(largeImg));
             } else {
                 viewHolder.img_pic_left.setVisibility(View.GONE);
+            }
+
+            //视频
+            final String videoUrl = message.getVideoUrl();
+            if(!CheckUtil.stringIsBlank(videoUrl)){
+                viewHolder.img_pic_left.setVisibility(View.VISIBLE);
+                viewHolder.img_emoji_left.setVisibility(View.GONE);
+
+                viewHolder.img_pic_left.setImageResource(R.drawable.video_play);
+                viewHolder.img_pic_left.setBackgroundColor(ContextCompat.getColor(context,R.color.primary_light));
+                viewHolder.img_pic_left.setOnClickListener(new OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        Intent intent = new Intent(context, VideoViewActivity.class);
+                        intent.putExtra("URL", videoUrl);
+                        context.startActivity(intent);
+                    }
+                });
             }
 
             // 内容
@@ -259,7 +297,10 @@ public class MsgTalkListAdapter extends BaseAdapter {
         @Override
         public void onLoadingComplete(String imageUri, View view,
                                       Bitmap loadedImage) {
-            imageView.setImageBitmap(loadedImage);
+            int width = loadedImage.getWidth()/3;
+            int height = loadedImage.getHeight()/3;
+            Bitmap bm = Bitmap.createScaledBitmap(loadedImage,width,height,true);
+            imageView.setImageBitmap(bm);
         }
 
         @Override

@@ -5,7 +5,7 @@
     android:versionName="2.2.0" >
 
     <uses-sdk
-        android:minSdkVersion="16"
+        android:minSdkVersion="19"
         android:targetSdkVersion="25" />
 
     <supports-screens
@@ -44,6 +44,8 @@
     <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CAMERA" />
 
     <meta-data
         android:name="android.support.VERSION"
@@ -709,6 +711,34 @@
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity android:name="com.dt5000.ischool.activity.teacher.Group_Send_List_Activity" />
         <activity android:name="com.dt5000.ischool.activity.student.WxPayActivity" />
+        <activity android:name="com.dt5000.ischool.activity.media.activity.MMSelectorActivity" />
+        <activity android:name="com.dt5000.ischool.activity.media.activity.RecordVideoActivity" />
+        <activity android:name="com.dt5000.ischool.activity.media.activity.VideoPlayerActivity" />
+        <activity android:name="com.dt5000.ischool.activity.media.camera.CaptureImageActivity" />
+        <activity android:name="com.dt5000.ischool.activity.media.camera.PreviewImageActivity" />
+        <activity android:name="com.dt5000.ischool.activity.media.image.MMPreviewImageActivity" />
+        <activity
+            android:name="com.dt5000.ischool.activity.media.activity.VideoViewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.bilibili.boxing_impl.ui.BoxingViewActivity2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.bilibili.boxing_impl.ui.BoxingActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/Boxing.AppTheme.NoActionBar.Blue" >
+        </activity>
+        <activity
+            android:name="com.bilibili.boxing_impl.ui.BoxingViewActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/Boxing.AppTheme.NoActionBar.Blue" >
+        </activity>
+        <activity
+            android:name="com.bilibili.boxing_impl.ui.BoxingBottomSheetActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Boxing.AppTheme.NoActionBar.Blue" />
     </application>
 
 </manifest>

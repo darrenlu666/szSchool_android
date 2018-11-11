@@ -60,10 +60,9 @@
 
             <ImageView
                 android:id="@+id/img_pic_left"
-                android:layout_width="100dp"
-                android:layout_height="100dp"
-                android:background="@drawable/pic_lo_bg"
-                android:scaleType="centerCrop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="center"
                 android:visibility="gone" />
 
             <ImageView
@@ -118,10 +117,9 @@
 
             <ImageView
                 android:id="@+id/img_pic_right"
-                android:layout_width="100dp"
-                android:layout_height="100dp"
-                android:background="@drawable/pic_lo_bg"
-                android:scaleType="centerCrop"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="center"
                 android:visibility="gone" />
 
             <ImageView

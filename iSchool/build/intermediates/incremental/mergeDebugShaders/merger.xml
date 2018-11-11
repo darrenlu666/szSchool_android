@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/ludonghai/android/szSchool_android-master/iSchool/src/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\Project\szSchool_android-master-new\iSchool\src\main\shaders"/></dataSet><dataSet config="debug"><source path="D:\Project\szSchool_android-master-new\iSchool\src\debug\shaders"/></dataSet></merger>

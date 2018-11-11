@@ -7,12 +7,19 @@ package com.dt5000.ischool.activity.media.bean;
 import android.os.Parcel;
 import android.os.Parcelable;
 
-public class MMImageBean implements Parcelable {
+import com.bilibili.boxing.model.entity.BaseMedia;
+
+public class MMImageBean extends BaseMedia implements Parcelable {
 
     private String path = null;
     private boolean isSelected = false;
     private boolean selectable = true;
     private String thumbnails = null;
+
+    @Override
+    public TYPE getType() {
+        return null;
+    }
 
     public MMImageBean(String path, boolean selected, String thumbnails) {
         this.path = path;
@@ -20,7 +27,8 @@ public class MMImageBean implements Parcelable {
         this.thumbnails = thumbnails;
     }
 
-    public MMImageBean() {
+    public MMImageBean(String path) {
+        this.path = path;
     }
 
     /**

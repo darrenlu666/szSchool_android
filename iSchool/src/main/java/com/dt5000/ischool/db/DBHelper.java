@@ -36,24 +36,9 @@ public class DBHelper extends SQLiteOpenHelper {
         groupSql.append("				pic_url TEXT,");
         groupSql.append("				owner TEXT,");
         groupSql.append("				sync_time TEXT, ");
-        groupSql.append("				headpic TEXT, ");// 周锋2015.9.15修改，数据库版本2中增加字段headpic
+        groupSql.append("				headpic TEXT, ");
+        groupSql.append("				video_url TEXT, ");// 周锋2015.9.15修改，数据库版本2中增加字段headpic
         groupSql.append("				constraint pk_t1 PRIMARY KEY (group_message_id, owner) )");
-
-        // 班级消息表
-        clzSql.append("CREATE TABLE class_message (");
-        clzSql.append("				class_message_id INTEGER NOT NULL,");
-        clzSql.append("				classinfo_id TEXT,");
-        clzSql.append("				clazz_name TEXT,");
-        clzSql.append("				sender_id TEXT,");
-        clzSql.append("				sender_name TEXT,");
-        clzSql.append("				content TEXT,");
-        clzSql.append("				send_date TEXT,");
-        clzSql.append("				read_status NUMERIC,");
-        clzSql.append("				pic_url TEXT,");
-        clzSql.append("				owner TEXT,");
-        clzSql.append("				sync_time TEXT, ");
-        clzSql.append("				headpic TEXT, ");// 周锋2015.9.15修改，数据库版本2中增加字段headpic
-        clzSql.append("				constraint pk_t1 PRIMARY KEY (class_message_id, owner) )");
 
         // 个人消息表
         msgSql.append("CREATE TABLE message (");
@@ -68,8 +53,28 @@ public class DBHelper extends SQLiteOpenHelper {
         msgSql.append("				image_url TEXT,");
         msgSql.append("				owner TEXT,");
         msgSql.append("				sync_time TEXT, ");
+        msgSql.append("				video_url TEXT, ");
         msgSql.append("				profile_url TEXT, ");// 周锋2016.5.17修改，数据库版本3中增加字段profile_url
-        msgSql.append("				constraint pk_t2 PRIMARY KEY (message_id, owner) )");
+        msgSql.append("				constraint pk_t1 PRIMARY KEY (message_id, owner) )");
+
+        // 班级消息表
+        clzSql.append("CREATE TABLE class_message (");
+        clzSql.append("				class_message_id INTEGER NOT NULL,");
+        clzSql.append("				classinfo_id TEXT,");
+        clzSql.append("				clazz_name TEXT,");
+        clzSql.append("				sender_id TEXT,");
+        clzSql.append("				sender_name TEXT,");
+        clzSql.append("				content TEXT,");
+        clzSql.append("				send_date TEXT,");
+        clzSql.append("				read_status NUMERIC,");
+        clzSql.append("				pic_url TEXT,");
+        clzSql.append("				owner TEXT,");
+        clzSql.append("				sync_time TEXT, ");
+        clzSql.append("				headpic TEXT, ");
+        clzSql.append("				video_url TEXT, ");// 周锋2015.9.15修改，数据库版本2中增加字段headpic
+        clzSql.append("				constraint pk_t1 PRIMARY KEY (class_message_id, owner) )");
+
+
 
         db.execSQL(clzSql.toString());
         db.execSQL(msgSql.toString());

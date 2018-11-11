@@ -43,8 +43,14 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
+import com.bilibili.boxing.Boxing;
+import com.bilibili.boxing.model.config.BoxingConfig;
+import com.bilibili.boxing.model.entity.BaseMedia;
+import com.bilibili.boxing_impl.ui.BoxingActivity;
 import com.donkingliang.imageselector.utils.ImageSelectorUtils;
 import com.dt5000.ischool.R;
+import com.dt5000.ischool.activity.media.activity.MMSelectorActivity;
+import com.dt5000.ischool.activity.media.bean.MMImageBean;
 import com.dt5000.ischool.adapter.GroupMsgTalkListAdapter;
 import com.dt5000.ischool.adapter.ImageSelectAdapter;
 import com.dt5000.ischool.db.GroupMessageDBManager;
@@ -73,6 +79,8 @@ import java.lang.ref.WeakReference;
 import java.util.ArrayList;
 import java.util.List;
 
+import static com.dt5000.ischool.activity.ClassMsgTalkListActivity.EXTRA_DATA;
+
 /**
  * 群组聊天列表页面
  */
@@ -91,6 +99,7 @@ public class GroupMsgTalkListActivity extends Activity {
     private Button btn_send;
     private ImageView img_camera;
     private ImageView img_album;
+    private ImageView img_video;
     private WrapHeightViewPager viewpager_emj;
     private CirclePageIndicator circlePageIndicator;
     //recyclerView
@@ -113,6 +122,8 @@ public class GroupMsgTalkListActivity extends Activity {
     private String groupInfoID;
     private MyHandler handler = new MyHandler(this);
     private final int REQUEST_STORAGE_WRITE_ACCESS_PERMISSION = 100;
+    private static final int REQUEST_SELECT_IMAGES = 1 << 4;
+    private static final int REQUEST_SELECT_VIDEO = 1 << 3;
 
     @SuppressLint("HandlerLeak")
     private Handler saveHandler = new Handler() {
@@ -156,6 +167,7 @@ public class GroupMsgTalkListActivity extends Activity {
         btn_send = (Button) findViewById(R.id.btn_send);
         img_camera = (ImageView) findViewById(R.id.img_camera);
         img_album = (ImageView) findViewById(R.id.img_album);
+        img_video = (ImageView) findViewById(R.id.img_video);
         viewpager_emj = (WrapHeightViewPager) findViewById(R.id.viewpager_emj);
         circlePageIndicator = (CirclePageIndicator) findViewById(R.id.circlePageIndicator);
         //recyclerView
@@ -221,45 +233,7 @@ public class GroupMsgTalkListActivity extends Activity {
         btn_send.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (!isSending) {
-                    String content = edit_input.getText().toString().trim();
-
-                    if (!CheckUtil.stringIsBlank(content) || (picPaths != null && picPaths.size() > 0)) {
-                        if (!CheckUtil.stringIsBlank(content) && content.length() > 500) {
-                            MToast.show(GroupMsgTalkListActivity.this, "输入字数超出限制", MToast.SHORT);
-                        } else {
-                            GroupMessageSend groupMessageSend = new GroupMessageSend();
-                            groupMessageSend.setClassinfoId(groupInfoID);
-                            groupMessageSend.setContent(content);
-                            groupMessageSend.setMessageType("3");
-
-                            if (User.isStudentRole(user.getRole())) {
-                                groupMessageSend.setStudentId(user.getUserId());
-                            } else {
-                                groupMessageSend.setTeacherId(user.getUserId());
-                            }
-
-                            // 检查发短信按钮
-                            String sendSMS = uiswitch_sms.isChecked() ? "true" : "false";
-
-                            // 标识线程开启
-                            isSending = true;
-
-                            boolean isHaveContent = true;
-                            if (CheckUtil.stringIsBlank(content)) {
-                                isHaveContent = false;
-                            }
-
-                            RetrofitService.postFiles(picPaths,
-                                    RetrofitService.postFilesMap(groupMessageSend, sendSMS, picPaths, isHaveContent),
-                                    GroupMsgTalkListActivity.this, user, isHaveContent, handler);
-                        }
-                    } else {
-                        MToast.show(GroupMsgTalkListActivity.this, "请输入内容", MToast.SHORT);
-                    }
-                } else {
-                    MToast.show(GroupMsgTalkListActivity.this, "正在处理上一条消息，请稍后...", MToast.SHORT);
-                }
+                sendMsg();
             }
         });
 
@@ -302,8 +276,8 @@ public class GroupMsgTalkListActivity extends Activity {
         img_camera.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (ContextCompat.checkSelfPermission(GroupMsgTalkListActivity.this, Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
-                    ActivityCompat.requestPermissions(GroupMsgTalkListActivity.this, new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, REQUEST_STORAGE_WRITE_ACCESS_PERMISSION);
+                if (ContextCompat.checkSelfPermission(GroupMsgTalkListActivity.this, Manifest.permission.CAMERA) != PackageManager.PERMISSION_GRANTED) {
+                    ActivityCompat.requestPermissions(GroupMsgTalkListActivity.this, new String[]{Manifest.permission.CAMERA}, REQUEST_STORAGE_WRITE_ACCESS_PERMISSION);
                 } else {
                     getPicFromCamera();
                 }
@@ -315,6 +289,16 @@ public class GroupMsgTalkListActivity extends Activity {
             @Override
             public void onClick(View v) {
                 getPicFromAlbum();
+            }
+        });
+
+        img_video.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(GroupMsgTalkListActivity.this, MMSelectorActivity.class);
+                intent.putExtra("EXTRA_SIZE",20);
+                intent.putExtra("EXTRA_TYPE", "VIDEO");
+                startActivityForResult(intent, REQUEST_SELECT_VIDEO);
             }
         });
 
@@ -332,6 +316,48 @@ public class GroupMsgTalkListActivity extends Activity {
                 }
             }
         });
+    }
+
+    private void sendMsg(){
+        if (!isSending) {
+            String content = edit_input.getText().toString().trim();
+
+            if (!CheckUtil.stringIsBlank(content) || (picPaths != null && picPaths.size() > 0)) {
+                if (!CheckUtil.stringIsBlank(content) && content.length() > 500) {
+                    MToast.show(GroupMsgTalkListActivity.this, "输入字数超出限制", MToast.SHORT);
+                } else {
+                    GroupMessageSend groupMessageSend = new GroupMessageSend();
+                    groupMessageSend.setClassinfoId(groupInfoID);
+                    groupMessageSend.setContent(content);
+                    groupMessageSend.setMessageType("3");
+
+                    if (User.isStudentRole(user.getRole())) {
+                        groupMessageSend.setStudentId(user.getUserId());
+                    } else {
+                        groupMessageSend.setTeacherId(user.getUserId());
+                    }
+
+                    // 检查发短信按钮
+                    String sendSMS = uiswitch_sms.isChecked() ? "true" : "false";
+
+                    // 标识线程开启
+                    isSending = true;
+
+                    boolean isHaveContent = true;
+                    if (CheckUtil.stringIsBlank(content)) {
+                        isHaveContent = false;
+                    }
+
+                    RetrofitService.postFiles(picPaths,
+                            RetrofitService.postFilesMap(groupMessageSend, sendSMS, picPaths, isHaveContent),
+                            GroupMsgTalkListActivity.this, user, isHaveContent, handler);
+                }
+            } else {
+                MToast.show(GroupMsgTalkListActivity.this, "请输入内容", MToast.SHORT);
+            }
+        } else {
+            MToast.show(GroupMsgTalkListActivity.this, "正在处理上一条消息，请稍后...", MToast.SHORT);
+        }
     }
 
     private void init() {
@@ -447,7 +473,9 @@ public class GroupMsgTalkListActivity extends Activity {
 
     private void getPicFromAlbum() {
         cleaner();
-        ImageSelectorUtils.openPhoto(GroupMsgTalkListActivity.this, FlagCode.ACTIVITY_REQUEST_CODE_1, false, 9);
+        //ImageSelectorUtils.openPhoto(GroupMsgTalkListActivity.this, FlagCode.ACTIVITY_REQUEST_CODE_1, false, 9);
+        BoxingConfig singleImgConfig = new BoxingConfig(BoxingConfig.Mode.SINGLE_IMG);
+        Boxing.of(singleImgConfig).withIntent(GroupMsgTalkListActivity.this, BoxingActivity.class).start(GroupMsgTalkListActivity.this, REQUEST_SELECT_IMAGES);
     }
 
 
@@ -544,6 +572,27 @@ public class GroupMsgTalkListActivity extends Activity {
                         recyclerView.setAdapter(adapter);
                     }
                     break;
+                case REQUEST_SELECT_VIDEO://视频
+                    if (data != null) {
+                        ArrayList<MMImageBean> mImageList = data.getParcelableArrayListExtra(EXTRA_DATA);
+                        if (mImageList != null && mImageList.size() > 0) {
+                            picPaths.add(mImageList.get(0).getPath());
+                            sendMsg();
+                        }
+                    }
+                    break;
+                case REQUEST_SELECT_IMAGES://图片
+                    ArrayList<BaseMedia> mImageList = Boxing.getResult(data);
+                    for (BaseMedia imageBean : mImageList) {
+                        picPaths.add(imageBean.getPath());
+                    }
+                    //设置适配器
+                    adapter.setImageMessages(picPaths);
+                    //显示
+                    relativeImage.setVisibility(View.VISIBLE);
+                    recyclerView.setAdapter(adapter);
+                    break;
+
             }
         }
         super.onActivityResult(requestCode, resultCode, data);
@@ -749,6 +798,7 @@ public class GroupMsgTalkListActivity extends Activity {
         super.onDestroy();
         // 注销广播
         unregisterReceiver(messageBroadcastReceiver);
+        cleaner();
     }
 
 }

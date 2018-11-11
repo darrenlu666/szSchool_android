@@ -20,6 +20,15 @@ public class GroupMessage {
 	private Integer readStatus;
 	private Integer groupMessageID;
 	private Integer newGroupMsgCount = 0;
+	private String videoUrl;
+
+	public String getVideoUrl() {
+		return videoUrl;
+	}
+
+	public void setVideoUrl(String videoUrl) {
+		this.videoUrl = videoUrl;
+	}
 
 	public GroupMessage() {
 	}

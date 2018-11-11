@@ -1,0 +1,42 @@
+<com.dt5000.ischool.activity.media.other.AspectRatioFrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="blocksDescendants"
+    app:aspectRatioEnabled="true"
+    android:gravity="center">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:padding="1px">
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/imgQueue"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:actualImageScaleType="centerCrop"
+            app:placeholderImageScaleType="centerCrop" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/v_selected_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="1px">
+
+        <ImageView
+            android:id="@+id/cb_select_tag"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:background="@null"
+            android:focusable="false"
+            android:padding="4dp"
+            android:src="@drawable/ic_exam_select_n" />
+    </RelativeLayout>
+
+</com.dt5000.ischool.activity.media.other.AspectRatioFrameLayout>

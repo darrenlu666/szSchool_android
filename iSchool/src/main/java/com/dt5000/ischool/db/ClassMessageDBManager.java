@@ -43,8 +43,8 @@ public class ClassMessageDBManager {
                 db.beginTransaction();
 
                 String sql = "INSERT INTO class_message (class_message_id, classinfo_id, clazz_name, sender_id, "
-                        + "sender_name, content, send_date, read_status, pic_url, owner, sync_time, headpic) "
-                        + " VALUES(?,?,?,?,?,?,?,?,?,?,datetime('now','localtime'),?)";
+                        + "sender_name, content, send_date, read_status, pic_url, owner, sync_time, headpic, video_url) "
+                        + " VALUES(?,?,?,?,?,?,?,?,?,?,datetime('now','localtime'),?,?)";
                 Object[] params = null;
                 for (ClassMessage m : data) {
                     if (m.getOwner().equals(m.getSenderID())) {
@@ -56,7 +56,7 @@ public class ClassMessageDBManager {
                             m.getSenderID(), m.getSenderName(), m.getContent(),
                             TimeUtil.fullTimeFormat(m.getSendDate()),
                             m.getReadStatus(), m.getPicUrl(), m.getOwner(),
-                            m.getStuPhoto()};
+                            m.getStuPhoto(),m.getVideoUrl()};
                     db.execSQL(sql, params);
                 }
 
@@ -81,15 +81,15 @@ public class ClassMessageDBManager {
             try {
                 db.execSQL(
                         "INSERT INTO class_message(class_message_id, classinfo_id, clazz_name, sender_id, sender_name,"
-                                + "	content, send_date, read_status, pic_url, owner, sync_date, headpic) "
-                                + " VALUES(?,?,?,?,?,?,?,?,?,?,datetime('now','localtime'),?)",
+                                + "	content, send_date, read_status, pic_url, owner, sync_date, headpic, video_url) "
+                                + " VALUES(?,?,?,?,?,?,?,?,?,?,datetime('now','localtime'),?,?)",
                         new Object[]{data.getClassMessageID(),
                                 data.getClassinfoID(), data.getClazzName(),
                                 data.getSenderID(), data.getSenderName(),
                                 data.getContent(),
                                 TimeUtil.fullTimeFormat(data.getSendDate()),
                                 data.getReadStatus(), data.getPicUrl(),
-                                data.getOwner(), data.getStuPhoto()});
+                                data.getOwner(), data.getStuPhoto(),data.getVideoUrl()});
 
                 db.setTransactionSuccessful();
             } catch (Exception e) {
@@ -243,6 +243,7 @@ public class ClassMessageDBManager {
         m.setOwner(c.getString(c.getColumnIndex("owner")));
         m.setReadStatus(c.getInt(c.getColumnIndex("read_status")));
         m.setStuPhoto(c.getString(c.getColumnIndex("headpic")));
+        m.setVideoUrl(c.getString(c.getColumnIndex("video_url")));
         return m;
     }
 

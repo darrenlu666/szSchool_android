@@ -6,6 +6,7 @@ import android.widget.TextView;
 
 
 import com.dt5000.ischool.R;
+import com.dt5000.ischool.activity.media.fragment.MMImageAlbumFragment;
 import com.dt5000.ischool.activity.media.fragment.MMVideoAlbumFragment;
 
 import butterknife.Bind;
@@ -41,7 +42,7 @@ public class MMSelectorActivity extends ToolbarActivity {
             switch (getIntent().getStringExtra(EXTRA_TYPE)) {
                 case EXTRA_TYPE_IMAGE:
                     mTitle.setText(getString(R.string.exam_image_select));
-                    //replaceConentWithFragment(MMImageAlbumFragment.newInstance(getIntent().getIntExtra("EXTRA_SIZE", 8)));
+                    replaceConentWithFragment(MMImageAlbumFragment.newInstance(getIntent().getIntExtra("EXTRA_SIZE", 9)));
                     break;
                 case EXTRA_TYPE_AUDIO:
                     mTitle.setText(getString(R.string.exam_audio_select));

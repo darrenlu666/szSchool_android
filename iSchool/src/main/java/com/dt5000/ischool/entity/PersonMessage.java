@@ -27,6 +27,19 @@ public class PersonMessage implements Serializable {
 	private Integer newMsgCount;
 	private String profileUrl;
 	private String messageType;
+	private String videoUrl;
+
+	public static long getSerialVersionUID() {
+		return serialVersionUID;
+	}
+
+	public String getVideoUrl() {
+		return videoUrl;
+	}
+
+	public void setVideoUrl(String videoUrl) {
+		this.videoUrl = videoUrl;
+	}
 
 	public PersonMessage() {
 	}

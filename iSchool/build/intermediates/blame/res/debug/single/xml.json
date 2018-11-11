@@ -1,14 +1,10 @@
 [
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/xml/file_paths.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/xml/file_paths.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\xml\\file_paths.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\src\\main\\res\\xml\\file_paths.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\src\\main\\res\\xml\\file_paths.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\xml\\boxing_file_provider.xml",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\5df634cba79de420f7ae57c0b33965261338af64\\output\\res\\xml\\boxing_file_provider.xml"
     }
 ]

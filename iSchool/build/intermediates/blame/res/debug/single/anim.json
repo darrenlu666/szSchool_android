@@ -1,338 +1,122 @@
 [
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/my_toast_enter.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/anim/my_toast_enter.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\enter_anim.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\src\\main\\res\\anim\\enter_anim.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\share_dialog_exit.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\anim\\share_dialog_exit.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\8d3e6dfddc493e97ec69bab63ce3fe7a2b49b6b1\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter_1.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\src\\main\\res\\anim\\popup_enter_1.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\tweens_anim_pull_to_refresh_listview_arrow_rotate.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\anim\\tweens_anim_pull_to_refresh_listview_arrow_rotate.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit_1.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\src\\main\\res\\anim\\popup_exit_1.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter_1.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\anim\\popup_enter_1.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
-        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/anim/design_bottom_sheet_slide_out.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\flipper_left_out.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\anim\\flipper_left_out.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/anim/abc_fade_out.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\tweens_anim_pull_to_refresh_listview_arrow_rotate_reverse.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\anim\\tweens_anim_pull_to_refresh_listview_arrow_rotate_reverse.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\8d3e6dfddc493e97ec69bab63ce3fe7a2b49b6b1\\output\\res\\anim\\design_snackbar_in.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\flipper_left_in.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\anim\\flipper_left_in.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\boxing_fade_out.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\boxing-impl\\build\\intermediates\\bundles\\default\\res\\anim\\boxing_fade_out.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/flipper_right_out.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/anim/flipper_right_out.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\exit_anim.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\anim\\exit_anim.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/anim/abc_slide_out_bottom.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\my_toast_enter.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\anim\\my_toast_enter.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit_1.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\anim\\popup_exit_1.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/flipper_left_out.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/anim/flipper_left_out.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\enter_anim.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\anim\\enter_anim.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\flipper_right_out.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\anim\\flipper_right_out.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter_1.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\src\\main\\res\\anim\\popup_enter_1.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\share_dialog_enter.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\src\\main\\res\\anim\\share_dialog_enter.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/flipper_left_in.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/anim/flipper_left_in.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\boxing_fade_in.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\boxing-impl\\build\\intermediates\\bundles\\default\\res\\anim\\boxing_fade_in.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/anim/abc_slide_out_top.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\flipper_right_in.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\anim\\flipper_right_in.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\tweens_anim_pull_to_refresh_listview_arrow_rotate.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\src\\main\\res\\anim\\tweens_anim_pull_to_refresh_listview_arrow_rotate.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\my_toast_enter.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\src\\main\\res\\anim\\my_toast_enter.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\my_toast_exit.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\anim\\my_toast_exit.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\my_toast_exit.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\src\\main\\res\\anim\\my_toast_exit.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\flipper_left_in.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\src\\main\\res\\anim\\flipper_left_in.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\share_dialog_enter.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\anim\\share_dialog_enter.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\flipper_right_in.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\src\\main\\res\\anim\\flipper_right_in.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/share_dialog_exit.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/anim/share_dialog_exit.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\flipper_right_in.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\src\\main\\res\\anim\\flipper_right_in.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
-        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/anim/design_snackbar_out.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/my_toast_exit.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/anim/my_toast_exit.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/anim/abc_popup_enter.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\8d3e6dfddc493e97ec69bab63ce3fe7a2b49b6b1\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\share_dialog_enter.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\src\\main\\res\\anim\\share_dialog_enter.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\8d3e6dfddc493e97ec69bab63ce3fe7a2b49b6b1\\output\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\flipper_right_out.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\src\\main\\res\\anim\\flipper_right_out.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\8d3e6dfddc493e97ec69bab63ce3fe7a2b49b6b1\\output\\res\\anim\\design_snackbar_in.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/anim/abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\tweens_anim_pull_to_refresh_listview_arrow_rotate_reverse.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\src\\main\\res\\anim\\tweens_anim_pull_to_refresh_listview_arrow_rotate_reverse.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\flipper_left_out.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\src\\main\\res\\anim\\flipper_left_out.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/popup_enter_1.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/anim/popup_enter_1.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/enter_anim.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/anim/enter_anim.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\flipper_right_out.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\src\\main\\res\\anim\\flipper_right_out.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\tweens_anim_pull_to_refresh_listview_arrow_rotate.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\src\\main\\res\\anim\\tweens_anim_pull_to_refresh_listview_arrow_rotate.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\tweens_anim_pull_to_refresh_listview_arrow_rotate_reverse.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\src\\main\\res\\anim\\tweens_anim_pull_to_refresh_listview_arrow_rotate_reverse.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/anim/abc_slide_in_top.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit_1.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\src\\main\\res\\anim\\popup_exit_1.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\flipper_left_out.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\src\\main\\res\\anim\\flipper_left_out.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
-        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/anim/design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/anim/abc_fade_in.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\my_toast_exit.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\src\\main\\res\\anim\\my_toast_exit.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/ludonghai/.android/build-cache/f2ad8d31ab7b975ecbcf21e54901836b3a6ee2c8/output/res/anim/abc_popup_exit.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\8d3e6dfddc493e97ec69bab63ce3fe7a2b49b6b1\\output\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/exit_anim.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/anim/exit_anim.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\share_dialog_exit.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\src\\main\\res\\anim\\share_dialog_exit.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/tweens_anim_pull_to_refresh_listview_arrow_rotate.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/anim/tweens_anim_pull_to_refresh_listview_arrow_rotate.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\share_dialog_exit.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\src\\main\\res\\anim\\share_dialog_exit.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/flipper_right_in.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/anim/flipper_right_in.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\8d3e6dfddc493e97ec69bab63ce3fe7a2b49b6b1\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\flipper_left_in.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\src\\main\\res\\anim\\flipper_left_in.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\exit_anim.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\src\\main\\res\\anim\\exit_anim.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/popup_exit_1.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/anim/popup_exit_1.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\my_toast_enter.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\src\\main\\res\\anim\\my_toast_enter.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\enter_anim.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\src\\main\\res\\anim\\enter_anim.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\exit_anim.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\src\\main\\res\\anim\\exit_anim.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools_2.2.0\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\8d3e6dfddc493e97ec69bab63ce3fe7a2b49b6b1\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/D:\\AndroidProject\\Company\\ISchools\\ISchool\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/C:\\Users\\weimy\\.android\\build-cache\\fceafa77740c133de2578abb7cb448de4f15df49\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/tweens_anim_pull_to_refresh_listview_arrow_rotate_reverse.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/anim/tweens_anim_pull_to_refresh_listview_arrow_rotate_reverse.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
-        "source": "/Users/ludonghai/.android/build-cache/b6e7395c28abc6ac31cd114f5b8d61a0a7651ccd/output/res/anim/design_snackbar_in.xml"
-    },
-    {
-        "merged": "/Users/ludonghai/android/szSchool_android-master/iSchool/build/intermediates/res/merged/debug/anim/share_dialog_enter.xml",
-        "source": "/Users/ludonghai/android/szSchool_android-master/iSchool/src/main/res/anim/share_dialog_enter.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\anim\\design_snackbar_in.xml"
     }
 ]

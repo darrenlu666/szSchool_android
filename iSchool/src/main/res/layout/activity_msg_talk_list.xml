@@ -135,6 +135,15 @@
                     android:layout_marginLeft="10dp"
                     android:layout_toRightOf="@id/img_camera"
                     android:background="@drawable/a_from_album" />
+
+                <ImageView
+                    android:id="@+id/img_video"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_toRightOf="@id/img_album"
+                    android:background="@drawable/ic_exam_video_open"/>
             </RelativeLayout>
 
             <RelativeLayout

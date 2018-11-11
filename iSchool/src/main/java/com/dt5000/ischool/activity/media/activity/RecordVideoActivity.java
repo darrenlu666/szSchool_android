@@ -131,7 +131,7 @@ public class RecordVideoActivity extends AppCompatActivity implements TextureVie
         mCamera.lock();
         mCamera.stopPreview();
         mCamera.release();
-        if (mRecorder.getOutputFile().length() == 0) {
+        if (mRecorder.getOutputFile() != null && mRecorder.getOutputFile().length() == 0) {
             mRecorder.deleteOutputFile();
             Log.i(TAG, "onPause deleteOutputFile");
         }
@@ -426,7 +426,7 @@ public class RecordVideoActivity extends AppCompatActivity implements TextureVie
         if (mRecorder.isRecording()) {
             mRecorder.stopRecording(true);//取消
         } else {
-            if (mRecorder.getOutputFile().length() == 0) {
+            if (mRecorder.getOutputFile() != null && mRecorder.getOutputFile().length() == 0) {
                 mRecorder.deleteOutputFile();
                 Log.i(TAG, "onPause deleteOutputFile");
             }
@@ -449,11 +449,17 @@ public class RecordVideoActivity extends AppCompatActivity implements TextureVie
 
     @Override
     protected void onStop() {
+
+        super.onStop();
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
         if (mCameraPair != null) {
             mCameraPair.getCamera().lock();
             mCameraPair.release();
         }
-        super.onStop();
     }
 
     @Override
@@ -475,9 +481,14 @@ public class RecordVideoActivity extends AppCompatActivity implements TextureVie
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
-        if (requestCode == 1 << 2 && resultCode == RESULT_OK && data != null) {
-            setResult(RESULT_OK, data);
-            finish();
+        if (requestCode == 1 << 2 ) {
+            if (resultCode == VideoPlayerActivity.EXTRA_RESULT_RETRY) {
+                initRecorder();
+                startCameraPreview();
+            } else if (resultCode == RESULT_OK && data != null) {
+                setResult(RESULT_OK, data);
+                finish();
+            }
         }
     }
 }

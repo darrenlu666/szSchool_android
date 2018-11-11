@@ -17,7 +17,11 @@ public abstract class RecyclerBaseAdapter<M> extends RecyclerView.Adapter<Recycl
     private int mResId;
     private List<M> mList;
     private onItemClickListener mItemClickListener;
+    private onItemLongClickListener mOnItemLongClickListener;
 
+    public void setOnLongItemClickListener(onItemLongClickListener listener){
+        mOnItemLongClickListener  = listener;
+    }
 
     public void setOnItemClickListener(onItemClickListener itemClickListener){
         this.mItemClickListener = itemClickListener;
@@ -46,6 +50,16 @@ public abstract class RecyclerBaseAdapter<M> extends RecyclerView.Adapter<Recycl
                 }
             });
         }
+        if(mOnItemLongClickListener != null){
+            holder.getmConvertView().setOnLongClickListener(new View.OnLongClickListener() {
+                @Override
+                public boolean onLongClick(View v) {
+                    mOnItemLongClickListener.itemLongClick(position);
+                    return false;
+                }
+            });
+        }
+
         onBindView(holder,position);
     }
 
@@ -62,7 +76,31 @@ public abstract class RecyclerBaseAdapter<M> extends RecyclerView.Adapter<Recycl
         notifyDataSetChanged();
     }
 
+    public void addData(M data){
+        mList.add(data);
+        notifyDataSetChanged();
+    }
+
+    public void addList(List<M> list){
+        mList.addAll(list);
+        notifyDataSetChanged();
+    }
+
+    public void clear(){
+        mList.clear();
+        notifyDataSetChanged();
+    }
+
+    public void delete(int pos){
+        mList.remove(pos);
+        notifyDataSetChanged();
+    }
+
     public interface onItemClickListener{
         void itemClick(int position);
+    }
+
+    public interface onItemLongClickListener{
+        void itemLongClick(int position);
     }
 }

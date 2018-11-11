@@ -24,6 +24,15 @@ public class ClassMessage {
 	private Integer readStatus;
 	private Integer classMessageID;
 	private Integer newClzMsgCount = 0;
+	private String videoUrl;
+
+	public String getVideoUrl() {
+		return videoUrl;
+	}
+
+	public void setVideoUrl(String videoUrl) {
+		this.videoUrl = videoUrl;
+	}
 
 	public ClassMessage() {
 	}

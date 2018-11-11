@@ -43,8 +43,20 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
+import com.bilibili.boxing.Boxing;
+import com.bilibili.boxing.model.config.BoxingConfig;
+import com.bilibili.boxing.model.entity.BaseMedia;
+import com.bilibili.boxing.model.entity.impl.ImageMedia;
+import com.bilibili.boxing_impl.ui.BoxingActivity;
+import com.bilibili.boxing_impl.ui.BoxingViewActivity;
 import com.donkingliang.imageselector.utils.ImageSelectorUtils;
 import com.dt5000.ischool.R;
+import com.dt5000.ischool.activity.media.activity.MMSelectorActivity;
+import com.dt5000.ischool.activity.media.activity.ToolbarActivity;
+import com.dt5000.ischool.activity.media.bean.MMImageBean;
+import com.dt5000.ischool.activity.media.fragment.MMImageAlbumFragment;
+import com.dt5000.ischool.activity.media.fragment.MMVideoAlbumFragment;
+import com.dt5000.ischool.activity.teacher.HomeworkAddActivity;
 import com.dt5000.ischool.adapter.ClassMsgTalkListAdapter;
 import com.dt5000.ischool.adapter.ImageSelectAdapter;
 import com.dt5000.ischool.db.ClassMessageDBManager;
@@ -96,6 +108,7 @@ public class ClassMsgTalkListActivity extends Activity {
     private Button btn_send;
     private ImageView img_camera;
     private ImageView img_album;
+    private ImageView img_video;
     private WrapHeightViewPager viewpager_emj;
     private CirclePageIndicator circlePageIndicator;
 
@@ -119,6 +132,10 @@ public class ClassMsgTalkListActivity extends Activity {
     private String classInfoID;
     private MyHandler handler = new MyHandler(this);
     private final int REQUEST_STORAGE_WRITE_ACCESS_PERMISSION = 100;
+    private static final int REQUEST_SELECT_IMAGES = 1 << 4;
+    private static final int REQUEST_SELECT_VIDEO = 1 <<3;
+    protected static final String EXTRA_DATA = ToolbarActivity.class.getPackage() + ".EXTRA_DATA";
+
     @SuppressLint("HandlerLeak")
     private Handler saveHandler = new Handler() {
         @Override
@@ -156,6 +173,7 @@ public class ClassMsgTalkListActivity extends Activity {
         rLayout_pic = (RelativeLayout) findViewById(R.id.rLayout_pic);
         rLayout_sms = (RelativeLayout) findViewById(R.id.rLayout_sms);
         uiswitch_sms = (UISwitchButton) findViewById(R.id.uiswitch_sms);
+        img_video = (ImageView)findViewById(R.id.img_video);
         uiswitch_sms.setChecked(false);
         edit_input = (EditText) findViewById(R.id.edit_input);
         btn_send = (Button) findViewById(R.id.btn_send);
@@ -226,44 +244,7 @@ public class ClassMsgTalkListActivity extends Activity {
         btn_send.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (!isSending) {
-                    String content = edit_input.getText().toString().trim();
-
-                    if (!CheckUtil.stringIsBlank(content) || (picPaths != null && picPaths.size() > 0)) {
-                        if (!CheckUtil.stringIsBlank(content)
-                                && content.length() > 500) {
-                            MToast.show(ClassMsgTalkListActivity.this, "输入字数超出限制", MToast.SHORT);
-                        } else {
-                            ClassMessageSend classMessageSend = new ClassMessageSend();
-                            classMessageSend.setClassinfoId(classInfoID);
-                            classMessageSend.setContent(content);
-                            classMessageSend.setMessageType("1");
-
-                            if (User.isStudentRole(user.getRole())) {
-                                classMessageSend.setStudentId(user.getUserId());
-                            } else {
-                                classMessageSend.setTeacherId(user.getUserId());
-                            }
-
-                            // 检查发短信按钮
-                            String sendSMS = uiswitch_sms.isChecked() ? "true" : "false";
-                            // 标识线程开启
-                            isSending = true;
-                            boolean isHaveContent = true;
-                            if (CheckUtil.stringIsBlank(content)) {
-                                isHaveContent = false;
-                            }
-
-                            RetrofitService.postFiles(picPaths,
-                                    RetrofitService.postFilesMapClassMessageSend(classMessageSend, sendSMS, picPaths, isHaveContent),
-                                    ClassMsgTalkListActivity.this, user, isHaveContent, handler);
-                        }
-                    } else {
-                        MToast.show(ClassMsgTalkListActivity.this, "请输入内容", MToast.SHORT);
-                    }
-                } else {
-                    MToast.show(ClassMsgTalkListActivity.this, "正在处理上一条消息，请稍后...", MToast.SHORT);
-                }
+                sendMsg();
             }
         });
 
@@ -308,9 +289,8 @@ public class ClassMsgTalkListActivity extends Activity {
         img_camera.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (ContextCompat.checkSelfPermission(ClassMsgTalkListActivity.this, Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
-                    ActivityCompat.requestPermissions(ClassMsgTalkListActivity.this, new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE},
-                            REQUEST_STORAGE_WRITE_ACCESS_PERMISSION);
+                if (ContextCompat.checkSelfPermission(ClassMsgTalkListActivity.this, Manifest.permission.CAMERA) != PackageManager.PERMISSION_GRANTED) {
+                    ActivityCompat.requestPermissions(ClassMsgTalkListActivity.this, new String[]{Manifest.permission.CAMERA}, REQUEST_STORAGE_WRITE_ACCESS_PERMISSION);
                 } else {
                     getPicFromCamera();
                 }
@@ -321,7 +301,22 @@ public class ClassMsgTalkListActivity extends Activity {
         img_album.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
-                getPicFromAlbum();
+                //getPicFromAlbum();
+                /*Intent intent = new Intent(ClassMsgTalkListActivity.this, MMSelectorActivity.class);
+                intent.putExtra("EXTRA_TYPE", "VIDEO");
+                startActivityForResult(intent, REQUEST_SELECT_VIDEO);*/
+                BoxingConfig singleImgConfig = new BoxingConfig(BoxingConfig.Mode.SINGLE_IMG);
+                Boxing.of(singleImgConfig).withIntent(ClassMsgTalkListActivity.this, BoxingActivity.class).start(ClassMsgTalkListActivity.this, REQUEST_SELECT_IMAGES);
+            }
+        });
+
+        img_video.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(ClassMsgTalkListActivity.this, MMSelectorActivity.class);
+                intent.putExtra("EXTRA_SIZE",20);
+                intent.putExtra("EXTRA_TYPE", "VIDEO");
+                startActivityForResult(intent, REQUEST_SELECT_VIDEO);
             }
         });
 
@@ -339,6 +334,47 @@ public class ClassMsgTalkListActivity extends Activity {
                 }
             }
         });
+    }
+
+    private void sendMsg(){
+        if (!isSending) {
+            String content = edit_input.getText().toString().trim();
+
+            if (!CheckUtil.stringIsBlank(content) || (picPaths != null && picPaths.size() > 0)) {
+                if (!CheckUtil.stringIsBlank(content)
+                        && content.length() > 500) {
+                    MToast.show(ClassMsgTalkListActivity.this, "输入字数超出限制", MToast.SHORT);
+                } else {
+                    ClassMessageSend classMessageSend = new ClassMessageSend();
+                    classMessageSend.setClassinfoId(classInfoID);
+                    classMessageSend.setContent(content);
+                    classMessageSend.setMessageType("1");
+
+                    if (User.isStudentRole(user.getRole())) {
+                        classMessageSend.setStudentId(user.getUserId());
+                    } else {
+                        classMessageSend.setTeacherId(user.getUserId());
+                    }
+
+                    // 检查发短信按钮
+                    String sendSMS = uiswitch_sms.isChecked() ? "true" : "false";
+                    // 标识线程开启
+                    isSending = true;
+                    boolean isHaveContent = true;
+                    if (CheckUtil.stringIsBlank(content)) {
+                        isHaveContent = false;
+                    }
+
+                    RetrofitService.postFiles(picPaths,
+                            RetrofitService.postFilesMapClassMessageSend(classMessageSend, sendSMS, picPaths, isHaveContent),
+                            ClassMsgTalkListActivity.this, user, isHaveContent, handler);
+                }
+            } else {
+                MToast.show(ClassMsgTalkListActivity.this, "请输入内容", MToast.SHORT);
+            }
+        } else {
+            MToast.show(ClassMsgTalkListActivity.this, "正在处理上一条消息，请稍后...", MToast.SHORT);
+        }
     }
 
     @Override
@@ -426,6 +462,13 @@ public class ClassMsgTalkListActivity extends Activity {
 
         circlePageIndicator.setViewPager(viewpager_emj);
     }
+
+    /*private void getPicFromCamera(){
+        Intent intent = new Intent(this, MMSelectorActivity.class);
+        intent.putExtra("EXTRA_TYPE", "IMAGE");
+        intent.putExtra("EXTRA_SIZE", 1);
+        startActivityForResult(intent, REQUEST_SELECT_IMAGES);
+    }*/
 
 
     private void getPicFromCamera() {
@@ -544,15 +587,25 @@ public class ClassMsgTalkListActivity extends Activity {
                     relativeImage.setVisibility(View.VISIBLE);
                     recyclerView.setAdapter(adapter);
                     break;
-                case FlagCode.ACTIVITY_REQUEST_CODE_1:// 相册返回结果
-                    if (data != null) {
-                        picPaths = data.getStringArrayListExtra(ImageSelectorUtils.SELECT_RESULT);
-                        //设置适配器
-                        adapter.setImageMessages(picPaths);
-                        //显示
-                        relativeImage.setVisibility(View.VISIBLE);
-                        recyclerView.setAdapter(adapter);
+                case REQUEST_SELECT_VIDEO://视频
+                    if(data!= null){
+                        ArrayList<MMImageBean> mImageList = data.getParcelableArrayListExtra(EXTRA_DATA);
+                        if(mImageList!=null && mImageList.size()>0){
+                            picPaths.add(mImageList.get(0).getPath());
+                            sendMsg();
+                        }
                     }
+                    break;
+                case REQUEST_SELECT_IMAGES://图片
+                    ArrayList<BaseMedia> mImageList = Boxing.getResult(data);
+                    for (BaseMedia imageBean : mImageList) {
+                        picPaths.add(imageBean.getPath());
+                    }
+                    //设置适配器
+                    adapter.setImageMessages(picPaths);
+                    //显示
+                    relativeImage.setVisibility(View.VISIBLE);
+                    recyclerView.setAdapter(adapter);
                     break;
             }
         }
@@ -761,6 +814,7 @@ public class ClassMsgTalkListActivity extends Activity {
         super.onDestroy();
         // 注销广播
         unregisterReceiver(messageBroadcastReceiver);
+        cleaner();
     }
 
 }

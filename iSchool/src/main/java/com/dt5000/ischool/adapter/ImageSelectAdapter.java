@@ -31,6 +31,7 @@ public class ImageSelectAdapter extends RecyclerView.Adapter<ImageSelectAdapter.
 
     //设置数据
     public void setImageMessages(List<String> picPaths) {
+        imageMessages.clear();
         for (int i = 0; i < picPaths.size(); i++) {
             Bitmap picBitmap = ImageUtil.decodeBitmapToFixSize(picPaths.get(i), 120, 130);
             imageMessages.add(new ImageMessage(picBitmap));

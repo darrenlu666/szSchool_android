@@ -52,20 +52,27 @@ public interface UrlProtocol {
     /**
      * homework项目地址
      */
-    String HOMEWORK_HOST = "http://sz.aroundu.net/";// 苏州学堂
+    String HOMEWORK_HOST = "http://61.155.146.199:8080/";
+    //String HOMEWORK_HOST = "http://sz.aroundu.net/";// 苏州学堂 线上地址
     //String HOMEWORK_HOST = "http://222.92.129.82:60080/";// 苏州学堂
     // String HOMEWORK_HOST = "http://www.aroundu.net/";// 点通学堂
     // String HOMEWORK_HOST = "http://192.168.128.90:8080/";// 点通学堂
 
+
+    /**
+     * 视频根地址
+     */
+    String VIDEO_HOST = HOMEWORK_HOST + "attach/android/";
     /**
      * 图片根地址
      */
-    String IMAGE_HOST = HOMEWORK_HOST + "attach/";
+    String IMAGE_HOST = HOMEWORK_HOST + "attach/";//线上地址
 
     /**
      * 附件地址
      */
-    String FILE_ATTACH = HOMEWORK_HOST + "attchment/homework/";
+    String FILE_ATTACH = "http://61.155.146.199:8080/attchment/homework/";//测试地址
+    //String FILE_ATTACH = HOMEWORK_HOST + "attchment/homework/";//线上地址
     // String FILE_ATTACH ="http://222.92.129.82:60080/attchment/homework/";
 
     /**

@@ -45,6 +45,8 @@
     <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
 
     <application
         android:name=".MainApplication"
@@ -706,6 +708,16 @@
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity android:name=".activity.teacher.Group_Send_List_Activity" />
         <activity android:name=".activity.student.WxPayActivity"></activity>
+        <activity android:name=".activity.media.activity.MMSelectorActivity"/>
+        <activity android:name=".activity.media.activity.RecordVideoActivity"/>
+        <activity android:name=".activity.media.activity.VideoPlayerActivity"/>
+        <activity android:name=".activity.media.camera.CaptureImageActivity"/>
+        <activity android:name=".activity.media.camera.PreviewImageActivity"/>
+        <activity android:name=".activity.media.image.MMPreviewImageActivity"/>
+        <activity android:name=".activity.media.activity.VideoViewActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.bilibili.boxing_impl.ui.BoxingViewActivity2"
+                  android:screenOrientation="portrait"/>
     </application>
 
 </manifest>

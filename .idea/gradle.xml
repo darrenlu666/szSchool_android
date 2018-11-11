@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/FlycoTabLayout_Lib" />
+            <option value="$PROJECT_DIR$/boxing-impl" />
             <option value="$PROJECT_DIR$/iSchool" />
             <option value="$PROJECT_DIR$/imageselector" />
             <option value="$PROJECT_DIR$/lib_Qiniu" />

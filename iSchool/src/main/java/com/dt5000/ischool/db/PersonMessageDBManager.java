@@ -44,8 +44,8 @@ public class PersonMessageDBManager {
 
                 String sql = "INSERT INTO message (message_id, content, sender_id, "
                         + "sender_name, receiver_id, receiver_name, send_datetime, "
-                        + "read_status, image_url, owner, sync_time, profile_url) "
-                        + "VALUES(?,?,?,?,?,?,?,?,?,?,datetime('now','localtime'),?)";
+                        + "read_status, image_url, owner, sync_time, profile_url, video_url) "
+                        + "VALUES(?,?,?,?,?,?,?,?,?,?,datetime('now','localtime'),?,?)";
                 Object[] params = null;
                 for (PersonMessage m : data) {
                     params = new Object[]{m.getMessageId(), m.getContent(),
@@ -53,7 +53,7 @@ public class PersonMessageDBManager {
                             m.getReceiverId(), m.getReceiverName(),
                             TimeUtil.fullTimeFormat(m.getSendDatetime()),
                             m.getReadStatus(), m.getImageUrl(), m.getOwner(),
-                            m.getProfileUrl()};
+                            m.getProfileUrl(),m.getVideoUrl()};
                     db.execSQL(sql, params);
                 }
                 db.setTransactionSuccessful();
@@ -68,7 +68,6 @@ public class PersonMessageDBManager {
     /**
      * 将一条个人消息插入本地数据库
      *
-     * @param m
      */
     public void addPersonMsgSingle(PersonMessage data) {
         synchronized (writeLock) {
@@ -196,7 +195,6 @@ public class PersonMessageDBManager {
      * 教师端：根据用户id查询该用户的通讯消息记录
      *
      * @param teaId    教师id
-     * @param pageTime 查询时间
      * @param pageSize 每次查询多少条
      * @param loadCode 刷新 或者 更多
      * @return
@@ -296,7 +294,8 @@ public class PersonMessageDBManager {
             sql.append("      t1.receiver_name,");
             sql.append("      t1.send_datetime,");
             sql.append("      t1.profile_url, ");
-            sql.append("      t1.image_url  ");
+            sql.append("      t1.image_url,  ");
+            sql.append("      t1.video_url  ");
             sql.append("   FROM");
             sql.append("      message t1 ");
             sql.append("   WHERE");
@@ -346,7 +345,8 @@ public class PersonMessageDBManager {
             sql.append("      t.receiver_name,");
             sql.append("      t.send_datetime,");
             sql.append("      t.profile_url, ");
-            sql.append("      t.image_url  ");
+            sql.append("      t.image_url,  ");
+            sql.append("      t.video_url  ");
             sql.append("   FROM ");
             sql.append("      message t ");
             sql.append("   WHERE ");
@@ -438,7 +438,8 @@ public class PersonMessageDBManager {
             sql.append("      t1.receiver_name,");
             sql.append("      t1.send_datetime,");
             sql.append("      t1.profile_url, ");
-            sql.append("      t1.image_url ");
+            sql.append("      t1.image_url, ");
+            sql.append("      t1.video_url ");
             sql.append("FROM");
             sql.append("      message t1 ");
             sql.append("WHERE");
@@ -483,6 +484,9 @@ public class PersonMessageDBManager {
                 .getColumnIndex("send_datetime")))));
         m.setNewMsgCount(c.getInt(c.getColumnIndex("new_msg_count")));
         m.setProfileUrl(c.getString(c.getColumnIndex("profile_url")));
+        if(c.getColumnIndex("video_url")!=-1){
+            m.setVideoUrl(c.getString(c.getColumnIndex("video_url")));
+        }
         return m;
     }
 
@@ -501,6 +505,9 @@ public class PersonMessageDBManager {
                 .getColumnIndex("send_datetime")))));
         m.setImageUrl(c.getString(c.getColumnIndex("image_url")));
         m.setProfileUrl(c.getString(c.getColumnIndex("profile_url")));
+        if(c.getColumnIndex("video_url")!=-1){
+            m.setVideoUrl(c.getString(c.getColumnIndex("video_url")));
+        }
         return m;
     }
 

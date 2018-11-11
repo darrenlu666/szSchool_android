@@ -139,6 +139,7 @@
         <enum name="BOTTOM" value="80"/>
     </attr>
     <attr format="dimension" name="tl_underline_height"/>
+    <attr format="reference|color" name="toolbarBackground"/>
     <attr format="color" name="unselectedColor"/>
     <bool name="abc_action_bar_embed_tabs">true</bool>
     <bool name="abc_allow_stacked_button_bar">true</bool>
@@ -187,6 +188,24 @@
     <color name="black">#000000</color>
     <color name="black1">#333333</color>
     <color name="blue">#0000ff</color>
+    <color name="boxing_black">#000000</color>
+    <color name="boxing_black1">#1b1b1b</color>
+    <color name="boxing_black_alpha15">#26000000</color>
+    <color name="boxing_black_alpha20">#33000000</color>
+    <color name="boxing_black_alpha25">#3c000000</color>
+    <color name="boxing_colorAccent">#FF4081</color>
+    <color name="boxing_colorAccent_blue">#4f78f1</color>
+    <color name="boxing_colorPrimary">#000000</color>
+    <color name="boxing_colorPrimaryAlpha">#44000000</color>
+    <color name="boxing_colorPrimaryAlpha_blue">#44000000</color>
+    <color name="boxing_colorPrimaryDark">#ff212121</color>
+    <color name="boxing_colorPrimaryDark_blue">#4f78f1</color>
+    <color name="boxing_colorPrimary_blue">#4f78f1</color>
+    <color name="boxing_gray">#999999</color>
+    <color name="boxing_gray1">#333333</color>
+    <color name="boxing_white">#ffffff</color>
+    <color name="boxing_white1">#fafafa</color>
+    <color name="boxing_white2">#eaeaea</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
@@ -223,6 +242,7 @@
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">#ff323232</color>
+    <color name="exam_normal_color">#666666</color>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
     <color name="gold">#b89766</color>
@@ -235,6 +255,7 @@
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="image_loading_bg">#dbdbdb</color>
+    <color name="image_selected_color">#7f000000</color>
     <color name="light_gray">#999999</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
@@ -254,6 +275,7 @@
     <color name="orange">#ff8800</color>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
+    <color name="primary_light">#CFD8DC</color>
     <color name="primary_material_dark">@color/material_grey_900</color>
     <color name="primary_material_light">@color/material_grey_100</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
@@ -339,6 +361,10 @@
     <declare-styleable name="AppCompatTheme"><attr format="boolean" name="windowActionBar"/><attr format="boolean" name="windowNoTitle"/><attr format="boolean" name="windowActionBarOverlay"/><attr format="boolean" name="windowActionModeOverlay"/><attr format="dimension|fraction" name="windowFixedWidthMajor"/><attr format="dimension|fraction" name="windowFixedHeightMinor"/><attr format="dimension|fraction" name="windowFixedWidthMinor"/><attr format="dimension|fraction" name="windowFixedHeightMajor"/><attr format="dimension|fraction" name="windowMinWidthMajor"/><attr format="dimension|fraction" name="windowMinWidthMinor"/><attr name="android:windowIsFloating"/><attr name="android:windowAnimationStyle"/><attr format="reference" name="actionBarTabStyle"/><attr format="reference" name="actionBarTabBarStyle"/><attr format="reference" name="actionBarTabTextStyle"/><attr format="reference" name="actionOverflowButtonStyle"/><attr format="reference" name="actionOverflowMenuStyle"/><attr format="reference" name="actionBarPopupTheme"/><attr format="reference" name="actionBarStyle"/><attr format="reference" name="actionBarSplitStyle"/><attr format="reference" name="actionBarTheme"/><attr format="reference" name="actionBarWidgetTheme"/><attr format="dimension" name="actionBarSize">
             <enum name="wrap_content" value="0"/>
         </attr><attr format="reference" name="actionBarDivider"/><attr format="reference" name="actionBarItemBackground"/><attr format="reference" name="actionMenuTextAppearance"/><attr format="color|reference" name="actionMenuTextColor"/><attr format="reference" name="actionModeStyle"/><attr format="reference" name="actionModeCloseButtonStyle"/><attr format="reference" name="actionModeBackground"/><attr format="reference" name="actionModeSplitBackground"/><attr format="reference" name="actionModeCloseDrawable"/><attr format="reference" name="actionModeCutDrawable"/><attr format="reference" name="actionModeCopyDrawable"/><attr format="reference" name="actionModePasteDrawable"/><attr format="reference" name="actionModeSelectAllDrawable"/><attr format="reference" name="actionModeShareDrawable"/><attr format="reference" name="actionModeFindDrawable"/><attr format="reference" name="actionModeWebSearchDrawable"/><attr format="reference" name="actionModePopupWindowStyle"/><attr format="reference" name="textAppearanceLargePopupMenu"/><attr format="reference" name="textAppearanceSmallPopupMenu"/><attr format="reference" name="textAppearancePopupMenuHeader"/><attr format="reference" name="dialogTheme"/><attr format="dimension" name="dialogPreferredPadding"/><attr format="reference" name="listDividerAlertDialog"/><attr format="reference" name="actionDropDownStyle"/><attr format="dimension" name="dropdownListPreferredItemHeight"/><attr format="reference" name="spinnerDropDownItemStyle"/><attr format="reference" name="homeAsUpIndicator"/><attr format="reference" name="actionButtonStyle"/><attr format="reference" name="buttonBarStyle"/><attr format="reference" name="buttonBarButtonStyle"/><attr format="reference" name="selectableItemBackground"/><attr format="reference" name="selectableItemBackgroundBorderless"/><attr format="reference" name="borderlessButtonStyle"/><attr format="reference" name="dividerVertical"/><attr format="reference" name="dividerHorizontal"/><attr format="reference" name="activityChooserViewStyle"/><attr format="reference" name="toolbarStyle"/><attr format="reference" name="toolbarNavigationButtonStyle"/><attr format="reference" name="popupMenuStyle"/><attr format="reference" name="popupWindowStyle"/><attr format="reference|color" name="editTextColor"/><attr format="reference" name="editTextBackground"/><attr format="reference" name="imageButtonStyle"/><attr format="reference" name="textAppearanceSearchResultTitle"/><attr format="reference" name="textAppearanceSearchResultSubtitle"/><attr format="reference|color" name="textColorSearchUrl"/><attr format="reference" name="searchViewStyle"/><attr format="dimension" name="listPreferredItemHeight"/><attr format="dimension" name="listPreferredItemHeightSmall"/><attr format="dimension" name="listPreferredItemHeightLarge"/><attr format="dimension" name="listPreferredItemPaddingLeft"/><attr format="dimension" name="listPreferredItemPaddingRight"/><attr format="reference" name="dropDownListViewStyle"/><attr format="reference" name="listPopupWindowStyle"/><attr format="reference" name="textAppearanceListItem"/><attr format="reference" name="textAppearanceListItemSmall"/><attr format="reference" name="panelBackground"/><attr format="dimension" name="panelMenuListWidth"/><attr format="reference" name="panelMenuListTheme"/><attr format="reference" name="listChoiceBackgroundIndicator"/><attr format="color" name="colorPrimary"/><attr format="color" name="colorPrimaryDark"/><attr format="color" name="colorAccent"/><attr format="color" name="colorControlNormal"/><attr format="color" name="colorControlActivated"/><attr format="color" name="colorControlHighlight"/><attr format="color" name="colorButtonNormal"/><attr format="color" name="colorSwitchThumbNormal"/><attr format="reference" name="controlBackground"/><attr format="color" name="colorBackgroundFloating"/><attr format="reference" name="alertDialogStyle"/><attr format="reference" name="alertDialogButtonGroupStyle"/><attr format="boolean" name="alertDialogCenterButtons"/><attr format="reference" name="alertDialogTheme"/><attr format="reference|color" name="textColorAlertDialogListItem"/><attr format="reference" name="buttonBarPositiveButtonStyle"/><attr format="reference" name="buttonBarNegativeButtonStyle"/><attr format="reference" name="buttonBarNeutralButtonStyle"/><attr format="reference" name="autoCompleteTextViewStyle"/><attr format="reference" name="buttonStyle"/><attr format="reference" name="buttonStyleSmall"/><attr format="reference" name="checkboxStyle"/><attr format="reference" name="checkedTextViewStyle"/><attr format="reference" name="editTextStyle"/><attr format="reference" name="radioButtonStyle"/><attr format="reference" name="ratingBarStyle"/><attr format="reference" name="ratingBarStyleIndicator"/><attr format="reference" name="ratingBarStyleSmall"/><attr format="reference" name="seekBarStyle"/><attr format="reference" name="spinnerStyle"/><attr format="reference" name="switchStyle"/><attr format="reference" name="listMenuViewStyle"/></declare-styleable>
+    <declare-styleable name="AspectRatioComponent"><attr format="float" name="aspectRatio"/><attr format="boolean" name="aspectRatioEnabled"/><attr name="dominantMeasurement">
+            <enum name="width" value="0"/>
+            <enum name="height" value="1"/>
+        </attr></declare-styleable>
     <declare-styleable name="BottomNavigationView"><attr name="menu"/><attr name="itemIconTint"/><attr name="itemTextColor"/><attr name="itemBackground"/><attr name="elevation"/></declare-styleable>
     <declare-styleable name="BottomSheetBehavior_Layout"><attr format="dimension" name="behavior_peekHeight">
             
@@ -682,6 +708,16 @@
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="boxing_activity_horizontal_margin">16dp</dimen>
+    <dimen name="boxing_activity_vertical_margin">16dp</dimen>
+    <dimen name="boxing_corner_radius">2dp</dimen>
+    <dimen name="boxing_item_half_spacing">4dp</dimen>
+    <dimen name="boxing_item_spacing">8dp</dimen>
+    <dimen name="boxing_media_margin">2dp</dimen>
+    <dimen name="boxing_text_size_large">14sp</dimen>
+    <dimen name="boxing_text_size_medium">12sp</dimen>
+    <dimen name="boxing_text_size_small">10sp</dimen>
+    <dimen name="boxing_text_size_xlarge">16sp</dimen>
     <dimen name="cardview_compat_inset_shadow">1dp</dimen>
     <dimen name="cardview_default_elevation">2dp</dimen>
     <dimen name="cardview_default_radius">2dp</dimen>
@@ -835,6 +871,32 @@
     <string name="app_name_chs">名师课堂</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="boxing_album_images_fmt">(%d)</string>
+    <string name="boxing_app_name">Boxing</string>
+    <string name="boxing_camera_permission_deny">需要访问你的相机来拍照，请在“系统设置”或授权对话框中允许“使用相机”权限。</string>
+    <string name="boxing_camera_unavailble">相机不可用,请检查相机权限！</string>
+    <string name="boxing_crop_error">肥肠抱歉，裁剪出错啦</string>
+    <string name="boxing_default_album">默认相册</string>
+    <string name="boxing_fab_label_camera">拍照</string>
+    <string name="boxing_finish">完成</string>
+    <string name="boxing_gif_too_big">您选择的gif图片过大，请压缩后再上传</string>
+    <string name="boxing_handling">处理中</string>
+    <string name="boxing_image_preview_ok_fmt">%1$s/%2$s 确定</string>
+    <string name="boxing_image_preview_title_fmt">%1$s/%2$s</string>
+    <string name="boxing_image_select_ok_fmt">(%1$s/%2$s) 确定</string>
+    <string name="boxing_load_image_fail">肥肠抱歉，加载出错啦</string>
+    <string name="boxing_max_image_over_fmt">你最多只能选择%d张图片</string>
+    <string name="boxing_nothing_found">什么也找不到</string>
+    <string name="boxing_ok">确定</string>
+    <string name="boxing_pick_multi_image">图片多选</string>
+    <string name="boxing_pick_single_image">图片单选</string>
+    <string name="boxing_pick_single_image_crop">图片单选加裁剪</string>
+    <string name="boxing_pick_single_video">视频单选</string>
+    <string name="boxing_start_pick">开始选图</string>
+    <string name="boxing_storage_deny">设备存储读取出错或暂不可用，请稍候重试</string>
+    <string name="boxing_storage_permission_deny">需要访问你的存储设备来选择图片，请在“系统设置”或授权对话框中允许“存储空间”权限。</string>
+    <string name="boxing_too_many_picture_fmt">您最多只能选择%d张图片</string>
+    <string name="boxing_video_title">视频相册</string>
     <string name="cancleComment">取消</string>
     <string name="cancledown">取消下载</string>
     <string name="change_phone">更改手机号码</string>
@@ -856,7 +918,11 @@
     <string name="enter">进入</string>
     <string name="examName">试卷名称</string>
     <string name="exam_audio_select">选择音频</string>
+    <string name="exam_image_max_count">最多只能选择%1$d张图片</string>
+    <string name="exam_image_preview">预览</string>
     <string name="exam_image_select">选择照片</string>
+    <string name="exam_image_upload">上传照片(%1$d)</string>
+    <string name="exam_image_upload_n">上传照片</string>
     <string name="exam_video_select">选择视频</string>
     <string name="exercise">同步练习</string>
     <string name="explain">解析</string>
@@ -869,6 +935,7 @@
     <string name="gradename">年级：</string>
     <string name="growfile">成长档案</string>
     <string name="hardCollect">难题收藏</string>
+    <string name="hello_world">Hello world!</string>
     <string name="help">帮助</string>
     <string name="hint">提示</string>
     <string name="home">首页</string>
@@ -2018,6 +2085,40 @@
         <item name="tabBackground">?attr/selectableItemBackground</item>
         <item name="tabTextAppearance">@style/TextAppearance.Design.Tab</item>
         <item name="tabSelectedTextColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Boxing.AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/boxing_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/boxing_colorPrimaryDark</item>
+        <item name="colorAccent">@color/boxing_colorAccent</item>
+        <item name="toolbarBackground">@color/boxing_colorPrimaryDark</item>
+    </style>
+    <style name="Boxing.AppTheme.Blue" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/material_deep_teal_200</item>
+        <item name="colorPrimaryDark">@color/material_deep_teal_200</item>
+        <item name="colorAccent">@color/material_deep_teal_200</item>
+        <item name="toolbarBackground">@color/material_deep_teal_200</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+    <style name="Boxing.AppTheme.NoActionBar" parent="Boxing.AppTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:fitsSystemWindows">false</item>
+    </style>
+    <style name="Boxing.AppTheme.NoActionBar.Blue" parent="Boxing.AppTheme.Blue">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:fitsSystemWindows">false</item>
+    </style>
+    <style name="Boxing.PopupAnimation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/boxing_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/boxing_fade_out</item>
+    </style>
+    <style name="Boxing.TextAppearance.App.Medium" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">@dimen/boxing_text_size_medium</item>
+    </style>
+    <style name="Boxing.ToolbarTheme" parent="Boxing.AppTheme.NoActionBar">
+        <item name="titleTextColor">@color/boxing_white</item>
+        <item name="android:textColorSecondary">@color/boxing_white</item>
+        <item name="android:textColor">@color/boxing_white</item>
+        <!--<item name="android:background">@color/boxing_colorPrimaryDark</item>-->
     </style>
     <style name="CardView" parent="Base.CardView">
     </style>

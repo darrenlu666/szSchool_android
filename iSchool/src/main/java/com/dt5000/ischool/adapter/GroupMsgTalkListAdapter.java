@@ -4,7 +4,10 @@ import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
+import android.media.ThumbnailUtils;
 import android.os.Bundle;
+import android.provider.MediaStore;
+import android.support.v4.content.ContextCompat;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -17,12 +20,14 @@ import android.widget.TextView;
 
 import com.dt5000.ischool.R;
 import com.dt5000.ischool.activity.SingleImageShowActivity;
+import com.dt5000.ischool.activity.media.activity.VideoViewActivity;
 import com.dt5000.ischool.entity.GroupMessage;
 import com.dt5000.ischool.entity.User;
 import com.dt5000.ischool.net.UrlProtocol;
 import com.dt5000.ischool.utils.CheckUtil;
 import com.dt5000.ischool.utils.EmojiUtil;
 import com.dt5000.ischool.utils.ImageLoaderUtil;
+import com.dt5000.ischool.utils.ImageUtil;
 import com.dt5000.ischool.utils.MLog;
 import com.dt5000.ischool.utils.TimeUtil;
 import com.nostra13.universalimageloader.core.ImageLoader;
@@ -31,6 +36,8 @@ import com.nostra13.universalimageloader.core.listener.SimpleImageLoadingListene
 
 import java.util.Date;
 import java.util.List;
+
+import static com.dt5000.ischool.net.UrlProtocol.VIDEO_HOST;
 
 /**
  * 班级消息对话列表适配器
@@ -75,7 +82,7 @@ public class GroupMsgTalkListAdapter extends BaseAdapter {
 	@SuppressLint("InflateParams")
 	@Override
 	public View getView(int position, View convertView, ViewGroup parent) {
-		ViewHolder viewHolder = null;
+		final ViewHolder viewHolder;
 		if (convertView == null) {
 			viewHolder = new ViewHolder();
 			convertView = myInflater.inflate(
@@ -104,6 +111,8 @@ public class GroupMsgTalkListAdapter extends BaseAdapter {
 					.findViewById(R.id.img_head_left);
 			viewHolder.img_head_right = (ImageView) convertView
 					.findViewById(R.id.img_head_right);
+			viewHolder.img_video_play_left = (ImageView)convertView.findViewById(R.id.img_video_play_left);
+			viewHolder.img_video_play_right = (ImageView)convertView.findViewById(R.id.img_video_play_right);
 			convertView.setTag(viewHolder);
 		} else {
 			viewHolder = (ViewHolder) convertView.getTag();
@@ -152,6 +161,32 @@ public class GroupMsgTalkListAdapter extends BaseAdapter {
 				viewHolder.img_pic_right.setVisibility(View.GONE);
 			}
 
+			//视频
+			final String videoUrl = message.getVideoUrl();
+			if(!CheckUtil.stringIsBlank(videoUrl)){
+				viewHolder.img_pic_right.setVisibility(View.VISIBLE);
+				viewHolder.img_emoji_right.setVisibility(View.GONE);
+
+				viewHolder.img_video_play_right.setVisibility(View.VISIBLE);
+				new Thread(new Runnable() {
+					@Override
+					public void run() {
+						Bitmap bm = ImageUtil.getBitmapFromDCIM(videoUrl);
+						if (bm == null) {
+							bm = ImageUtil.getVideoThumb(VIDEO_HOST + videoUrl, videoUrl);
+						}
+						viewHolder.img_pic_right.setImageBitmap(bm);
+					}
+				}).start();
+				viewHolder.img_pic_right.setOnClickListener(new OnClickListener() {
+					@Override
+					public void onClick(View v) {
+						Intent intent = new Intent(context, VideoViewActivity.class);
+						intent.putExtra("URL", videoUrl);
+						context.startActivity(intent);
+					}
+				});
+			}
 			// 内容
 			String content = message.getContent();
 			if (!CheckUtil.stringIsBlank(content)) {
@@ -195,6 +230,33 @@ public class GroupMsgTalkListAdapter extends BaseAdapter {
 						.setOnClickListener(new ImgClickListener(largeImg));
 			} else {
 				viewHolder.img_pic_left.setVisibility(View.GONE);
+			}
+
+			//视频
+			final String videoUrl = message.getVideoUrl();
+			if(!CheckUtil.stringIsBlank(videoUrl)){
+				viewHolder.img_pic_left.setVisibility(View.VISIBLE);
+				viewHolder.img_emoji_left.setVisibility(View.GONE);
+
+				viewHolder.img_video_play_left.setVisibility(View.VISIBLE);
+				new Thread(new Runnable() {
+					@Override
+					public void run() {
+						Bitmap bm = ImageUtil.getBitmapFromDCIM(videoUrl);
+						if (bm == null) {
+							bm = ImageUtil.getVideoThumb(VIDEO_HOST + videoUrl, videoUrl);
+						}
+						viewHolder.img_pic_left.setImageBitmap(bm);
+					}
+				}).start();
+				viewHolder.img_pic_left.setOnClickListener(new OnClickListener() {
+					@Override
+					public void onClick(View v) {
+						Intent intent = new Intent(context, VideoViewActivity.class);
+						intent.putExtra("URL", videoUrl);
+						context.startActivity(intent);
+					}
+				});
 			}
 
 			// 内容
@@ -261,7 +323,10 @@ public class GroupMsgTalkListAdapter extends BaseAdapter {
 		@Override
 		public void onLoadingComplete(String imageUri, View view,
 				Bitmap loadedImage) {
-			imageView.setImageBitmap(loadedImage);
+			int width = loadedImage.getWidth()/3;
+			int height = loadedImage.getHeight()/3;
+			Bitmap bm = Bitmap.createScaledBitmap(loadedImage,width,height,true);
+			imageView.setImageBitmap(bm);
 		}
 
 		@Override
@@ -284,6 +349,10 @@ public class GroupMsgTalkListAdapter extends BaseAdapter {
 		private ImageView img_emoji_right;
 		private ImageView img_head_left;
 		private ImageView img_head_right;
+		private ImageView img_video_play_left;
+		private ImageView img_video_play_right;
 	}
+
+
 
 }
