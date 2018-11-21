@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:2:1-723:12
+ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:2:1-733:12
 	package
 		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:4:5-33
 		INJECTED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml
@@ -40,18 +40,23 @@ MERGED from [com.jakewharton.rxbinding:rxbinding:0.4.0] C:\Users\codyy\.android\
 MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\codyy\.android\build-cache\7e849cbec461b8228e7dc2303b0bd6870500b617\output\AndroidManifest.xml:19:5-43
 MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.9.1] C:\Users\codyy\.android\build-cache\0b9731ac2f8b0a3f54e32b2e48fa5e84499248e7\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\7b8de2d965f7fc772e6e369460dc39f8c37319ff\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\9887d71ee097034c188be89ff2c76154e5557292\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\b195b5e9ffd5826ff658b0cdce5537c31e92a8fa\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\1ed07237bce048cf26c088e5361d9e3d397bb6c0\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\c0b572e1872d3de924d25cf71ca8f14404d8db7e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\codyy\.android\build-cache\fc0b50a024db7034d3aa4a016a81b76b675b57b6\output\AndroidManifest.xml:7:5-43
+MERGED from [szSchool_android-master-new:nicevideoplayer:unspecified] D:\Project\szSchool_android-master-new\nicevideoplayer\build\intermediates\bundles\default\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\e104fd7fd3c05fab306c3e114982c883a0df5cc1\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\99b6daacbe047cc9973f21b2e1c82d44129bd8d8\output\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\462fc700eead11a1247d6b619776992ad0ae4845\output\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\4596328d98b253766ae6e4dadd06371399f10ca8\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\26d40f758f43b44a86428f9932bb4b5375ac5d01\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\9887d71ee097034c188be89ff2c76154e5557292\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\b195b5e9ffd5826ff658b0cdce5537c31e92a8fa\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\9eeb288e980664802bf5529ef0a578820735cd0c\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.volley:volley:1.1.1] C:\Users\codyy\.android\build-cache\fc0b50a024db7034d3aa4a016a81b76b675b57b6\output\AndroidManifest.xml:7:5-43
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.3] C:\Users\codyy\.android\build-cache\4b55773d39f38685ae725b75fbd75e8b55b7f692\output\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.3] C:\Users\codyy\.android\build-cache\4b54c9de92b7193769f88268d1933bfc99672056\output\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv5:0.8.3] C:\Users\codyy\.android\build-cache\08ac40a00550fc60b558a7afd8545eecdd092cc8\output\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-x86:0.8.3] C:\Users\codyy\.android\build-cache\430963d77cfa5f6dd313b27acf2b02d71b99027f\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\7b8de2d965f7fc772e6e369460dc39f8c37319ff\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
@@ -183,7 +188,7 @@ ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManife
 	android:name
 		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:49:22-62
 application
-ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:51:5-721:19
+ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:51:5-731:19
 MERGED from [szSchool_android-master-new:lib_Qiniu:unspecified] D:\Project\szSchool_android-master-new\lib_Qiniu\build\intermediates\bundles\default\AndroidManifest.xml:8:5-53
 MERGED from [szSchool_android-master-new:lib_WheelView:unspecified] D:\Project\szSchool_android-master-new\lib_WheelView\build\intermediates\bundles\default\AndroidManifest.xml:7:5-8:19
 MERGED from [com.github.donkingliang:imageselector:unspecified] D:\Project\szSchool_android-master-new\imageselector\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
@@ -193,22 +198,24 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\co
 MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\codyy\.android\build-cache\7573b3a5ec0d6dc112c4e54fd911f843dee01431\output\AndroidManifest.xml:22:5-20
 MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.9.1] C:\Users\codyy\.android\build-cache\0b9731ac2f8b0a3f54e32b2e48fa5e84499248e7\output\AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\7b8de2d965f7fc772e6e369460dc39f8c37319ff\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\9887d71ee097034c188be89ff2c76154e5557292\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\b195b5e9ffd5826ff658b0cdce5537c31e92a8fa\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\c0b572e1872d3de924d25cf71ca8f14404d8db7e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\codyy\.android\build-cache\fc0b50a024db7034d3aa4a016a81b76b675b57b6\output\AndroidManifest.xml:9:5-20
+MERGED from [szSchool_android-master-new:nicevideoplayer:unspecified] D:\Project\szSchool_android-master-new\nicevideoplayer\build\intermediates\bundles\default\AndroidManifest.xml:9:5-13:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\e104fd7fd3c05fab306c3e114982c883a0df5cc1\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\99b6daacbe047cc9973f21b2e1c82d44129bd8d8\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\462fc700eead11a1247d6b619776992ad0ae4845\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\4596328d98b253766ae6e4dadd06371399f10ca8\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\26d40f758f43b44a86428f9932bb4b5375ac5d01\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\9887d71ee097034c188be89ff2c76154e5557292\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\b195b5e9ffd5826ff658b0cdce5537c31e92a8fa\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\9eeb288e980664802bf5529ef0a578820735cd0c\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.volley:volley:1.1.1] C:\Users\codyy\.android\build-cache\fc0b50a024db7034d3aa4a016a81b76b675b57b6\output\AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:55:9-41
 		REJECTED from [szSchool_android-master-new:lib_Qiniu:unspecified] D:\Project\szSchool_android-master-new\lib_Qiniu\build\intermediates\bundles\default\AndroidManifest.xml:8:18-50
 		REJECTED from [szSchool_android-master-new:lib_WheelView:unspecified] D:\Project\szSchool_android-master-new\lib_WheelView\build\intermediates\bundles\default\AndroidManifest.xml:7:18-54
 		REJECTED from [com.github.donkingliang:imageselector:unspecified] D:\Project\szSchool_android-master-new\imageselector\build\intermediates\bundles\default\AndroidManifest.xml:13:9-41
+		REJECTED from [szSchool_android-master-new:nicevideoplayer:unspecified] D:\Project\szSchool_android-master-new\nicevideoplayer\build\intermediates\bundles\default\AndroidManifest.xml:11:9-41
 	android:supportsRtl
 		ADDED from [com.github.donkingliang:imageselector:unspecified] D:\Project\szSchool_android-master-new\imageselector\build\intermediates\bundles\default\AndroidManifest.xml:14:9-35
 	android:allowBackup
@@ -1196,41 +1203,65 @@ ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManife
 	android:name
 		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:710:19-65
 activity#com.dt5000.ischool.activity.media.activity.MMSelectorActivity
-ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:711:9-79
+ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:711:9-712:57
+	android:screenOrientation
+		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:712:19-55
 	android:name
 		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:711:19-77
 activity#com.dt5000.ischool.activity.media.activity.RecordVideoActivity
-ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:712:9-80
-	android:name
-		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:712:19-78
-activity#com.dt5000.ischool.activity.media.activity.VideoPlayerActivity
-ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:713:9-80
+ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:713:9-714:57
+	android:screenOrientation
+		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:714:19-55
 	android:name
 		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:713:19-78
-activity#com.dt5000.ischool.activity.media.camera.CaptureImageActivity
-ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:714:9-79
-	android:name
-		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:714:19-77
-activity#com.dt5000.ischool.activity.media.camera.PreviewImageActivity
-ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:715:9-79
-	android:name
-		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:715:19-77
-activity#com.dt5000.ischool.activity.media.image.MMPreviewImageActivity
-ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:716:9-80
-	android:name
-		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:716:19-78
-activity#com.dt5000.ischool.activity.media.activity.VideoViewActivity
-ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:717:9-718:51
+activity#com.dt5000.ischool.activity.media.activity.VideoPlayerActivity
+ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:715:9-716:57
 	android:screenOrientation
-		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:718:13-49
+		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:716:19-55
 	android:name
-		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:717:19-76
-activity#com.bilibili.boxing_impl.ui.BoxingViewActivity2
+		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:715:19-78
+activity#com.dt5000.ischool.activity.media.camera.CaptureImageActivity
+ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:717:9-718:57
+	android:screenOrientation
+		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:718:19-55
+	android:name
+		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:717:19-77
+activity#com.dt5000.ischool.activity.media.camera.PreviewImageActivity
 ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:719:9-720:57
 	android:screenOrientation
 		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:720:19-55
 	android:name
-		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:719:19-81
+		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:719:19-77
+activity#com.dt5000.ischool.activity.media.image.MMPreviewImageActivity
+ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:721:9-722:57
+	android:screenOrientation
+		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:722:19-55
+	android:name
+		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:721:19-78
+activity#com.dt5000.ischool.activity.media.activity.VideoViewActivity
+ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:723:9-724:51
+	android:screenOrientation
+		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:724:13-49
+	android:name
+		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:723:19-76
+activity#com.bilibili.boxing_impl.ui.BoxingViewActivity2
+ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:725:9-726:57
+	android:screenOrientation
+		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:726:19-55
+	android:name
+		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:725:19-81
+activity#com.dt5000.ischool.activity.PlayVideoActivity2
+ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:727:9-728:57
+	android:screenOrientation
+		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:728:19-55
+	android:name
+		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:727:19-62
+activity#com.dt5000.ischool.activity.PlayVideoActivity3
+ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:729:9-730:57
+	android:screenOrientation
+		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:730:19-55
+	android:name
+		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:729:19-62
 activity#com.bilibili.boxing_impl.ui.BoxingActivity
 ADDED from [szSchool_android-master-new:boxing-impl:0.5.2] D:\Project\szSchool_android-master-new\boxing-impl\build\intermediates\bundles\default\AndroidManifest.xml:30:9-35:20
 	android:screenOrientation
@@ -1261,16 +1292,16 @@ ADDED from [szSchool_android-master-new:boxing-impl:0.5.2] D:\Project\szSchool_a
 		ADDED from [szSchool_android-master-new:boxing-impl:0.5.2] D:\Project\szSchool_android-master-new\boxing-impl\build\intermediates\bundles\default\AndroidManifest.xml:43:13-81
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\7b8de2d965f7fc772e6e369460dc39f8c37319ff\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\9887d71ee097034c188be89ff2c76154e5557292\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\b195b5e9ffd5826ff658b0cdce5537c31e92a8fa\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\1ed07237bce048cf26c088e5361d9e3d397bb6c0\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\c0b572e1872d3de924d25cf71ca8f14404d8db7e\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\e104fd7fd3c05fab306c3e114982c883a0df5cc1\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\99b6daacbe047cc9973f21b2e1c82d44129bd8d8\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\462fc700eead11a1247d6b619776992ad0ae4845\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\4596328d98b253766ae6e4dadd06371399f10ca8\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\26d40f758f43b44a86428f9932bb4b5375ac5d01\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\9887d71ee097034c188be89ff2c76154e5557292\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\b195b5e9ffd5826ff658b0cdce5537c31e92a8fa\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\9eeb288e980664802bf5529ef0a578820735cd0c\output\AndroidManifest.xml:25:5-27:41
 	android:value
 		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\7b8de2d965f7fc772e6e369460dc39f8c37319ff\output\AndroidManifest.xml:27:9-38

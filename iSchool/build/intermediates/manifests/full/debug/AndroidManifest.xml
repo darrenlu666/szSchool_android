@@ -711,17 +711,35 @@
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity android:name="com.dt5000.ischool.activity.teacher.Group_Send_List_Activity" />
         <activity android:name="com.dt5000.ischool.activity.student.WxPayActivity" />
-        <activity android:name="com.dt5000.ischool.activity.media.activity.MMSelectorActivity" />
-        <activity android:name="com.dt5000.ischool.activity.media.activity.RecordVideoActivity" />
-        <activity android:name="com.dt5000.ischool.activity.media.activity.VideoPlayerActivity" />
-        <activity android:name="com.dt5000.ischool.activity.media.camera.CaptureImageActivity" />
-        <activity android:name="com.dt5000.ischool.activity.media.camera.PreviewImageActivity" />
-        <activity android:name="com.dt5000.ischool.activity.media.image.MMPreviewImageActivity" />
+        <activity
+            android:name="com.dt5000.ischool.activity.media.activity.MMSelectorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dt5000.ischool.activity.media.activity.RecordVideoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dt5000.ischool.activity.media.activity.VideoPlayerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dt5000.ischool.activity.media.camera.CaptureImageActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dt5000.ischool.activity.media.camera.PreviewImageActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dt5000.ischool.activity.media.image.MMPreviewImageActivity"
+            android:screenOrientation="portrait" />
         <activity
             android:name="com.dt5000.ischool.activity.media.activity.VideoViewActivity"
             android:screenOrientation="portrait" />
         <activity
             android:name="com.bilibili.boxing_impl.ui.BoxingViewActivity2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dt5000.ischool.activity.PlayVideoActivity2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.dt5000.ischool.activity.PlayVideoActivity3"
             android:screenOrientation="portrait" />
         <activity
             android:name="com.bilibili.boxing_impl.ui.BoxingActivity"

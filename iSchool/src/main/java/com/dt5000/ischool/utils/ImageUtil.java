@@ -8,19 +8,28 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.HashMap;
+import java.util.Hashtable;
 import java.util.Locale;
 
 import android.content.Context;
+import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.CompressFormat;
 import android.graphics.BitmapFactory;
 import android.graphics.Matrix;
 import android.media.MediaMetadataRetriever;
 import android.media.ThumbnailUtils;
+import android.net.Uri;
 import android.os.Environment;
+import android.provider.MediaStore;
+import android.util.Log;
+
+import retrofit2.http.Url;
 
 /**
  * 图片处理辅助类
@@ -134,13 +143,8 @@ public class ImageUtil {
      * @return
      */
     public static File saveBitmapToDCIM(Bitmap bmp, String filePath) {
-        File dcimDir = new File(Environment.getExternalStorageDirectory(),
-                "/DCIM/Camera/");
-        if (!dcimDir.exists()) {
-            dcimDir.mkdir();
-        }
-
-        File savefile = new File(dcimDir, filePath);
+        File savefile = new File(Environment.getExternalStorageDirectory()+"/DCIM/Camera/",
+                filePath.substring(0,filePath.lastIndexOf("."))+".jpg");
 
         try {
             FileOutputStream fos = new FileOutputStream(savefile);
@@ -152,14 +156,14 @@ public class ImageUtil {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
         return savefile;
     }
 
     public static Bitmap getBitmapFromDCIM(String filePath) {
         String fullPath = Environment.getExternalStorageDirectory() +
-                "/DCIM/Camera/" + filePath;
+                "/DCIM/Camera/" + filePath.substring(0,filePath.lastIndexOf("."))+".jpg";
         return decodeBitmapWithInSampleSize(fullPath, 300);
+        //return BitmapFactory.decodeFile(fullPath);
     }
 
     /**
@@ -330,15 +334,92 @@ public class ImageUtil {
     /**
      * 获取视频文件截图
      *
-     * @param path 视频文件的路径
      * @return Bitmap 返回获取的Bitmap
      */
-    public static Bitmap getVideoThumb(String fullPath, String absPath) {
+    public static Bitmap getVideoThumb(String fullPath,String mUrl) {
         MediaMetadataRetriever media = new MediaMetadataRetriever();
-        media.setDataSource(fullPath, new HashMap<String, String>());
-        Bitmap bm = zoomBitmap(media.getFrameAtTime(), 300, 300);
-        saveBitmapToDCIM(bm, absPath);
-        return bm;
+        try {
+            URL url = new URL(fullPath);
+            url.openStream();
+            media.setDataSource(fullPath, new HashMap<String, String>());
+            Bitmap bm = zoomBitmap(media.getFrameAtTime(), 300, 300);
+            //Bitmap bm = zoomBitmap(media.getFrameAtTime(-1), 500, 500);
+            ImageUtil.saveBitmapToDCIM(bm, mUrl);
+            return bm;
+        } catch (Exception e) {
+            e.printStackTrace();
+            return null;
+        }
+    }
+
+    public static Bitmap createVideoThumbnail(String filePath, int kind) {
+        Bitmap bitmap = null;
+        MediaMetadataRetriever retriever = new MediaMetadataRetriever();
+        try {
+            if (filePath.startsWith("http://")
+                    || filePath.startsWith("https://")
+                    || filePath.startsWith("widevine://")) {
+                retriever.setDataSource(filePath,new Hashtable<String, String>());
+            }else {
+                retriever.setDataSource(filePath);
+            }
+            bitmap = retriever.getFrameAtTime(-1);
+        } catch (IllegalArgumentException ex) {
+            // Assume this is a corrupt video file
+            ex.printStackTrace();
+        } catch (RuntimeException ex) {
+            // Assume this is a corrupt video file.
+            ex.printStackTrace();
+        } finally {
+            try {
+                retriever.release();
+            } catch (RuntimeException ex) {
+                // Ignore failures while cleaning up.
+                ex.printStackTrace();
+            }
+        }
+
+        if (bitmap == null) return null;
+
+        if (kind == MediaStore.Images.Thumbnails.MINI_KIND) {
+            // Scale down the bitmap if it's too large.
+            int width = bitmap.getWidth();
+            int height = bitmap.getHeight();
+            int max = Math.max(width, height);
+            if (max > 512) {
+                float scale = 512f / max;
+                int w = Math.round(scale * width);
+                int h = Math.round(scale * height);
+                bitmap = Bitmap.createScaledBitmap(bitmap, w, h, true);
+            }
+        } else if (kind == MediaStore.Images.Thumbnails.MICRO_KIND) {
+            bitmap = ThumbnailUtils.extractThumbnail(bitmap,
+                    96,
+                    96,
+                    ThumbnailUtils.OPTIONS_RECYCLE_INPUT);
+        }
+        return bitmap;
+    }
+
+    public static void saveImg2Local(Context context, String path) {
+        if (!CheckUtil.stringIsBlank(path)) {
+            // 将上传图片保存为homework_attach_时间.jpg
+            File capture_file_upload = new File(
+                    FileUtil.getCameraDir(),
+                    "homework_attach_" + ImageUtil.getPhotoFileNameWithCurrentTime());
+            try {
+                capture_file_upload.createNewFile();
+                FileOutputStream fos = new FileOutputStream(capture_file_upload);
+                Bitmap decodeBitmap = ImageUtil.decodeBitmapWithThumbnailUtils(path, 2000);
+                // 压缩图片质量至80%
+                decodeBitmap.compress(Bitmap.CompressFormat.JPEG, 80, fos);
+                fos.flush();
+                fos.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            context.sendBroadcast(new Intent(Intent.ACTION_MEDIA_SCANNER_SCAN_FILE, Uri.fromFile(new File(path))));
+        }
     }
 
 }

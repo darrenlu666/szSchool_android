@@ -108,7 +108,6 @@ public class MMVideoAlbumFragment extends Fragment implements Handler.Callback {
                     intent.putExtra("EXTRA_VIDEO_DURATION", values.getTime());
                     startActivityForResult(intent, 1 << 2);
                 }
-
             }
 
             @Override
@@ -190,6 +189,9 @@ public class MMVideoAlbumFragment extends Fragment implements Handler.Callback {
                 if (grantResults.length > 0
                         && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
                     mThread.start();
+                    Intent intent = new Intent(getActivity(), RecordVideoActivity.class);
+                    intent.putExtra("EXTRA_SIZE", getArguments().getInt(ARG_SIZE, 500 * 1024 * 1024));//50M
+                    startActivityForResult(intent, 1 << 2);
 
                 } else {
                     PermissionsUtils.warn(getContext(), "未授予存储空间权限,请在设置中打开!");

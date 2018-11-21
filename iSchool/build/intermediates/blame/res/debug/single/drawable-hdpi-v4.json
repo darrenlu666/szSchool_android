@@ -612,6 +612,10 @@
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-hdpi\\menu_person.png"
     },
     {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_default.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-hdpi\\pic_default.png"
+    },
+    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\class_switch_user.png",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-hdpi\\class_switch_user.png"
     },

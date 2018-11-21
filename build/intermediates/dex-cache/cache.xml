@@ -30,6 +30,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\codyy\.android\build-cache\4b54c9de92b7193769f88268d1933bfc99672056\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bbfd38c2ee1b939d1b470cf409debe6ac1b19800">
+        <dex dex="D:\Project\szSchool_android-master-new\iSchool\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c74780d5cef3675c08efd82c992a4cec264fa6a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="D:\Project\szSchool_android-master-new\iSchool\libs\libammsdk.jar"
         jumboMode="false"
         optimize="true"
@@ -45,6 +54,15 @@
         revision="25.0.2"
         sha1="c77602d43223db798b1ca56cf307ab0ee3c0e63f">
         <dex dex="D:\Project\szSchool_android-master-new\iSchool\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b986230f2a4d10d338778d1043dda25d5f324861\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\codyy\.android\build-cache\4b55773d39f38685ae725b75fbd75e8b55b7f692\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69253a57e2371f2889f0528f854efeb88c0978e7">
+        <dex dex="D:\Project\szSchool_android-master-new\iSchool\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d9e3c4c26e59140e28d32a77a3b3e2dda702903d\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -75,6 +93,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\codyy\.android\build-cache\08ac40a00550fc60b558a7afd8545eecdd092cc8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="66c795a8c2d4b5be018a93a147ef1e7e26d7a4b6">
+        <dex dex="D:\Project\szSchool_android-master-new\iSchool\build\intermediates\transforms\dex\debug\folders\1000\10\classes_506f7afc83bbfbf656efa412c492b47cd78c5a70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\codyy\.android\build-cache\33caedb5f31e99e6a73ad3a5d25263c51ad3ba62\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -99,6 +126,33 @@
         revision="25.0.2"
         sha1="4d56b66cd15bcee59d44c9cf66607998f9989a78">
         <dex dex="D:\Project\szSchool_android-master-new\iSchool\build\intermediates\transforms\dex\debug\folders\1000\4\classes_f00426838540a1028e8da605e69e5e10d80b125f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\codyy\.android\build-cache\430963d77cfa5f6dd313b27acf2b02d71b99027f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3809b41896b3a1dea1d5205e86364e42609bbd5">
+        <dex dex="D:\Project\szSchool_android-master-new\iSchool\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be5b82183592bc4e834ac95475abf6ea631113ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\codyy\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="D:\Project\szSchool_android-master-new\iSchool\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.12_54ae6e9a24c42a447277d79c0e5ae6ef191a3eff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Project\szSchool_android-master-new\nicevideoplayer\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40d3b62cd6e1b75c6cfa1bd105020797e5161ac1">
+        <dex dex="D:\Project\szSchool_android-master-new\iSchool\build\intermediates\transforms\dex\debug\folders\1000\4\classes_a910bca58e4416fa596a62547d7260fc6eff5250\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -261,6 +315,15 @@
         revision="25.0.2"
         sha1="03e3948d42b8d78961a092a184af66bd86da42e6">
         <dex dex="D:\Project\szSchool_android-master-new\iSchool\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.3-with-sources_434f298d4bd96c989a30858a14de577badaed7e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\codyy\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="D:\Project\szSchool_android-master-new\iSchool\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.3_d18496afe9e548296aca1cfc0ef3cdb7301820f5\classes.dex" />
     </item>
     <item
         is-multidex="true"

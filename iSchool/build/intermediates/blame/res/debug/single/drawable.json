@@ -40,12 +40,12 @@
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\img_test_post.xml",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable\\img_test_post.xml"
-    },
-    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\img_test_post.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable\\img_test_post.xml"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_tab_widget_sharp.xml",
@@ -98,6 +98,10 @@
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_border_gray.xml",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable\\layout_border_gray.xml"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_thumb.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable\\seek_thumb.xml"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\img_share_qzone.xml",
@@ -260,6 +264,10 @@
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\pb_change.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable\\pb_change.xml"
+    },
+    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\selector.xml",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable\\selector.xml"
     },
@@ -272,16 +280,16 @@
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable\\bg_button3.xml"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_button.xml",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable\\checkbox_button.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_drawable_radiobutton_bg_mine.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable\\selector_drawable_radiobutton_bg_mine.xml"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_drawable_radiobutton_bg_mine.xml",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable\\selector_drawable_radiobutton_bg_mine.xml"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_button.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable\\checkbox_button.xml"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_lesson_table_border_3.xml",
@@ -332,6 +340,10 @@
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable\\bg_border22.xml"
     },
     {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_thumb_normal.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable\\seek_thumb_normal.xml"
+    },
+    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_testing.xml",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable\\selector_btn_testing.xml"
     },
@@ -368,12 +380,20 @@
         "source": "D:\\Project\\szSchool_android-master-new\\imageselector\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_back_selector.xml"
     },
     {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_radius_4.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable\\bg_radius_4.xml"
+    },
+    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading_progress.xml",
         "source": "D:\\Project\\szSchool_android-master-new\\library\\build\\intermediates\\bundles\\default\\res\\drawable\\sample_footer_loading_progress.xml"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_drawable_radiobutton_bg_inclass.xml",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable\\selector_drawable_radiobutton_bg_inclass.xml"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_retry.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable\\bg_retry.xml"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_round_zhengzhi.xml",
@@ -456,6 +476,10 @@
         "source": "C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\select_change_clarity.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable\\select_change_clarity.xml"
+    },
+    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_rect_button_bg_1.xml",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable\\shape_rect_button_bg_1.xml"
     },
@@ -510,6 +534,14 @@
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_round_yingyu.xml",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable\\shape_round_yingyu.xml"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_thumb_pressed.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable\\seek_thumb_pressed.xml"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_change_clarity_checked.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable\\bg_change_clarity_checked.xml"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
@@ -584,6 +616,10 @@
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable\\img_share_pyq.xml"
     },
     {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\loading.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable\\loading.xml"
+    },
+    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable\\abc_vector_test.xml"
     },
@@ -600,6 +636,10 @@
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\seek_progress.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable\\seek_progress.xml"
+    },
+    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_border.xml",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable\\bg_border.xml"
     },
@@ -610,6 +650,10 @@
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_change_clarity_normal.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable\\bg_change_clarity_normal.xml"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_normal.xml",

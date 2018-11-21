@@ -332,6 +332,10 @@
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\layout\\activity_growfile.xml"
     },
     {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play_video3.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\layout\\activity_play_video3.xml"
+    },
+    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_album_pic_grid_list.xml",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\layout\\activity_album_pic_grid_list.xml"
     },
@@ -512,6 +516,10 @@
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\layout\\activity_diary_pic_pager_list.xml"
     },
     {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\item_change_clarity.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\layout\\item_change_clarity.xml"
+    },
+    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_footview.xml",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\layout\\view_list_footview.xml"
     },
@@ -602,6 +610,10 @@
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attendance_picture_grid_list.xml",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\layout\\activity_attendance_picture_grid_list.xml"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\tx_video_palyer_controller.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\layout\\tx_video_palyer_controller.xml"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_diary.xml",
@@ -954,6 +966,10 @@
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item_homework_add_choose_subject.xml",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\layout\\view_list_item_homework_add_choose_subject.xml"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_play_video2.xml",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\layout\\activity_play_video2.xml"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homework_subject_list.xml",

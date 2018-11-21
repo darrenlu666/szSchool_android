@@ -12,7 +12,7 @@ public class DBHelper extends SQLiteOpenHelper {
     private static final String DATABASE_NAME = "app_info.db";
     // 周锋2015.9.15修改数据库版本，由1改为2
     // 周锋2016.5.17修改数据库版本，由2改为3
-    private static final int DATABASE_VERSION = 4;
+    private static final int DATABASE_VERSION = 5;
 
     public DBHelper(Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
@@ -23,6 +23,7 @@ public class DBHelper extends SQLiteOpenHelper {
         StringBuilder clzSql = new StringBuilder();
         StringBuilder msgSql = new StringBuilder();
         StringBuilder groupSql = new StringBuilder();
+        StringBuilder msgVideoPathSql = new StringBuilder();
         // 群组消息表
         groupSql.append("CREATE TABLE group_message (");
         groupSql.append("				group_message_id INTEGER NOT NULL,");
@@ -75,10 +76,14 @@ public class DBHelper extends SQLiteOpenHelper {
         clzSql.append("				constraint pk_t1 PRIMARY KEY (class_message_id, owner) )");
 
 
+        msgVideoPathSql.append("CREATE TABLE msg_video_path (");
+        msgVideoPathSql.append("                class_message_id INTEGER NOT NULL,");
+        msgVideoPathSql.append("                video_local_path TEXT)");
 
         db.execSQL(clzSql.toString());
         db.execSQL(msgSql.toString());
         db.execSQL(groupSql.toString());
+        db.execSQL(msgVideoPathSql.toString());
     }
 
     @Override
@@ -114,6 +119,20 @@ public class DBHelper extends SQLiteOpenHelper {
                 groupSql.append("				headpic TEXT, ");
                 groupSql.append("				constraint pk_t1 PRIMARY KEY (group_message_id, owner) )");
                 db.execSQL(groupSql.toString());
+            }else if(oldVersion == 4){
+                MLog.i("数据库升级，由版本4升级为版本5");
+                String addColumnGroupMsg = "ALTER TABLE group_message ADD COLUMN video_url TEXT";
+                db.execSQL(addColumnGroupMsg);
+                String addColumnClsMsg = "ALTER TABLE class_message ADD COLUMN video_url TEXT";
+                db.execSQL(addColumnClsMsg);
+                String addColumnPersonMsg = "ALTER TABLE message ADD COLUMN video_url TEXT";
+                db.execSQL(addColumnPersonMsg);
+
+                StringBuilder msgVideoPathSql = new StringBuilder();
+                msgVideoPathSql.append("CREATE TABLE msg_video_path (");
+                msgVideoPathSql.append("                class_message_id INTEGER NOT NULL,");
+                msgVideoPathSql.append("                video_local_path TEXT)");
+                db.execSQL(msgVideoPathSql.toString());
             }
         } catch (SQLException e) {
             e.printStackTrace();

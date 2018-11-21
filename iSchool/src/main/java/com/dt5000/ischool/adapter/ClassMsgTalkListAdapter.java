@@ -15,6 +15,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewGroup;
+import android.widget.AbsListView;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
@@ -23,9 +24,12 @@ import android.widget.TextView;
 
 import com.dt5000.ischool.R;
 import com.dt5000.ischool.activity.PlayVideoActivity;
+import com.dt5000.ischool.activity.PlayVideoActivity2;
+import com.dt5000.ischool.activity.PlayVideoActivity3;
 import com.dt5000.ischool.activity.SingleImageShowActivity;
 import com.dt5000.ischool.activity.media.activity.VideoPlayerActivity;
 import com.dt5000.ischool.activity.media.activity.VideoViewActivity;
+import com.dt5000.ischool.db.MsgLocalPathDBManager;
 import com.dt5000.ischool.entity.ClassMessage;
 import com.dt5000.ischool.entity.User;
 import com.dt5000.ischool.net.UrlProtocol;
@@ -35,13 +39,18 @@ import com.dt5000.ischool.utils.ImageLoaderUtil;
 import com.dt5000.ischool.utils.ImageUtil;
 import com.dt5000.ischool.utils.MLog;
 import com.dt5000.ischool.utils.TimeUtil;
+import com.dt5000.ischool.utils.VideoUtil;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.assist.FailReason;
 import com.nostra13.universalimageloader.core.listener.SimpleImageLoadingListener;
 
+import java.lang.ref.WeakReference;
 import java.util.Date;
 import java.util.List;
 
+import okhttp3.internal.framed.FrameReader;
+
+import static android.provider.MediaStore.Images.Thumbnails.MINI_KIND;
 import static com.dt5000.ischool.net.UrlProtocol.VIDEO_HOST;
 
 /**
@@ -52,13 +61,14 @@ import static com.dt5000.ischool.net.UrlProtocol.VIDEO_HOST;
  * @ClassInfo com.dt5000.ischool.adapter.ClassMsgTalkListAdapter
  * @Description
  */
-public class ClassMsgTalkListAdapter extends BaseAdapter{
+public class ClassMsgTalkListAdapter extends BaseAdapter {
 
     private Context context;
     private List<ClassMessage> list;
     private LayoutInflater myInflater;
     private ImageLoader imageLoader;
     private User user;
+    private MsgLocalPathDBManager mMsgLocalPathDBManager;
 
     public ClassMsgTalkListAdapter(Context context, List<ClassMessage> list, User user) {
         this.context = context;
@@ -66,6 +76,7 @@ public class ClassMsgTalkListAdapter extends BaseAdapter{
         this.user = user;
         myInflater = LayoutInflater.from(context);
         imageLoader = ImageLoaderUtil.createSimple(context);
+        mMsgLocalPathDBManager = new MsgLocalPathDBManager(context);
     }
 
     //改变本人头像
@@ -95,7 +106,7 @@ public class ClassMsgTalkListAdapter extends BaseAdapter{
         if (convertView == null) {
             viewHolder = new ViewHolder();
             convertView = myInflater.inflate(
-                    R.layout.view_list_item_class_msg_talk,null);
+                    R.layout.view_list_item_class_msg_talk, null);
             viewHolder.txt_name_left = (TextView) convertView
                     .findViewById(R.id.txt_name_left);
             viewHolder.txt_time = (TextView) convertView
@@ -120,8 +131,8 @@ public class ClassMsgTalkListAdapter extends BaseAdapter{
                     .findViewById(R.id.img_head_left);
             viewHolder.img_head_right = (ImageView) convertView
                     .findViewById(R.id.img_head_right);
-            viewHolder.img_video_play_left = (ImageView)convertView.findViewById(R.id.img_video_play_left);
-            viewHolder.img_video_play_right = (ImageView)convertView.findViewById(R.id.img_video_play_right);
+            viewHolder.img_video_play_left = (ImageView) convertView.findViewById(R.id.img_video_play_left);
+            viewHolder.img_video_play_right = (ImageView) convertView.findViewById(R.id.img_video_play_right);
             convertView.setTag(viewHolder);
         } else {
             viewHolder = (ViewHolder) convertView.getTag();
@@ -152,7 +163,7 @@ public class ClassMsgTalkListAdapter extends BaseAdapter{
 
             // 图片
             String imageUrl = message.getPicUrl();
-            if (!CheckUtil.stringIsBlank(imageUrl)) {
+            if (!CheckUtil.stringIsBlank(imageUrl) && !VideoUtil.isVideo(imageUrl)) {
                 viewHolder.img_pic_right.setVisibility(View.VISIBLE);
                 viewHolder.img_emoji_right.setVisibility(View.GONE);
                 String smallImg = UrlProtocol.SMALL_IMAGE + imageUrl;
@@ -170,33 +181,37 @@ public class ClassMsgTalkListAdapter extends BaseAdapter{
                 viewHolder.img_pic_right.setVisibility(View.GONE);
             }
             //视频
-            final String videoUrl = message.getVideoUrl();
+            final String videoUrl = VideoUtil.isVideo(message.getPicUrl()) ? message.getPicUrl() : null;
             if (!CheckUtil.stringIsBlank(videoUrl)) {
+                final String localPath = mMsgLocalPathDBManager.getPath(message.getClassMessageID());
                 viewHolder.img_pic_right.setVisibility(View.VISIBLE);
                 viewHolder.img_emoji_right.setVisibility(View.GONE);
 
                 viewHolder.img_video_play_right.setVisibility(View.VISIBLE);
                 viewHolder.img_pic_right.setTag(videoUrl);
-                /*new Thread(new Runnable() {
-                    @Override
-                    public void run() {
-                        Bitmap bm = ImageUtil.getBitmapFromDCIM(videoUrl);
-                        if (bm == null) {
-                            bm = ImageUtil.getVideoThumb(VIDEO_HOST + videoUrl, videoUrl);
-                        }
-                        viewHolder.img_pic_right.setImageBitmap(bm);
-                    }
-                }).start();*/
-                new ThumbLoadTask(viewHolder.img_pic_right,videoUrl).execute();
-                viewHolder.img_pic_right.setOnClickListener(new OnClickListener() {
+
+                Bitmap bm = ImageUtil.getBitmapFromDCIM(videoUrl);
+                if(bm != null){
+                    viewHolder.img_pic_right.setImageBitmap(bm);
+                }else{
+                    new ThumbLoadTask(viewHolder.img_pic_right, videoUrl).execute();
+                }
+
+                viewHolder.img_pic_right.setOnClickListener(null);
+                viewHolder.img_video_play_right.setOnClickListener(new OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        Intent intent = new Intent(context, VideoViewActivity.class);
-                        intent.putExtra("URL", videoUrl);
+                        Intent intent = new Intent(context, PlayVideoActivity3.class);
+                        if(localPath != null){
+                            intent.putExtra("videoLocalUrl", localPath);
+                        }
+                        intent.putExtra("videoUrl", VIDEO_HOST + videoUrl);
+                        intent.putExtra("isSelf",true);
+                        intent.putExtra("videoName", videoUrl);
                         context.startActivity(intent);
                     }
                 });
-            }else{
+            } else {
                 viewHolder.img_video_play_right.setVisibility(View.GONE);
             }
 
@@ -227,7 +242,7 @@ public class ClassMsgTalkListAdapter extends BaseAdapter{
 
             // 图片
             String imageUrl = message.getPicUrl();
-            if (!CheckUtil.stringIsBlank(imageUrl)) {
+            if (!CheckUtil.stringIsBlank(imageUrl) && !VideoUtil.isVideo(imageUrl)) {
                 viewHolder.img_pic_left.setVisibility(View.VISIBLE);
                 viewHolder.img_emoji_left.setVisibility(View.GONE);
                 String smallImg = UrlProtocol.SMALL_IMAGE + imageUrl;
@@ -246,33 +261,32 @@ public class ClassMsgTalkListAdapter extends BaseAdapter{
             }
 
             //视频
-            final String videoUrl = message.getVideoUrl();
+            final String videoUrl = VideoUtil.isVideo(message.getPicUrl()) ? message.getPicUrl() : null;
             if (!CheckUtil.stringIsBlank(videoUrl)) {
                 viewHolder.img_pic_left.setVisibility(View.VISIBLE);
                 viewHolder.img_emoji_left.setVisibility(View.GONE);
 
                 viewHolder.img_video_play_left.setVisibility(View.VISIBLE);
                 viewHolder.img_pic_left.setTag(videoUrl);
-                /*new Thread(new Runnable() {
-                    @Override
-                    public void run() {
-                        Bitmap bm = ImageUtil.getBitmapFromDCIM(videoUrl);
-                        if (bm == null) {
-                            bm = ImageUtil.getVideoThumb(VIDEO_HOST + videoUrl, videoUrl);
-                        }
 
-                    }
-                }).start();*/
-                new ThumbLoadTask(viewHolder.img_pic_left,videoUrl).execute();
-                viewHolder.img_pic_left.setOnClickListener(new OnClickListener() {
+                Bitmap bm = ImageUtil.getBitmapFromDCIM(videoUrl);
+                if(bm != null){
+                    viewHolder.img_pic_left.setImageBitmap(bm);
+                }else{
+                    new ThumbLoadTask(viewHolder.img_pic_left, videoUrl).execute();
+                }
+
+                viewHolder.img_pic_left.setOnClickListener(null);
+                viewHolder.img_video_play_left.setOnClickListener(new OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        Intent intent = new Intent(context, VideoViewActivity.class);
-                        intent.putExtra("URL", videoUrl);
+                        Intent intent = new Intent(context, PlayVideoActivity3.class);
+                        intent.putExtra("videoUrl", VIDEO_HOST + videoUrl);
+                        intent.putExtra("videoName", videoUrl);
                         context.startActivity(intent);
                     }
                 });
-            }else{
+            } else {
                 viewHolder.img_video_play_left.setVisibility(View.GONE);
             }
 
@@ -340,8 +354,8 @@ public class ClassMsgTalkListAdapter extends BaseAdapter{
         @Override
         public void onLoadingComplete(String imageUri, View view,
                                       Bitmap loadedImage) {
-            int width = loadedImage.getWidth() / 3;
-            int height = loadedImage.getHeight() / 3;
+            int width = loadedImage.getWidth() / 2;
+            int height = loadedImage.getHeight() / 2;
             Bitmap bm = Bitmap.createScaledBitmap(loadedImage, width, height, true);
             imageView.setImageBitmap(bm);
         }
@@ -353,47 +367,49 @@ public class ClassMsgTalkListAdapter extends BaseAdapter{
         }
     }
 
-    private static class ThumbLoadTask extends AsyncTask<String,String,Bitmap>{
-        private ImageView mImageView;
+    private static class ThumbLoadTask extends AsyncTask<String, String, Bitmap> {
+        private WeakReference<ImageView> mImageView;
         private String mUrl;
-        public ThumbLoadTask(ImageView imgView,String url) {
-            mImageView = imgView;
+
+        ThumbLoadTask(ImageView imgView, String url) {
+            mImageView = new WeakReference<>(imgView);
             mUrl = url;
         }
 
         @Override
         protected Bitmap doInBackground(String... strings) {
-            Bitmap bm = ImageUtil.getBitmapFromDCIM(mUrl);
-            if (bm == null) {
-                bm = ImageUtil.getVideoThumb(VIDEO_HOST + mUrl, mUrl);
-            }
+            Bitmap bm = ImageUtil.getVideoThumb(VIDEO_HOST + mUrl, mUrl);
             return bm;
         }
 
         @Override
         protected void onPostExecute(Bitmap bitmap) {
             super.onPostExecute(bitmap);
-            if(mImageView.getTag().equals(mUrl)){
-                mImageView.setImageBitmap(bitmap);
-            }
+            if (mImageView != null && mImageView.get()!= null)
+                if (bitmap == null) {
+                    mImageView.get().setImageResource(R.drawable.pic_default);
+                } else if (mImageView.get().getTag().equals(mUrl)) {
+                    mImageView.get().setImageBitmap(bitmap);
+                    mImageView.get().invalidate();
+                }
         }
     }
 
     static class ViewHolder {
-        private TextView txt_name_left;
-        private TextView txt_time;
-        private LinearLayout lLayout_left;
-        private RelativeLayout rLayout_right;
-        private TextView txt_content_left;
-        private TextView txt_content_right;
-        private ImageView img_pic_left;
-        private ImageView img_pic_right;
-        private ImageView img_emoji_left;
-        private ImageView img_emoji_right;
-        private ImageView img_head_left;
-        private ImageView img_head_right;
-        private ImageView img_video_play_left;
-        private ImageView img_video_play_right;
+        TextView txt_name_left;
+        TextView txt_time;
+        LinearLayout lLayout_left;
+        RelativeLayout rLayout_right;
+        TextView txt_content_left;
+        TextView txt_content_right;
+        ImageView img_pic_left;
+        ImageView img_pic_right;
+        ImageView img_emoji_left;
+        ImageView img_emoji_right;
+        ImageView img_head_left;
+        ImageView img_head_right;
+        ImageView img_video_play_left;
+        ImageView img_video_play_right;
     }
 
 }

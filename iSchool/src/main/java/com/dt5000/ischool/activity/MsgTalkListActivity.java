@@ -54,7 +54,9 @@ import com.dt5000.ischool.activity.media.activity.ToolbarActivity;
 import com.dt5000.ischool.activity.media.bean.MMImageBean;
 import com.dt5000.ischool.adapter.ImageSelectAdapter;
 import com.dt5000.ischool.adapter.MsgTalkListAdapter;
+import com.dt5000.ischool.db.MsgLocalPathDBManager;
 import com.dt5000.ischool.db.PersonMessageDBManager;
+import com.dt5000.ischool.entity.GroupMessage;
 import com.dt5000.ischool.entity.ImageMessage;
 import com.dt5000.ischool.entity.PersonMessage;
 import com.dt5000.ischool.entity.User;
@@ -68,6 +70,7 @@ import com.dt5000.ischool.utils.ImageUtil;
 import com.dt5000.ischool.utils.MCon;
 import com.dt5000.ischool.utils.MLog;
 import com.dt5000.ischool.utils.MToast;
+import com.dt5000.ischool.utils.VideoUtil;
 import com.dt5000.ischool.widget.PullToRefreshListView;
 import com.dt5000.ischool.widget.PullToRefreshListView.OnRefreshListener;
 import com.dt5000.ischool.widget.UISwitchButton;
@@ -130,6 +133,10 @@ public class MsgTalkListActivity extends Activity {
     private static final int REQUEST_SELECT_IMAGES = 1 << 4;
     private static final int REQUEST_SELECT_VIDEO = 1 <<3;
     protected static final String EXTRA_DATA = ToolbarActivity.class.getPackage() + ".EXTRA_DATA";
+    private ProgressDialog mProgressDialog;
+    private boolean isSendVideo;
+    private String sendingVideoUrl;
+    private MsgLocalPathDBManager mMsgLocalPathDBManager;
 
     @SuppressLint("HandlerLeak")
     private Handler saveHandler = new Handler() {
@@ -182,6 +189,12 @@ public class MsgTalkListActivity extends Activity {
         final LinearLayoutManager layoutManager = new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false);
         recyclerView.setLayoutManager(layoutManager);
         adapter = new ImageSelectAdapter(this);
+        if (mProgressDialog == null) {
+            mProgressDialog = new ProgressDialog(this);
+            mProgressDialog.setProgressStyle(ProgressDialog.STYLE_SPINNER);
+            mProgressDialog.setMessage("消息发送中...");
+            mProgressDialog.setCancelable(false);
+        }
     }
 
     private void initListener() {
@@ -355,6 +368,11 @@ public class MsgTalkListActivity extends Activity {
                     RetrofitService.postFiles(picPaths,
                             RetrofitService.postFilesMapPersonMessage(personMessage, sendSMS, picPaths, isHaveContent),
                             MsgTalkListActivity.this, user, isHaveContent, handler);
+                    if (isSendVideo) {
+                        sendingVideoUrl = picPaths.get(0);
+                        if (!mProgressDialog.isShowing())
+                            mProgressDialog.show();
+                    }
                 }
             } else {
                 MToast.show(MsgTalkListActivity.this, "请输入内容", MToast.SHORT);
@@ -391,6 +409,12 @@ public class MsgTalkListActivity extends Activity {
         progressDialog.setCanceledOnTouchOutside(false);
 
         new queryMsgThread(FlagCode.CODE_0).start();
+
+        if (ContextCompat.checkSelfPermission(this, Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
+            ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE},
+                    REQUEST_STORAGE_WRITE_ACCESS_PERMISSION);
+        }
+        mMsgLocalPathDBManager = new MsgLocalPathDBManager(this);
     }
 
     @SuppressLint("InflateParams")
@@ -550,6 +574,12 @@ public class MsgTalkListActivity extends Activity {
                     messageList = personMessageDBManager.queryAfter(friendId,
                             user.getUserId(), lastMsgId, user.getUserId());
                     handlerMessage.what = FlagCode.CODE_2;
+                    if(messageList.size()>0){
+                        PersonMessage msg = messageList.get(0);
+                        if(VideoUtil.isVideo(msg.getImageUrl())){
+                            mMsgLocalPathDBManager.inputPath(msg.getMessageId(),sendingVideoUrl);
+                        }
+                    }
                 }
             } catch (Exception e) {
                 e.printStackTrace();
@@ -575,12 +605,15 @@ public class MsgTalkListActivity extends Activity {
                     //显示
                     relativeImage.setVisibility(View.VISIBLE);
                     recyclerView.setAdapter(adapter);
+                    ImageUtil.saveImg2Local(this,capture_file.getAbsolutePath());
+                    isSendVideo = false;
                     break;
                 case REQUEST_SELECT_VIDEO://视频
                     if(data!= null){
                         ArrayList<MMImageBean> mImageList = data.getParcelableArrayListExtra(EXTRA_DATA);
                         if(mImageList!=null && mImageList.size()>0){
                             picPaths.add(mImageList.get(0).getPath());
+                            isSendVideo = true;
                             sendMsg();
                         }
                     }
@@ -595,6 +628,7 @@ public class MsgTalkListActivity extends Activity {
                     //显示
                     relativeImage.setVisibility(View.VISIBLE);
                     recyclerView.setAdapter(adapter);
+                    isSendVideo = false;
                     break;
             }
         }
@@ -613,6 +647,7 @@ public class MsgTalkListActivity extends Activity {
         public void handleMessage(Message msg) {
             super.handleMessage(msg);
             MsgTalkListActivity msgTalkListActivity = referActivity.get();
+            msgTalkListActivity.isSendVideo = false;
             switch (msg.what) {
                 case FlagCode.CODE_0: {// 首次加载
                     List<PersonMessage> data = (List<PersonMessage>) msg.obj;
@@ -701,6 +736,9 @@ public class MsgTalkListActivity extends Activity {
 
                     // 关闭加载进度条
                     msgTalkListActivity.progressDialog.dismiss();
+                    //msgTalkListActivity.recyclerView.scrollToPosition(msgTalkListActivity.msgTalkListAdapter.getCount() -1);
+                    if(msgTalkListActivity.mProgressDialog.isShowing())
+                        msgTalkListActivity.mProgressDialog.cancel();
                     break;
                 }
                 case FlagCode.FAIL: { // 发送消息失败
@@ -711,6 +749,8 @@ public class MsgTalkListActivity extends Activity {
                     msgTalkListActivity.isSending = false;
 
                     MToast.show(msgTalkListActivity, "发送失败，请稍后重试", MToast.SHORT);
+                    if(msgTalkListActivity.mProgressDialog.isShowing())
+                        msgTalkListActivity.mProgressDialog.cancel();
                     break;
                 }
                 case FlagCode.CODE_2: { // 发送消息并且同步个人消息后，从本地数据库获取到了新插入的数据

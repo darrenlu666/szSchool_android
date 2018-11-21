@@ -11,6 +11,8 @@ import android.content.pm.PackageManager;
 import android.media.MediaPlayer;
 import android.net.Uri;
 import android.os.Bundle;
+import android.os.Environment;
+import android.provider.MediaStore;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.app.ActivityCompat;
@@ -61,12 +63,19 @@ public class VideoViewActivity extends AppCompatActivity implements View.OnClick
         mTitleBar = (RelativeLayout) findViewById(R.id.relative_header);
         mBackImageView.setOnClickListener(this);
 
+        File externalFile = new File(Environment.getExternalStorageDirectory() +
+                "/download/", getIntent().getStringExtra(EXTRA_URL));
+        if (externalFile.exists()) {
+            findViewById(R.id.iv_downLoad).setVisibility(View.GONE);
+        }
+
         MediaController mMediaController = new MediaController(this);
-        File file = VideoUtil.getFile(getIntent().getStringExtra(EXTRA_URL));
-        if(file != null){
+        final File file = new File(getCacheDir() + "/" + getIntent().getStringExtra(EXTRA_URL));
+        if (file.exists()) {
             mVideoView.setVideoURI(Uri.fromFile(file));
-        }else{
+        } else {
             mVideoView.setVideoURI(Uri.parse(mPlayUrl));
+            VideoUtil.downLoadFile(mPlayUrl, getCacheDir()+"");
         }
         mVideoView.setMediaController(mMediaController);
         mMediaController.setMediaPlayer(mVideoView);
@@ -76,7 +85,7 @@ public class VideoViewActivity extends AppCompatActivity implements View.OnClick
                 finish();
             }
         });
-        if(mProgressDialog == null){
+        if (mProgressDialog == null) {
             mProgressDialog = new ProgressDialog(this);
             mProgressDialog.setProgressStyle(ProgressDialog.STYLE_SPINNER);
             mProgressDialog.setMessage("视频加载中...");
@@ -90,7 +99,16 @@ public class VideoViewActivity extends AppCompatActivity implements View.OnClick
             }
         });
 
-
+        mVideoView.setOnErrorListener(new MediaPlayer.OnErrorListener() {
+            @Override
+            public boolean onError(MediaPlayer mp, int what, int extra) {
+                mVideoView.setVideoURI(Uri.parse(mPlayUrl));
+                mVideoView.start();
+                if (!file.exists())
+                    VideoUtil.downLoadFile(mPlayUrl, getCacheDir() + "");
+                return false;
+            }
+        });
 
         mVideoViewRelativeLayout.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -102,16 +120,17 @@ public class VideoViewActivity extends AppCompatActivity implements View.OnClick
         findViewById(R.id.iv_downLoad).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if(ContextCompat.checkSelfPermission(VideoViewActivity.this, Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED){
+                if (ContextCompat.checkSelfPermission(VideoViewActivity.this, Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
                     ActivityCompat.requestPermissions(VideoViewActivity.this, new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, REQUEST_STORAGE_WRITE_ACCESS_PERMISSION);
-                }else{
+                } else {
+
                     downLoadVideo();
                 }
             }
         });
     }
 
-    private void downLoadVideo(){
+    private void downLoadVideo() {
         new AlertDialog.Builder(this)
                 .setTitle("是否保存到本地？")
                 .setPositiveButton("保存",
@@ -119,7 +138,8 @@ public class VideoViewActivity extends AppCompatActivity implements View.OnClick
                             @Override
                             public void onClick(DialogInterface dialog,
                                                 int which) {
-                                VideoUtil.downLoadVideo(VideoViewActivity.this,mPlayUrl,getIntent().getStringExtra(EXTRA_URL));
+                                VideoUtil.downLoadVideo(VideoViewActivity.this, mPlayUrl, getIntent().getStringExtra(EXTRA_URL));
+                                findViewById(R.id.iv_downLoad).setVisibility(View.GONE);
                             }
                         }).setNegativeButton("取消", null).show();
     }

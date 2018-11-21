@@ -222,8 +222,8 @@ public class HomeworkAddActivity extends Activity {
                     Toast.makeText(HomeworkAddActivity.this, "最多上传9张，请长按删除后再拍摄新照片", Toast.LENGTH_SHORT).show();
                     return;
                 }
-                if (ContextCompat.checkSelfPermission(HomeworkAddActivity.this, Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
-                    ActivityCompat.requestPermissions(HomeworkAddActivity.this, new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE},
+                if (ContextCompat.checkSelfPermission(HomeworkAddActivity.this, Manifest.permission.CAMERA) != PackageManager.PERMISSION_GRANTED) {
+                    ActivityCompat.requestPermissions(HomeworkAddActivity.this, new String[]{Manifest.permission.CAMERA,Manifest.permission.WRITE_EXTERNAL_STORAGE},
                             REQUEST_STORAGE_WRITE_ACCESS_PERMISSION);
                 } else {
                     getPicFromCamera();
@@ -261,12 +261,14 @@ public class HomeworkAddActivity extends Activity {
         });
     }
 
+    private String[] permissons = new String[]{Manifest.permission.CAMERA,Manifest.permission.WRITE_EXTERNAL_STORAGE};
     @Override
     public void onRequestPermissionsResult(int requestCode, String[] permissions, int[] grantResults) {
         if (requestCode == REQUEST_STORAGE_WRITE_ACCESS_PERMISSION) {
             if (grantResults[0] == PackageManager.PERMISSION_GRANTED) {
-                BoxingConfig singleImgConfig = new BoxingConfig(BoxingConfig.Mode.MULTI_IMG).withMaxCount(9 - picPaths.size());
-                Boxing.of(singleImgConfig).withIntent(HomeworkAddActivity.this, BoxingActivity.class).start(HomeworkAddActivity.this, REQUEST_SELECT_IMAGES);
+                /*BoxingConfig singleImgConfig = new BoxingConfig(BoxingConfig.Mode.MULTI_IMG).withMaxCount(9 - picPaths.size());
+                Boxing.of(singleImgConfig).withIntent(HomeworkAddActivity.this, BoxingActivity.class).start(HomeworkAddActivity.this, REQUEST_SELECT_IMAGES);*/
+                getPicFromCamera();
             } else {
                 MToast.show(HomeworkAddActivity.this, "Permission Denied", MToast.SHORT);
             }
@@ -374,7 +376,7 @@ public class HomeworkAddActivity extends Activity {
     }
 
 
-    private void saveImg2Local(String path) {
+    /*private void saveImg2Local(String path) {
         if (!CheckUtil.stringIsBlank(path)) {
             // 将上传图片保存为homework_attach_时间.jpg
             capture_file_upload = new File(
@@ -391,8 +393,9 @@ public class HomeworkAddActivity extends Activity {
             } catch (IOException e) {
                 e.printStackTrace();
             }
+            sendBroadcast(new Intent(Intent.ACTION_MEDIA_SCANNER_SCAN_FILE, Uri.fromFile(new File(path))));
         }
-    }
+    }*/
 
 
     private void getPicFromCamera() {
@@ -475,7 +478,7 @@ public class HomeworkAddActivity extends Activity {
                 MLog.i("拍照返回结果：" + Uri.fromFile(capture_file));
                 picPaths.add(new ImageMedia(capture_file.getAbsolutePath(), capture_file.getAbsolutePath()));
                 mImagePreviewAdapter.setData(picPaths);
-                saveImg2Local(capture_file.getAbsolutePath());
+                ImageUtil.saveImg2Local(this,capture_file.getAbsolutePath());
                 break;
 
             case REQUEST_SELECT_IMAGES://图片

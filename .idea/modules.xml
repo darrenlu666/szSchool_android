@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/lib_Qiniu/lib_Qiniu.iml" filepath="$PROJECT_DIR$/lib_Qiniu/lib_Qiniu.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib_WheelView/lib_WheelView.iml" filepath="$PROJECT_DIR$/lib_WheelView/lib_WheelView.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nicevideoplayer/nicevideoplayer.iml" filepath="$PROJECT_DIR$/nicevideoplayer/nicevideoplayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/szSchool_android-master-new.iml" filepath="$PROJECT_DIR$/szSchool_android-master-new.iml" />
     </modules>
   </component>

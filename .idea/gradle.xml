@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/lib_Qiniu" />
             <option value="$PROJECT_DIR$/lib_WheelView" />
             <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/nicevideoplayer" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

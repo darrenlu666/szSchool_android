@@ -412,10 +412,10 @@ public class RecordVideoActivity extends AppCompatActivity implements TextureVie
 
 
         initRecorder();
-
+        startCameraPreview();
         if (mPreview.isShown()) {
             //After screen OFF >  screen ON
-            startCameraPreview();
+            //startCameraPreview();
         } //else {
         //After press HOME
         // }
@@ -483,8 +483,9 @@ public class RecordVideoActivity extends AppCompatActivity implements TextureVie
         super.onActivityResult(requestCode, resultCode, data);
         if (requestCode == 1 << 2 ) {
             if (resultCode == VideoPlayerActivity.EXTRA_RESULT_RETRY) {
-                initRecorder();
-                startCameraPreview();
+                //initRecorder();
+                //startCameraPreview();
+                //switchCamera();
             } else if (resultCode == RESULT_OK && data != null) {
                 setResult(RESULT_OK, data);
                 finish();

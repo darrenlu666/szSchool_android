@@ -54,6 +54,7 @@ import com.dt5000.ischool.activity.media.bean.MMImageBean;
 import com.dt5000.ischool.adapter.GroupMsgTalkListAdapter;
 import com.dt5000.ischool.adapter.ImageSelectAdapter;
 import com.dt5000.ischool.db.GroupMessageDBManager;
+import com.dt5000.ischool.db.MsgLocalPathDBManager;
 import com.dt5000.ischool.entity.GroupMessage;
 import com.dt5000.ischool.entity.GroupMessageSend;
 import com.dt5000.ischool.entity.ImageMessage;
@@ -68,6 +69,7 @@ import com.dt5000.ischool.utils.ImageUtil;
 import com.dt5000.ischool.utils.MCon;
 import com.dt5000.ischool.utils.MLog;
 import com.dt5000.ischool.utils.MToast;
+import com.dt5000.ischool.utils.VideoUtil;
 import com.dt5000.ischool.widget.PullToRefreshListView;
 import com.dt5000.ischool.widget.PullToRefreshListView.OnRefreshListener;
 import com.dt5000.ischool.widget.UISwitchButton;
@@ -124,6 +126,10 @@ public class GroupMsgTalkListActivity extends Activity {
     private final int REQUEST_STORAGE_WRITE_ACCESS_PERMISSION = 100;
     private static final int REQUEST_SELECT_IMAGES = 1 << 4;
     private static final int REQUEST_SELECT_VIDEO = 1 << 3;
+    private ProgressDialog mProgressDialog;
+    private boolean isSendVideo;
+    private String sendingVideoUrl;
+    private MsgLocalPathDBManager mMsgLocalPathDBManager;
 
     @SuppressLint("HandlerLeak")
     private Handler saveHandler = new Handler() {
@@ -176,6 +182,12 @@ public class GroupMsgTalkListActivity extends Activity {
         final LinearLayoutManager layoutManager = new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false);
         recyclerView.setLayoutManager(layoutManager);
         adapter = new ImageSelectAdapter(this);
+        if (mProgressDialog == null) {
+            mProgressDialog = new ProgressDialog(this);
+            mProgressDialog.setProgressStyle(ProgressDialog.STYLE_SPINNER);
+            mProgressDialog.setMessage("消息发送中...");
+            mProgressDialog.setCancelable(false);
+        }
     }
 
     private void initListener() {
@@ -351,6 +363,11 @@ public class GroupMsgTalkListActivity extends Activity {
                     RetrofitService.postFiles(picPaths,
                             RetrofitService.postFilesMap(groupMessageSend, sendSMS, picPaths, isHaveContent),
                             GroupMsgTalkListActivity.this, user, isHaveContent, handler);
+                    if (isSendVideo && picPaths.size()>0) {
+                        sendingVideoUrl = picPaths.get(0);
+                        if (!mProgressDialog.isShowing())
+                            mProgressDialog.show();
+                    }
                 }
             } else {
                 MToast.show(GroupMsgTalkListActivity.this, "请输入内容", MToast.SHORT);
@@ -388,6 +405,12 @@ public class GroupMsgTalkListActivity extends Activity {
         progressDialog.setCanceledOnTouchOutside(false);
 
         new queryMsgThread(FlagCode.CODE_0).start();
+
+        if (ContextCompat.checkSelfPermission(this, Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
+            ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE},
+                    REQUEST_STORAGE_WRITE_ACCESS_PERMISSION);
+        }
+        mMsgLocalPathDBManager = new MsgLocalPathDBManager(this);
     }
 
     @SuppressLint("InflateParams")
@@ -472,8 +495,6 @@ public class GroupMsgTalkListActivity extends Activity {
     }
 
     private void getPicFromAlbum() {
-        cleaner();
-        //ImageSelectorUtils.openPhoto(GroupMsgTalkListActivity.this, FlagCode.ACTIVITY_REQUEST_CODE_1, false, 9);
         BoxingConfig singleImgConfig = new BoxingConfig(BoxingConfig.Mode.SINGLE_IMG);
         Boxing.of(singleImgConfig).withIntent(GroupMsgTalkListActivity.this, BoxingActivity.class).start(GroupMsgTalkListActivity.this, REQUEST_SELECT_IMAGES);
     }
@@ -536,6 +557,12 @@ public class GroupMsgTalkListActivity extends Activity {
                 } else if (code == FlagCode.CODE_2) {// 发送消息后再次查询最新数据
                     messageList = groupMessageDBManager.queryAfter(lastMsgId, user.getUserId(), groupInfoID);
                     handlerMessage.what = FlagCode.CODE_2;
+                    if(messageList.size()>0){
+                        GroupMessage msg = messageList.get(0);
+                        if(VideoUtil.isVideo(msg.getPicUrl())){
+                            mMsgLocalPathDBManager.inputPath(msg.getGroupMessageID(),sendingVideoUrl);
+                        }
+                    }
                 }
             } catch (Exception e) {
                 e.printStackTrace();
@@ -561,8 +588,10 @@ public class GroupMsgTalkListActivity extends Activity {
                     //显示
                     relativeImage.setVisibility(View.VISIBLE);
                     recyclerView.setAdapter(adapter);
+                    ImageUtil.saveImg2Local(this,capture_file.getAbsolutePath());
+                    isSendVideo = false;
                     break;
-                case FlagCode.ACTIVITY_REQUEST_CODE_1:// 相册返回结果
+                /*case FlagCode.ACTIVITY_REQUEST_CODE_1:// 相册返回结果
                     if (data != null) {
                         picPaths = data.getStringArrayListExtra(ImageSelectorUtils.SELECT_RESULT);
                         //设置适配器
@@ -570,13 +599,15 @@ public class GroupMsgTalkListActivity extends Activity {
                         //显示
                         relativeImage.setVisibility(View.VISIBLE);
                         recyclerView.setAdapter(adapter);
+                        isSendVideo = false;
                     }
-                    break;
+                    break;*/
                 case REQUEST_SELECT_VIDEO://视频
                     if (data != null) {
                         ArrayList<MMImageBean> mImageList = data.getParcelableArrayListExtra(EXTRA_DATA);
                         if (mImageList != null && mImageList.size() > 0) {
                             picPaths.add(mImageList.get(0).getPath());
+                            isSendVideo = true;
                             sendMsg();
                         }
                     }
@@ -591,6 +622,7 @@ public class GroupMsgTalkListActivity extends Activity {
                     //显示
                     relativeImage.setVisibility(View.VISIBLE);
                     recyclerView.setAdapter(adapter);
+                    isSendVideo = false;
                     break;
 
             }
@@ -612,6 +644,7 @@ public class GroupMsgTalkListActivity extends Activity {
         public void handleMessage(Message msg) {
             super.handleMessage(msg);
             GroupMsgTalkListActivity groupMsgTalkListActivity = referActivity.get();
+            groupMsgTalkListActivity.isSendVideo = false;
             switch (msg.what) {
                 case FlagCode.CODE_0: {// 首次加载
                     List<GroupMessage> data = (List<GroupMessage>) msg.obj;
@@ -698,6 +731,9 @@ public class GroupMsgTalkListActivity extends Activity {
 
                     // 关闭加载进度条
                     groupMsgTalkListActivity.progressDialog.dismiss();
+                    if(groupMsgTalkListActivity.mProgressDialog.isShowing())
+                        groupMsgTalkListActivity.mProgressDialog.cancel();
+
                     break;
                 case FlagCode.FAIL: {// 发送消息失败
                     // 如果有加载进度条则关闭
@@ -706,6 +742,8 @@ public class GroupMsgTalkListActivity extends Activity {
 
                     // 请求标识置空闲
                     groupMsgTalkListActivity.isSending = false;
+                    if(groupMsgTalkListActivity.mProgressDialog.isShowing())
+                        groupMsgTalkListActivity.mProgressDialog.cancel();
 
                     MToast.show(groupMsgTalkListActivity, "发送失败，请稍后重试", MToast.SHORT);
                     break;
@@ -737,6 +775,9 @@ public class GroupMsgTalkListActivity extends Activity {
 
                         // 将ListView显示在最后一个位置
                         groupMsgTalkListActivity.listview_msg.setSelection(groupMsgTalkListActivity.groupMessageList.size() - 1);
+                        groupMsgTalkListActivity.recyclerView.scrollToPosition(groupMsgTalkListActivity.groupMsgAdapter.getCount() -1);
+                        if(groupMsgTalkListActivity.mProgressDialog.isShowing())
+                            groupMsgTalkListActivity.mProgressDialog.cancel();
                     }
                     break;
                 }

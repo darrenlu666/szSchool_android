@@ -16,28 +16,8 @@
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\ic_exam_video_open.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_weixiao.png",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_weixiao.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_quantou.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_quantou.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exam_select_n.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\ic_exam_select_n.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_wen.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_wen.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exam_media_start.png",
@@ -60,8 +40,8 @@
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_zhadan.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading12.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading12.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
@@ -70,6 +50,358 @@
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_kuaikule.png",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_kuaikule.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_player_back.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_player_back.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading26.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading26.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\battery_full.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\battery_full.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_dama.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_dama.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_douniwan.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_douniwan.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_xuanjinya.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_xuanjinya.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_kafei.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_kafei.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_bizui.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_bizui.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_boxing_camera_white.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\boxing-impl\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_boxing_camera_white.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading16.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading16.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading10.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading10.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_back.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\imageselector\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\icon_back.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_yeah.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_yeah.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_wushou.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_wushou.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_memeda.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_memeda.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_boxing_broken_image.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\boxing-impl\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_boxing_broken_image.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_liulei.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_liulei.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\battery_10.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\battery_10.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_player_enlarge.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_player_enlarge.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_flip.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\camera_flip.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_baiyan.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_baiyan.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading00.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading00.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_player_center_start.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_player_center_start.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_zaijian.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_zaijian.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading22.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading22.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_liwu.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_liwu.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\video_play.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\video_play.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_bazimei.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_bazimei.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading28.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading28.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_ok.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_ok.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading09.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading09.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_boxing_default_image.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\boxing-impl\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_boxing_default_image.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\player_mask_top.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\player_mask_top.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading19.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading19.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_shandian.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_shandian.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading05.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading05.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_baigujing.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_baigujing.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading04.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading04.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_aini.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_aini.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_haoe.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_haoe.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_se.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_se.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_fankun.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_fankun.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exam_camera.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\ic_exam_camera.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading23.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading23.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_yunhuhu.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_yunhuhu.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_weiqu.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_weiqu.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading24.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading24.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_ku.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_ku.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exam_select_p.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\ic_exam_select_p.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_banku.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_banku.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_xiaoma.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_xiaoma.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_player_replay.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_player_replay.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_palyer_share.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_palyer_share.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exam_video_stop.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\ic_exam_video_stop.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_ganga.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_ganga.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_boxing_check_black.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\boxing-impl\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_boxing_check_black.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_keai.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_keai.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exam_media_stop.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\ic_exam_media_stop.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\battery_50.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\battery_50.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_toutong.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_toutong.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_meigui.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_meigui.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_bishou.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_bishou.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading14.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading14.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading13.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading13.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading27.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading27.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_palyer_volume.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_palyer_volume.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_quantou.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_quantou.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exam_select_n.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\ic_exam_select_n.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_wen.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_wen.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_chifan.png",
@@ -104,12 +436,12 @@
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_fendou.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_image_select.png",
         "source": "D:\\Project\\szSchool_android-master-new\\imageselector\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\icon_image_select.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading29.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading29.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_baozhong.png",
@@ -120,28 +452,12 @@
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_huaixiao.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_dama.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_dama.png"
-    },
-    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_outu.png",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_outu.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_douniwan.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_douniwan.png"
-    },
-    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_boxing_camera.png",
         "source": "D:\\Project\\szSchool_android-master-new\\boxing-impl\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_boxing_camera.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_xuanjinya.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_xuanjinya.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
@@ -152,16 +468,8 @@
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_bulini.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_kafei.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_kafei.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_bizui.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_bizui.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\battery_charging.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\battery_charging.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
@@ -184,10 +492,6 @@
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\class_switch_user.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_boxing_camera_white.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\boxing-impl\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_boxing_camera_white.png"
-    },
-    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -196,36 +500,12 @@
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_wushou.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_wushou.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_yeah.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_yeah.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_back.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\imageselector\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\icon_back.png"
-    },
-    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_take_photo.png",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\btn_take_photo.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_zaoan.png",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_zaoan.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_memeda.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_memeda.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_boxing_broken_image.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\boxing-impl\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_boxing_broken_image.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
@@ -248,20 +528,20 @@
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_wanan.png"
     },
     {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\battery_80.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\battery_80.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading15.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading15.png"
+    },
+    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\design_ic_visibility.png",
         "source": "C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_liulei.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_liulei.png"
-    },
-    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_jingdai.png",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_jingdai.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\camera_flip.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\camera_flip.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\text_indicator.png",
@@ -272,20 +552,8 @@
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_bukaixin.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
-    },
-    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_fakuang.png",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_fakuang.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_baiyan.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_baiyan.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_pijiu.png",
@@ -294,6 +562,10 @@
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading03.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading03.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_yihuo.png",
@@ -316,64 +588,44 @@
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_zaijian.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_zaijian.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_liwu.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_liwu.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\video_play.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\video_play.png"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading25.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading25.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_bazimei.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_bazimei.png"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\battery_100.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\battery_100.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_jianxiao.png",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_jianxiao.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_ok.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_ok.png"
-    },
-    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_bishi.png",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_bishi.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_player_shrink.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_player_shrink.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading06.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading06.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_boxing_default_image.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\boxing-impl\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_boxing_default_image.png"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\battery_20.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\battery_20.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
@@ -388,24 +640,16 @@
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_shandian.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_shandian.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_shuai.png",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_shuai.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_baigujing.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_baigujing.png"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading21.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading21.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
@@ -424,14 +668,6 @@
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_xiaomuzhi.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_aini.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_aini.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_haoe.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_haoe.png"
-    },
-    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exam_video_play.png",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\ic_exam_video_play.png"
     },
@@ -440,16 +676,8 @@
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_daji.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_se.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_se.png"
-    },
-    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_dangao.png",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_dangao.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_fankun.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_fankun.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_liuhan.png",
@@ -460,24 +688,16 @@
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_touxiao.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exam_camera.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\ic_exam_camera.png"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading20.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading20.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\player_mask_bottom.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\player_mask_bottom.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_yunhuhu.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_yunhuhu.png"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading18.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading18.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
@@ -512,48 +732,40 @@
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_weiqu.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_weiqu.png"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_player_pause.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_player_pause.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_player_start.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_player_start.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_ku.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_ku.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_diaoling.png",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_diaoling.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exam_select_p.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\ic_exam_select_p.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_banku.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_banku.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\design_ic_visibility_off.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading08.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading08.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_xigua.png",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_xigua.png"
     },
     {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\design_ic_visibility_off.png",
+        "source": "C:\\Users\\codyy\\.android\\build-cache\\7b8de2d965f7fc772e6e369460dc39f8c37319ff\\output\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_xiaoma.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_xiaoma.png"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading02.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading02.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
@@ -564,36 +776,24 @@
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_gouyin.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exam_video_stop.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\ic_exam_video_stop.png"
-    },
-    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_ruo.png",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_ruo.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_ganga.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_ganga.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_dahaqian.png",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_dahaqian.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_boxing_check_black.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\boxing-impl\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_boxing_check_black.png"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading07.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading07.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_zhuzhu.png",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_zhuzhu.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_keai.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_keai.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_exam_media_stop.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\ic_exam_media_stop.png"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading01.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading01.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
@@ -608,10 +808,6 @@
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_toutong.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_toutong.png"
-    },
-    {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_baobao.png",
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_baobao.png"
     },
@@ -620,8 +816,12 @@
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_meigui.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_meigui.png"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\img_default.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\img_default.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_palyer_brightness.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\ic_palyer_brightness.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
@@ -632,12 +832,8 @@
         "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_qiudale.png"
     },
     {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_bishou.png",
-        "source": "D:\\Project\\szSchool_android-master-new\\iSchool\\src\\main\\res\\drawable-xhdpi\\em_bishou.png"
-    },
-    {
-        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
-        "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading11.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading11.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\em_haixiu.png",
@@ -646,6 +842,10 @@
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
         "source": "C:\\Users\\codyy\\.android\\build-cache\\16731b567073a2bdf7bb79081b96dc0e2f48a1a7\\output\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\loading17.png",
+        "source": "D:\\Project\\szSchool_android-master-new\\nicevideoplayer\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\loading17.png"
     },
     {
         "merged": "D:\\Project\\szSchool_android-master-new\\iSchool\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",

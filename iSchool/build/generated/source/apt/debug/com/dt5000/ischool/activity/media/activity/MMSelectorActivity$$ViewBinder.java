@@ -8,10 +8,10 @@ import butterknife.ButterKnife.ViewBinder;
 public class MMSelectorActivity$$ViewBinder<T extends com.dt5000.ischool.activity.media.activity.MMSelectorActivity> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131559032, "field 'mToolbar'");
-    target.mToolbar = finder.castView(view, 2131559032, "field 'mToolbar'");
-    view = finder.findRequiredView(source, 2131559062, "field 'mTitle'");
-    target.mTitle = finder.castView(view, 2131559062, "field 'mTitle'");
+    view = finder.findRequiredView(source, 2131559033, "field 'mToolbar'");
+    target.mToolbar = finder.castView(view, 2131559033, "field 'mToolbar'");
+    view = finder.findRequiredView(source, 2131559063, "field 'mTitle'");
+    target.mTitle = finder.castView(view, 2131559063, "field 'mTitle'");
   }
 
   @Override public void unbind(T target) {

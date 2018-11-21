@@ -40,7 +40,7 @@ public class MMVideoGridAdapter extends MMBaseRecyclerViewAdapter<MMVideoBean> {
         super.onBindViewHolder(viewHolder, position);
         ((NormalRecyclerViewHolder) viewHolder).tvTime.setVisibility(View.VISIBLE);
         if (position == 0) {
-            ((NormalRecyclerViewHolder) viewHolder).ivThumbsNails.setImageURI(Uri.parse("res://com.codyy.erpsportal/" + R.drawable.ic_exam_video_open));
+            ((NormalRecyclerViewHolder) viewHolder).ivThumbsNails.setImageURI(Uri.parse("res://com.codyy.erpsportal/" + R.drawable.ic_exam_camera));
             ((NormalRecyclerViewHolder) viewHolder).tvTime.setVisibility(View.GONE);
         } else {
             final NormalRecyclerViewHolder albumHolder = (NormalRecyclerViewHolder) viewHolder;
@@ -49,6 +49,10 @@ public class MMVideoGridAdapter extends MMBaseRecyclerViewAdapter<MMVideoBean> {
             ((NormalRecyclerViewHolder) viewHolder).tvTime.setText(list.get(position).getTime());
         }
     }
+
+
+
+
 
     private void setController(String path, NormalRecyclerViewHolder albumHolder) {
         ImageRequestBuilder imageRequestBuilder = ImageRequestBuilder.newBuilderWithSource(Uri.parse("file://" + path));
