@@ -32,8 +32,8 @@ public interface UrlProtocol {
      * <br>
      */
     // 苏州学堂
-    String MAIN_HOST = "http://61.155.146.199:8080/mobile/service.do";
-//    String MAIN_HOST = "http://sz.aroundu.net/mobile/service.do";//最初地址
+//    String MAIN_HOST = "http://61.155.146.199:8080/mobile/service.do";
+    String MAIN_HOST = "http://sz.aroundu.net/mobile/service.do";//最初地址
 //    String MAIN_HOST = "http://61.155.146.199/mobile/service.do";
     // 点通学堂
     // String MAIN_HOST = "http://www.aroundu.net/home/service.do";
@@ -52,8 +52,8 @@ public interface UrlProtocol {
     /**
      * homework项目地址
      */
-    String HOMEWORK_HOST = "http://61.155.146.199:8080/";
-    //String HOMEWORK_HOST = "http://sz.aroundu.net/";// 苏州学堂 线上地址
+ //   String HOMEWORK_HOST = "http://61.155.146.199:8080/";
+    String HOMEWORK_HOST = "http://sz.aroundu.net/";// 苏州学堂 线上地址
     //String HOMEWORK_HOST = "http://222.92.129.82:60080/";// 苏州学堂
     // String HOMEWORK_HOST = "http://www.aroundu.net/";// 点通学堂
     // String HOMEWORK_HOST = "http://192.168.128.90:8080/";// 点通学堂
@@ -71,8 +71,8 @@ public interface UrlProtocol {
     /**
      * 附件地址
      */
-    String FILE_ATTACH = "http://61.155.146.199:8080/attchment/homework/";//测试地址
-    //String FILE_ATTACH = HOMEWORK_HOST + "attchment/homework/";//线上地址
+    //String FILE_ATTACH = "http://61.155.146.199:8080/attchment/homework/";//测试地址
+    String FILE_ATTACH = HOMEWORK_HOST + "attchment/homework/";//线上地址
     // String FILE_ATTACH ="http://222.92.129.82:60080/attchment/homework/";
 
     /**

@@ -119,7 +119,7 @@ public class DBHelper extends SQLiteOpenHelper {
                 groupSql.append("				headpic TEXT, ");
                 groupSql.append("				constraint pk_t1 PRIMARY KEY (group_message_id, owner) )");
                 db.execSQL(groupSql.toString());
-            }else if(oldVersion == 4){
+            }else if(newVersion == 5){
                 MLog.i("数据库升级，由版本4升级为版本5");
                 String addColumnGroupMsg = "ALTER TABLE group_message ADD COLUMN video_url TEXT";
                 db.execSQL(addColumnGroupMsg);

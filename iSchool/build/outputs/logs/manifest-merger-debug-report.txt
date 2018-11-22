@@ -19,7 +19,6 @@ ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManife
 		ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from D:\Project\szSchool_android-master-new\iSchool\src\main\AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:multidex:1.0.1] C:\Users\codyy\.android\build-cache\d4c10cbb90d5024bd4255c7dc7115eb6bfdf41c4\output\AndroidManifest.xml:18:5-42
 MERGED from [com.facebook.fresco:fresco:0.14.1] C:\Users\codyy\.android\build-cache\0bc3005f0a101b6009ad99e43ab70147ca43f095\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:drawee:0.14.1] C:\Users\codyy\.android\build-cache\85e8b1425023f5f9798f449161a30b8bde5c789e\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline:0.14.1] C:\Users\codyy\.android\build-cache\33caedb5f31e99e6a73ad3a5d25263c51ad3ba62\output\AndroidManifest.xml:5:5-7:41
@@ -34,6 +33,7 @@ MERGED from [com.chensl.rotatephotoview:rotatephotoview:1.0.5] C:\Users\codyy\.a
 MERGED from [com.github.codyyeachann:boxing:0.5.5] C:\Users\codyy\.android\build-cache\5df634cba79de420f7ae57c0b33965261338af64\output\AndroidManifest.xml:23:5-25:41
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\codyy\.android\build-cache\54f7f5420151ceea8c1b5f98d4fa3eebd950c215\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\codyy\.android\build-cache\7573b3a5ec0d6dc112c4e54fd911f843dee01431\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\codyy\.android\build-cache\d4c10cbb90d5024bd4255c7dc7115eb6bfdf41c4\output\AndroidManifest.xml:18:5-42
 MERGED from [com.trello:rxlifecycle-components:1.0] C:\Users\codyy\.android\build-cache\386f6203f951ce9587f0c43a4d936b9110af2f21\output\AndroidManifest.xml:17:5-44
 MERGED from [com.trello:rxlifecycle-android:1.0] C:\Users\codyy\.android\build-cache\a81f38b47d25dd67c15827257a411a9c5b2f1b66\output\AndroidManifest.xml:17:5-44
 MERGED from [com.jakewharton.rxbinding:rxbinding:0.4.0] C:\Users\codyy\.android\build-cache\778115f0d36b2de8f3f2403775e690f79e698db9\output\AndroidManifest.xml:6:5-44
