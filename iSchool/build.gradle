@@ -12,7 +12,7 @@ android {
 
     defaultConfig {
         applicationId "com.dt5000.ischool"
-        minSdkVersion 19
+        minSdkVersion 21
         targetSdkVersion 25
         multiDexEnabled true
     }
@@ -45,6 +45,7 @@ android {
 }
 
 dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
     compile project(':lib_Qiniu')
     compile project(':lib_WheelView')
     compile files('libs/alipaySdk-20160223.jar')

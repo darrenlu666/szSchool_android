@@ -31,19 +31,6 @@ public class VideoUtil {
         manager.enqueue(request);
     }
 
-    /**
-     * 去外部存储设备中读取
-     *
-     * @param fileName
-     * @return
-     */
-    public static File getFile(String fileName) {
-        File f = new File(Environment.getExternalStorageDirectory() + "/download/" + fileName);
-        if (f.exists())
-            return f;
-        return null;
-    }
-
 
     public static void downLoadFile(String url, String path) {
         DownLoadTask task = new DownLoadTask(url, path);

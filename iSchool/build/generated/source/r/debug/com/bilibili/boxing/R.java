@@ -556,7 +556,7 @@ public final class R {
         public static final int action_mode_bar_stub = 0x7f0d007f;
         public static final int action_mode_close_button = 0x7f0d0062;
         public static final int action_text = 0x7f0d027c;
-        public static final int actions = 0x7f0d028a;
+        public static final int actions = 0x7f0d0289;
         public static final int activity_chooser_view_content = 0x7f0d0063;
         public static final int add = 0x7f0d0033;
         public static final int alertTitle = 0x7f0d0077;
@@ -582,7 +582,7 @@ public final class R {
         public static final int home = 0x7f0d0008;
         public static final int homeAsUp = 0x7f0d0029;
         public static final int icon = 0x7f0d0068;
-        public static final int icon_group = 0x7f0d028b;
+        public static final int icon_group = 0x7f0d028a;
         public static final int ifRoom = 0x7f0d005b;
         public static final int image = 0x7f0d0065;
         public static final int info = 0x7f0d0287;
@@ -603,7 +603,7 @@ public final class R {
         public static final int progress_circular = 0x7f0d000a;
         public static final int progress_horizontal = 0x7f0d000b;
         public static final int radio = 0x7f0d007c;
-        public static final int right_icon = 0x7f0d0289;
+        public static final int right_icon = 0x7f0d028b;
         public static final int right_side = 0x7f0d0284;
         public static final int screen = 0x7f0d0035;
         public static final int scrollIndicatorDown = 0x7f0d0072;

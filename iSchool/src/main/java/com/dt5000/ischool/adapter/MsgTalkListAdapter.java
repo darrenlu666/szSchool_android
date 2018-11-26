@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.graphics.Bitmap;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.provider.MediaStore;
 import android.support.v4.content.ContextCompat;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -156,58 +157,52 @@ public class MsgTalkListAdapter extends BaseAdapter {
             Log.i("myself", "自己发送消息头像----" + user.getProfileUrl());
 
             // 图片
-            String imageUrl = message.getImageUrl();
-            if (!CheckUtil.stringIsBlank(imageUrl) && !VideoUtil.isVideo(imageUrl)) {
-                viewHolder.img_pic_right.setVisibility(View.VISIBLE);
-                viewHolder.img_emoji_right.setVisibility(View.GONE);
-                String smallImg = UrlProtocol.SMALL_IMAGE + imageUrl;
-                String middleImg = UrlProtocol.MIDDLE_IMAGE + imageUrl;
-                String largeImg = UrlProtocol.LARGE_IMAGE + imageUrl;
-                MLog.i("小图：" + smallImg);
-                MLog.i("中图：" + middleImg);
-                MLog.i("大图：" + largeImg);
-                imageLoader.loadImage(middleImg,
-                        new MySimpleImageLoadingListener(
-                                viewHolder.img_pic_right, smallImg));
-                viewHolder.img_pic_right
-                        .setOnClickListener(new ImgClickListener(largeImg));
-            } else {
-                viewHolder.img_pic_right.setVisibility(View.GONE);
-            }
+            final String imageUrl = message.getImageUrl();
+            if (!CheckUtil.stringIsBlank(imageUrl)) {
+                if (ImageUtil.isImage(imageUrl)) {
+                    viewHolder.img_pic_right.setVisibility(View.VISIBLE);
+                    viewHolder.img_emoji_right.setVisibility(View.GONE);
+                    viewHolder.img_video_play_right.setVisibility(View.GONE);
+                    String smallImg = UrlProtocol.SMALL_IMAGE + imageUrl;
+                    String middleImg = UrlProtocol.MIDDLE_IMAGE + imageUrl;
+                    String largeImg = UrlProtocol.LARGE_IMAGE + imageUrl;
+                    viewHolder.img_pic_right.setTag(smallImg);
+                    MLog.i("小图：" + smallImg);
+                    MLog.i("中图：" + middleImg);
+                    MLog.i("大图：" + largeImg);
+                    imageLoader.loadImage(middleImg,
+                            new MySimpleImageLoadingListener(
+                                    viewHolder.img_pic_right, smallImg));
+                    viewHolder.img_pic_right
+                            .setOnClickListener(new ImgClickListener(largeImg));
+                } else if (VideoUtil.isVideo(imageUrl)) {
+                    final String localPath = mMsgLocalPathDBManager.getPath(message.getMessageId());
+                    viewHolder.img_pic_right.setVisibility(View.VISIBLE);
+                    viewHolder.img_emoji_right.setVisibility(View.GONE);
+                    viewHolder.img_video_play_right.setVisibility(View.VISIBLE);
+                    viewHolder.img_pic_right.setImageResource(R.drawable.video_play);
+                    viewHolder.img_pic_right.setBackgroundColor(ContextCompat.getColor(context, R.color.primary_light));
 
-            //视频
-            final String videoUrl = VideoUtil.isVideo(message.getImageUrl()) ? message.getImageUrl() : null;
-            if (!CheckUtil.stringIsBlank(videoUrl)) {
-                final String localPath = mMsgLocalPathDBManager.getPath(message.getMessageId());
-                viewHolder.img_pic_right.setVisibility(View.VISIBLE);
-                viewHolder.img_emoji_right.setVisibility(View.GONE);
-                viewHolder.img_video_play_right.setVisibility(View.VISIBLE);
-                viewHolder.img_pic_right.setImageResource(R.drawable.video_play);
-                viewHolder.img_pic_right.setBackgroundColor(ContextCompat.getColor(context, R.color.primary_light));
-
-                viewHolder.img_pic_right.setTag(videoUrl);
-                viewHolder.img_pic_right.setOnClickListener(null);
-                Bitmap bm = ImageUtil.getBitmapFromDCIM(videoUrl);
-                if (bm == null) {
-                    new ThumbLoadTask(viewHolder.img_pic_right, videoUrl).execute();
-                } else {
-                    viewHolder.img_pic_right.setImageBitmap(bm);
+                    viewHolder.img_pic_right.setTag(imageUrl);
+                    viewHolder.img_pic_right.setOnClickListener(null);
+                    new ThumbLoadTask(viewHolder.img_pic_right, imageUrl).execute();
+                    viewHolder.img_video_play_right.setOnClickListener(new OnClickListener() {
+                        @Override
+                        public void onClick(View v) {
+                            Intent intent = new Intent(context, PlayVideoActivity3.class);
+                            if (localPath != null) {
+                                intent.putExtra("videoLocalUrl", localPath);
+                            }
+                            intent.putExtra("videoUrl", VIDEO_HOST + imageUrl);
+                            intent.putExtra("isSelf", true);
+                            intent.putExtra("videoName", imageUrl);
+                            context.startActivity(intent);
+                        }
+                    });
                 }
 
-                viewHolder.img_video_play_right.setOnClickListener(new OnClickListener() {
-                    @Override
-                    public void onClick(View v) {
-                        Intent intent = new Intent(context, PlayVideoActivity3.class);
-                        if(localPath != null){
-                            intent.putExtra("videoLocalUrl", localPath);
-                        }
-                        intent.putExtra("videoUrl", VIDEO_HOST + videoUrl);
-                        intent.putExtra("isSelf",true);
-                        intent.putExtra("videoName", videoUrl);
-                        context.startActivity(intent);
-                    }
-                });
             } else {
+                viewHolder.img_pic_right.setVisibility(View.GONE);
                 viewHolder.img_video_play_right.setVisibility(View.GONE);
             }
 
@@ -236,51 +231,45 @@ public class MsgTalkListAdapter extends BaseAdapter {
             imageLoader.displayImage(message.getProfileUrl(), viewHolder.img_head_left);
             Log.i("myself", "别人发送信息头像----" + message.getProfileUrl());
             // 图片
-            String imageUrl = message.getImageUrl();
-            if (!CheckUtil.stringIsBlank(imageUrl) && !VideoUtil.isVideo(imageUrl)) {
-                viewHolder.img_pic_left.setVisibility(View.VISIBLE);
-                viewHolder.img_emoji_left.setVisibility(View.GONE);
-                String smallImg = UrlProtocol.SMALL_IMAGE + imageUrl;
-                String middleImg = UrlProtocol.MIDDLE_IMAGE + imageUrl;
-                String largeImg = UrlProtocol.LARGE_IMAGE + imageUrl;
-                MLog.i("小图：" + smallImg);
-                MLog.i("中图：" + middleImg);
-                MLog.i("大图：" + largeImg);
-                imageLoader.loadImage(middleImg,
-                        new MySimpleImageLoadingListener(
-                                viewHolder.img_pic_left, smallImg));
-                viewHolder.img_pic_left.setOnClickListener(new ImgClickListener(largeImg));
-            } else {
-                viewHolder.img_pic_left.setVisibility(View.GONE);
-            }
+            final String imageUrl = message.getImageUrl();
+            if(!CheckUtil.stringIsBlank(imageUrl)){
+                if(ImageUtil.isImage(imageUrl)){
+                    viewHolder.img_pic_left.setVisibility(View.VISIBLE);
+                    viewHolder.img_emoji_left.setVisibility(View.GONE);
+                    viewHolder.img_video_play_left.setVisibility(View.GONE);
+                    String smallImg = UrlProtocol.SMALL_IMAGE + imageUrl;
+                    String middleImg = UrlProtocol.MIDDLE_IMAGE + imageUrl;
+                    String largeImg = UrlProtocol.LARGE_IMAGE + imageUrl;
+                    viewHolder.img_pic_left.setTag(smallImg);
+                    MLog.i("小图：" + smallImg);
+                    MLog.i("中图：" + middleImg);
+                    MLog.i("大图：" + largeImg);
+                    imageLoader.loadImage(middleImg,
+                            new MySimpleImageLoadingListener(
+                                    viewHolder.img_pic_left, smallImg));
+                    viewHolder.img_pic_left.setOnClickListener(new ImgClickListener(largeImg));
+                }else if(VideoUtil.isVideo(imageUrl)){
+                    viewHolder.img_pic_left.setVisibility(View.VISIBLE);
+                    viewHolder.img_emoji_left.setVisibility(View.GONE);
+                    viewHolder.img_video_play_left.setVisibility(View.VISIBLE);
+                    viewHolder.img_pic_left.setImageResource(R.drawable.video_play);
+                    viewHolder.img_pic_left.setBackgroundColor(ContextCompat.getColor(context, R.color.primary_light));
 
-            //视频
-            final String videoUrl = VideoUtil.isVideo(message.getImageUrl()) ? message.getImageUrl() : null;
-            if (!CheckUtil.stringIsBlank(videoUrl)) {
-                viewHolder.img_pic_left.setVisibility(View.VISIBLE);
-                viewHolder.img_emoji_left.setVisibility(View.GONE);
-                viewHolder.img_video_play_left.setVisibility(View.VISIBLE);
-                viewHolder.img_pic_left.setImageResource(R.drawable.video_play);
-                viewHolder.img_pic_left.setBackgroundColor(ContextCompat.getColor(context, R.color.primary_light));
-
-                viewHolder.img_pic_left.setTag(videoUrl);
-                viewHolder.img_pic_left.setOnClickListener(null);
-                Bitmap bm = ImageUtil.getBitmapFromDCIM(videoUrl);
-                if(bm != null){
-                    viewHolder.img_pic_left.setImageBitmap(bm);
-                }else{
-                    new ThumbLoadTask(viewHolder.img_pic_left, videoUrl).execute();
+                    viewHolder.img_pic_left.setTag(imageUrl);
+                    viewHolder.img_pic_left.setOnClickListener(null);
+                    new ThumbLoadTask(viewHolder.img_pic_left, imageUrl).execute();
+                    viewHolder.img_video_play_left.setOnClickListener(new OnClickListener() {
+                        @Override
+                        public void onClick(View v) {
+                            Intent intent = new Intent(context, PlayVideoActivity3.class);
+                            intent.putExtra("videoUrl", VIDEO_HOST + imageUrl);
+                            intent.putExtra("videoName", imageUrl);
+                            context.startActivity(intent);
+                        }
+                    });
                 }
-                viewHolder.img_video_play_left.setOnClickListener(new OnClickListener() {
-                    @Override
-                    public void onClick(View v) {
-                        Intent intent = new Intent(context, PlayVideoActivity3.class);
-                        intent.putExtra("videoUrl", VIDEO_HOST + videoUrl);
-                        intent.putExtra("videoName", videoUrl);
-                        context.startActivity(intent);
-                    }
-                });
-            } else {
+            }else{
+                viewHolder.img_video_play_left.setVisibility(View.GONE);
                 viewHolder.img_video_play_left.setVisibility(View.GONE);
             }
 
@@ -317,7 +306,11 @@ public class MsgTalkListAdapter extends BaseAdapter {
 
         @Override
         protected Bitmap doInBackground(String... strings) {
-            Bitmap bm = ImageUtil.getVideoThumb(VIDEO_HOST + mUrl, mUrl);
+            if (mImageView == null || mImageView.get() == null) return null;
+            Bitmap bm = ImageUtil.getBitmapFromDCIM(mImageView.get().getContext(), mUrl);
+            if (bm == null) {
+                bm = ImageUtil.getVideoThumb(mImageView.get().getContext(), VIDEO_HOST + mUrl, mUrl);
+            }
             return bm;
         }
 
@@ -329,7 +322,6 @@ public class MsgTalkListAdapter extends BaseAdapter {
                     mImageView.get().setImageResource(R.drawable.pic_default);
                 } else if (mImageView.get().getTag().equals(mUrl)) {
                     mImageView.get().setImageBitmap(bitmap);
-                    mImageView.get().invalidate();
                 }
         }
     }
@@ -372,7 +364,8 @@ public class MsgTalkListAdapter extends BaseAdapter {
             int width = loadedImage.getWidth() / 2;
             int height = loadedImage.getHeight() / 2;
             Bitmap bm = Bitmap.createScaledBitmap(loadedImage, width, height, true);
-            imageView.setImageBitmap(bm);
+            if (smallPic.equals(imageView.getTag()))
+                imageView.setImageBitmap(bm);
         }
 
         @Override

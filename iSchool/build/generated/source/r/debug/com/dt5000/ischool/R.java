@@ -4792,7 +4792,7 @@ containing a value of this type.
         public static final int action_mode_bar_stub=0x7f0d007f;
         public static final int action_mode_close_button=0x7f0d0062;
         public static final int action_text=0x7f0d027c;
-        public static final int actions=0x7f0d028a;
+        public static final int actions=0x7f0d0289;
         public static final int activity_chooser_view_content=0x7f0d0063;
         public static final int add=0x7f0d0033;
         public static final int addRelevancyUserLayout=0x7f0d0215;
@@ -4980,7 +4980,7 @@ containing a value of this type.
         public static final int home=0x7f0d0008;
         public static final int homeAsUp=0x7f0d0029;
         public static final int icon=0x7f0d0068;
-        public static final int icon_group=0x7f0d028b;
+        public static final int icon_group=0x7f0d028a;
         public static final int ifRoom=0x7f0d005b;
         public static final int image=0x7f0d0065;
         public static final int imageView_read=0x7f0d012a;
@@ -5275,7 +5275,7 @@ containing a value of this type.
         public static final int restart_or_pause=0x7f0d02a7;
         public static final int retry=0x7f0d02a3;
         public static final int right=0x7f0d0044;
-        public static final int right_icon=0x7f0d0289;
+        public static final int right_icon=0x7f0d028b;
         public static final int right_side=0x7f0d0284;
         public static final int rl_bottom_bar=0x7f0d0161;
         public static final int rl_item_video_list=0x7f0d0275;

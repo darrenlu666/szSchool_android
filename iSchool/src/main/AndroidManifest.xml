@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.dt5000.ischool"
     android:versionCode="56"
-    android:versionName="2.3.0">
+    android:versionName="2.3.3">
 
     <uses-sdk
         android:minSdkVersion="9"

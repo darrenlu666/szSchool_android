@@ -2,10 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.dt5000.ischool"
     android:versionCode="56"
-    android:versionName="2.3.0" >
+    android:versionName="2.3.3" >
 
     <uses-sdk
-        android:minSdkVersion="19"
+        android:minSdkVersion="21"
         android:targetSdkVersion="25" />
 
     <supports-screens

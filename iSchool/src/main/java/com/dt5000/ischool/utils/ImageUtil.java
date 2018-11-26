@@ -10,6 +10,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.net.URLConnection;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.HashMap;
@@ -25,9 +26,12 @@ import android.graphics.Matrix;
 import android.media.MediaMetadataRetriever;
 import android.media.ThumbnailUtils;
 import android.net.Uri;
+import android.os.AsyncTask;
 import android.os.Environment;
 import android.provider.MediaStore;
 import android.util.Log;
+
+import com.dt5000.ischool.activity.PlayVideoActivity3;
 
 import retrofit2.http.Url;
 
@@ -142,9 +146,9 @@ public class ImageUtil {
      * @param bmp
      * @return
      */
-    public static File saveBitmapToDCIM(Bitmap bmp, String filePath) {
-        File savefile = new File(Environment.getExternalStorageDirectory()+"/DCIM/Camera/",
-                filePath.substring(0,filePath.lastIndexOf("."))+".jpg");
+    public static File saveBitmapToDCIM(Context context, Bitmap bmp, String filePath) {
+        File savefile = new File(context.getCacheDir(),
+                filePath.substring(0, filePath.lastIndexOf(".")) + ".jpg");
 
         try {
             FileOutputStream fos = new FileOutputStream(savefile);
@@ -159,9 +163,8 @@ public class ImageUtil {
         return savefile;
     }
 
-    public static Bitmap getBitmapFromDCIM(String filePath) {
-        String fullPath = Environment.getExternalStorageDirectory() +
-                "/DCIM/Camera/" + filePath.substring(0,filePath.lastIndexOf("."))+".jpg";
+    public static Bitmap getBitmapFromDCIM(Context context, String filePath) {
+        String fullPath = context.getCacheDir() + "/" + filePath.substring(0, filePath.lastIndexOf(".")) + ".jpg";
         return decodeBitmapWithInSampleSize(fullPath, 300);
         //return BitmapFactory.decodeFile(fullPath);
     }
@@ -336,15 +339,14 @@ public class ImageUtil {
      *
      * @return Bitmap 返回获取的Bitmap
      */
-    public static Bitmap getVideoThumb(String fullPath,String mUrl) {
+    public static Bitmap getVideoThumb(Context context, String fullPath, String mUrl) {
         MediaMetadataRetriever media = new MediaMetadataRetriever();
         try {
             URL url = new URL(fullPath);
             url.openStream();
             media.setDataSource(fullPath, new HashMap<String, String>());
             Bitmap bm = zoomBitmap(media.getFrameAtTime(), 300, 300);
-            //Bitmap bm = zoomBitmap(media.getFrameAtTime(-1), 500, 500);
-            ImageUtil.saveBitmapToDCIM(bm, mUrl);
+            ImageUtil.saveBitmapToDCIM(context, bm, mUrl);
             return bm;
         } catch (Exception e) {
             e.printStackTrace();
@@ -359,8 +361,8 @@ public class ImageUtil {
             if (filePath.startsWith("http://")
                     || filePath.startsWith("https://")
                     || filePath.startsWith("widevine://")) {
-                retriever.setDataSource(filePath,new Hashtable<String, String>());
-            }else {
+                retriever.setDataSource(filePath, new Hashtable<String, String>());
+            } else {
                 retriever.setDataSource(filePath);
             }
             bitmap = retriever.getFrameAtTime(-1);
@@ -420,6 +422,15 @@ public class ImageUtil {
             }
             context.sendBroadcast(new Intent(Intent.ACTION_MEDIA_SCANNER_SCAN_FILE, Uri.fromFile(new File(path))));
         }
+    }
+
+    public static boolean isImage(String url) {
+        url = url.toLowerCase();
+        if (url.contains(".jpg") ||
+                url.contains(".png") ||
+                url.contains(".webP") ||
+                url.contains("jpeg")) return true;
+        return false;
     }
 
 }

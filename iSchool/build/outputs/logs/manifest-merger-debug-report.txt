@@ -53,10 +53,12 @@ MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\cody
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\9887d71ee097034c188be89ff2c76154e5557292\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\b195b5e9ffd5826ff658b0cdce5537c31e92a8fa\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\9eeb288e980664802bf5529ef0a578820735cd0c\output\AndroidManifest.xml:21:5-23:58
-MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.3] C:\Users\codyy\.android\build-cache\4b55773d39f38685ae725b75fbd75e8b55b7f692\output\AndroidManifest.xml:5:5-7:41
-MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.3] C:\Users\codyy\.android\build-cache\4b54c9de92b7193769f88268d1933bfc99672056\output\AndroidManifest.xml:5:5-7:41
-MERGED from [tv.danmaku.ijk.media:ijkplayer-armv5:0.8.3] C:\Users\codyy\.android\build-cache\08ac40a00550fc60b558a7afd8545eecdd092cc8\output\AndroidManifest.xml:5:5-7:41
-MERGED from [tv.danmaku.ijk.media:ijkplayer-x86:0.8.3] C:\Users\codyy\.android\build-cache\430963d77cfa5f6dd313b27acf2b02d71b99027f\output\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.2] C:\Users\codyy\.android\build-cache\1eb4af47d24e94361ce76f783a4c8c84969a11bf\output\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.2] C:\Users\codyy\.android\build-cache\d4d09343074e306a7afd04d65b2e66e4bad6a26b\output\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv5:0.8.2] C:\Users\codyy\.android\build-cache\8cedf5d653f8f5475039f67bb5d41a0f66027036\output\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-arm64:0.8.2] C:\Users\codyy\.android\build-cache\21a5a152eb5c17342727a268296283ee8f599ef7\output\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-x86:0.8.2] C:\Users\codyy\.android\build-cache\027eb1969526aba10cb58086be041b7e7630f66c\output\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-x86_64:0.8.2] C:\Users\codyy\.android\build-cache\2fb0e76dc121dcaed061aca0933fdde5e12432f1\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\codyy\.android\build-cache\7b8de2d965f7fc772e6e369460dc39f8c37319ff\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
